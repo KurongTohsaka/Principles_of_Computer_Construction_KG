@@ -12,7 +12,7 @@ def trip_blank(raw_texts):
 
 
 def trip_special_chars(tb_texts):
-    tsc_texts = re.sub(r"[^\u4e00-\u9fa5，。：；！、？‘’“”（）]", "", tb_texts)
+    tsc_texts = re.sub(r"[^\u4e00-\u9fa5，。：；！、？‘’“”（）a-zA-Z]", "", tb_texts)
     with open("corpus/tsc_pcc_texts.txt", "w", encoding='utf-8') as f:
         f.write(tsc_texts)
     return tsc_texts
@@ -37,21 +37,21 @@ def cut_token_by_spliting_sentences(tsc_texts):
 
 
 if __name__ == "__main__":
-    with open("raw_corpus/计算机组成原理第3版 (唐朔飞).txt", "r", encoding='utf-8') as f:
-        raw_texts_1 = f.read()
-    with open('raw_corpus/spider_raw_data.txt', 'r', encoding='utf-8') as f:
-        raw_texts_2 = f.read()
+    # with open("raw_corpus/计算机组成原理第3版 (唐朔飞).txt", "r", encoding='utf-8') as f:
+    #     raw_texts_1 = f.read()
     with open("raw_corpus/计算机组成原理-第6版.txt", 'r', encoding='utf-8') as f:
-        raw_texts_3 = f.read()
+        raw_texts_1 = f.read()
+    # with open('raw_corpus/spider_raw_data.txt', 'r', encoding='utf-8') as f:
+    #     raw_texts_2 = f.read()
     with open('raw_corpus/ppts.txt', 'r', encoding='utf-8') as f:
-        raw_texts_4 = f.read()
-    raw_texts = raw_texts_1 + '。' + raw_texts_2 + '。' + raw_texts_3 + '。' + raw_texts_4
+        raw_texts_2 = f.read()
+    raw_texts = raw_texts_1 + '。' + raw_texts_2
     tb_texts = trip_blank(raw_texts)
     tsc_texts = trip_special_chars(tb_texts)
     ct_texts = cut_token_by_spliting_sentences(tsc_texts)
 
-    print(len(raw_texts))
-    print(len(tb_texts))
-    print(len(tsc_texts))
-    print(len(ct_texts))
-    print(ct_texts[0])
+    # print(len(raw_texts))
+    # print(len(tb_texts))
+    # print(len(tsc_texts))
+    # print(len(ct_texts))
+    # print(ct_texts[0])
