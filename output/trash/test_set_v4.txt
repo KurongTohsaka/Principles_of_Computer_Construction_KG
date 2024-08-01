@@ -6,12 +6,12 @@
 花	I-PCC
 链	I-PCC
 结	I-PCC
-构	I-PCC
+构	E-PCC
 是	O
 树	B-PCC
 形	I-PCC
 结	I-PCC
-构	I-PCC
+构	E-PCC
 的	O
 一	O
 种	O
@@ -21,7 +21,7 @@
 况	O
 
 接	B-PCC
-口	I-PCC
+口	E-PCC
 也	O
 需	O
 要	O
@@ -30,12 +30,12 @@
 主	B-PCC
 适	I-PCC
 配	I-PCC
-器	I-PCC
+器	E-PCC
 和	O
 系	B-PCC
 统	I-PCC
 总	I-PCC
-线	I-PCC
+线	E-PCC
 相	O
 连	O
 
@@ -44,7 +44,7 @@
 主	B-PCC
 适	I-PCC
 配	I-PCC
-器	I-PCC
+器	E-PCC
 的	O
 功	O
 能	O
@@ -61,7 +61,7 @@ t	I-PROD
 i	I-PROD
 u	I-PROD
 m	I-PROD
-机	I-PROD
+机	E-PROD
 中	O
 是	O
 集	O
@@ -73,22 +73,22 @@ m	I-PROD
 核	O
 心	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 组	O
 的	O
 P	B-PCC
 C	I-PCC
 I	I-PCC
 总	I-PCC
-线	I-PCC
+线	E-PCC
 到	O
 I	B-PCC
 S	I-PCC
 A	I-PCC
 总	I-PCC
-线	I-PCC
+线	E-PCC
 的	O
-桥	B-PCC
+桥	S-PCC
 芯	O
 片	O
 中	O
@@ -104,14 +104,14 @@ A	I-PCC
 主	O
 适	B-PCC
 配	I-PCC
-器	I-PCC
+器	E-PCC
 的	O
 外	O
 接	O
 端	B-PCC
-口	I-PCC
+口	E-PCC
 插	B-PROD
-座	I-PROD
+座	E-PROD
 
 在	O
 这	O
@@ -120,23 +120,23 @@ A	I-PCC
 主	B-PCC
 适	I-PCC
 配	I-PCC
-器	I-PCC
+器	E-PCC
 及	O
 其	O
 端	B-PCC
-口	I-PCC
+口	E-PCC
 称	O
 为	O
 主	B-PCC
 端	I-PCC
-口	I-PCC
+口	E-PCC
 
 主	B-PCC
 端	I-PCC
-口	I-PCC
+口	E-PCC
 是	O
 接	B-PCC
-口	I-PCC
+口	E-PCC
 树	O
 形	O
 配	O
@@ -146,13 +146,13 @@ A	I-PCC
 的	O
 根	B-PCC
 节	I-PCC
-点	I-PCC
+点	E-PCC
 
 一	O
 个	O
 主	B-PCC
 端	I-PCC
-口	I-PCC
+口	E-PCC
 最	O
 多	O
 可	O
@@ -169,7 +169,7 @@ A	I-PCC
 称	O
 为	O
 节	B-PCC
-点	I-PCC
+点	E-PCC
 ，	O
 它	O
 们	O
@@ -178,19 +178,19 @@ A	I-PCC
 亲	B-PCC
 子	I-PCC
 关	I-PCC
-系	I-PCC
+系	E-PCC
 
 两	O
 个	O
 相	O
 邻	O
 节	B-PCC
-点	I-PCC
+点	E-PCC
 之	O
 间	O
 的	O
 电	B-PROD
-缆	I-PROD
+缆	E-PROD
 最	O
 长	O
 为	O
@@ -200,7 +200,7 @@ m	O
 两	O
 个	O
 节	B-PCC
-点	I-PCC
+点	E-PCC
 之	O
 间	O
 进	O
@@ -217,7 +217,7 @@ m	O
 过	O
 个	O
 节	B-PCC
-点	I-PCC
+点	E-PCC
 的	O
 转	O
 接	O
@@ -238,13 +238,13 @@ m	O
 m	O
 
 电	B-PROD
-缆	I-PROD
+缆	E-PROD
 不	O
 需	O
 要	O
 终	B-PROD
 端	I-PROD
-器	I-PROD
+器	E-PROD
 
 图	O
 给	O
@@ -269,7 +269,7 @@ E	O
 线	B-PCC
 性	I-PCC
 链	I-PCC
-接	I-PCC
+接	E-PCC
 方	O
 式	O
 ，	O
@@ -281,7 +281,7 @@ E	O
 层	I-PCC
 次	I-PCC
 链	I-PCC
-接	I-PCC
+接	E-PCC
 方	O
 式	O
 
@@ -293,7 +293,7 @@ E	O
 树	B-PCC
 形	I-PCC
 结	I-PCC
-构	I-PCC
+构	E-PCC
 
 采	O
 用	O
@@ -301,11 +301,11 @@ E	O
 中	I-PCC
 式	I-PCC
 总	I-PCC
-线	I-PCC
+线	E-PCC
 仲	B-PCC
 裁	I-PCC
 方	I-PCC
-式	I-PCC
+式	E-PCC
 
 中	O
 央	O
@@ -316,7 +316,7 @@ E	O
 在	O
 主	B-PCC
 端	I-PCC
-口	I-PCC
+口	E-PCC
 内	O
 ，	O
 并	O
@@ -332,12 +332,12 @@ E	O
 处	O
 理	O
 节	B-PCC
-点	I-PCC
+点	E-PCC
 提	O
 出	O
 的	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 访	O
 问	O
 请	O
@@ -347,7 +347,7 @@ E	O
 n	O
 个	O
 节	B-PCC
-点	I-PCC
+点	E-PCC
 同	O
 时	O
 提	O
@@ -355,7 +355,7 @@ n	O
 使	O
 用	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 请	O
 求	O
 时	O
@@ -375,7 +375,7 @@ n	O
 近	O
 根	B-PCC
 节	I-PCC
-点	I-PCC
+点	E-PCC
 的	O
 竞	O
 争	O
@@ -394,7 +394,7 @@ n	O
 近	O
 根	B-PCC
 节	I-PCC
-点	I-PCC
+点	E-PCC
 的	O
 竞	O
 争	O
@@ -406,7 +406,7 @@ n	O
 备	I-PCC
 标	I-PCC
 识	I-PCC
-号	I-PCC
+号	E-PCC
 I	O
 D	O
 大	O
@@ -434,7 +434,7 @@ P	O
 备	I-PCC
 标	I-PCC
 识	I-PCC
-号	I-PCC
+号	E-PCC
 是	O
 系	O
 统	O
@@ -458,7 +458,7 @@ P	O
 保	O
 证	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 设	O
 备	O
 的	O
@@ -479,7 +479,7 @@ P	O
 总	B-PCC
 线	I-PCC
 仲	I-PCC
-裁	I-PCC
+裁	E-PCC
 还	O
 增	O
 加	O
@@ -487,23 +487,23 @@ P	O
 均	B-PCC
 等	I-PCC
 仲	I-PCC
-裁	I-PCC
+裁	E-PCC
 和	O
 紧	B-PCC
 急	I-PCC
 仲	I-PCC
-裁	I-PCC
+裁	E-PCC
 功	O
 能	O
 
 均	B-PCC
 等	I-PCC
 仲	I-PCC
-裁	I-PCC
+裁	E-PCC
 是	O
 将	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 时	O
 间	O
 分	O
@@ -540,7 +540,7 @@ P	O
 允	I-PCC
 许	I-PCC
 标	I-PCC
-志	I-PCC
+志	E-PCC
 ，	O
 在	O
 间	O
@@ -554,7 +554,7 @@ P	O
 竞	O
 争	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 的	O
 使	O
 用	O
@@ -564,11 +564,11 @@ P	O
 旦	O
 某	O
 节	B-PCC
-点	I-PCC
+点	E-PCC
 获	O
 得	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 访	O
 问	O
 权	O
@@ -581,7 +581,7 @@ P	O
 允	I-PCC
 许	I-PCC
 标	I-PCC
-志	I-PCC
+志	E-PCC
 被	O
 复	O
 位	O
@@ -598,7 +598,7 @@ P	O
 竞	O
 争	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 ，	O
 以	O
 此	O
@@ -618,12 +618,12 @@ P	O
 独	O
 占	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 
 紧	B-PCC
 急	I-PCC
 仲	I-PCC
-裁	I-PCC
+裁	E-PCC
 是	O
 指	O
 对	O
@@ -656,7 +656,7 @@ P	O
 权	O
 的	O
 节	B-PCC
-点	I-PCC
+点	E-PCC
 可	O
 在	O
 一	O
@@ -673,7 +673,7 @@ P	O
 线	I-PCC
 控	I-PCC
 制	I-PCC
-权	I-PCC
+权	E-PCC
 ，	O
 允	O
 许	O
@@ -682,7 +682,7 @@ P	O
 制	O
 的	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 可	O
 用	O
 时	O
@@ -690,7 +690,7 @@ P	O
 
 协	B-PCC
 议	I-PCC
-集	I-PCC
+集	E-PCC
 的	O
 一	O
 个	O
@@ -710,19 +710,19 @@ P	O
 层	O
 协	B-PCC
 议	I-PCC
-集	I-PCC
+集	E-PCC
 ，	O
 将	O
 串	B-PCC
 行	I-PCC
 总	I-PCC
-线	I-PCC
+线	E-PCC
 与	O
 各	O
 外	B-PCC
 围	I-PCC
 设	I-PCC
-备	I-PCC
+备	E-PCC
 的	O
 交	O
 互	O
@@ -742,7 +742,7 @@ E	O
 的	O
 协	B-PCC
 议	I-PCC
-集	I-PCC
+集	E-PCC
 
 业	O
 务	O
@@ -766,17 +766,17 @@ E	O
 总	B-PCC
 线	I-PCC
 传	I-PCC
-输	I-PCC
+输	E-PCC
 ，	O
 包	O
 括	O
 读	B-PCC
 操	I-PCC
-作	I-PCC
+作	E-PCC
 、	O
 写	B-PCC
 操	I-PCC
-作	I-PCC
+作	E-PCC
 和	O
 锁	O
 定	O
@@ -785,13 +785,13 @@ E	O
 
 链	B-PCC
 路	I-PCC
-层	I-PCC
+层	E-PCC
 可	O
 为	O
 应	B-PCC
 用	I-PCC
 程	I-PCC
-序	I-PCC
+序	E-PCC
 直	O
 接	O
 提	O
@@ -809,10 +809,10 @@ E	O
 支	O
 持	O
 异	B-PCC
-步	I-PCC
+步	E-PCC
 和	O
 等	B-PCC
-步	I-PCC
+步	E-PCC
 的	O
 包	O
 发	O
@@ -825,7 +825,7 @@ E	O
 步	I-PCC
 包	I-PCC
 传	I-PCC
-送	I-PCC
+送	E-PCC
 是	O
 ，	O
 一	O
@@ -847,7 +847,7 @@ E	O
 信	O
 息	O
 字	B-PCC
-节	I-PCC
+节	E-PCC
 作	O
 为	O
 一	O
@@ -880,7 +880,7 @@ E	O
 步	I-PCC
 包	I-PCC
 传	I-PCC
-送	I-PCC
+送	E-PCC
 是	O
 ，	O
 一	O
@@ -918,7 +918,7 @@ E	O
 寻	B-PCC
 址	I-PCC
 方	I-PCC
-式	I-PCC
+式	E-PCC
 ，	O
 不	O
 要	O
@@ -944,15 +944,15 @@ E	O
 为	O
 子	B-PCC
 动	I-PCC
-作	I-PCC
+作	E-PCC
 
 物	B-PCC
 理	I-PCC
-层	I-PCC
+层	E-PCC
 将	O
 链	B-PCC
 路	I-PCC
-层	I-PCC
+层	E-PCC
 的	O
 逻	O
 辑	O
@@ -966,7 +966,7 @@ E	O
 串	B-PCC
 行	I-PCC
 总	I-PCC
-线	I-PCC
+线	E-PCC
 介	O
 质	O
 转	O
@@ -984,10 +984,10 @@ E	O
 串	B-PCC
 行	I-PCC
 总	I-PCC
-线	I-PCC
+线	E-PCC
 的	O
 接	B-PCC
-口	I-PCC
+口	E-PCC
 定	O
 义	O
 了	O
@@ -1006,14 +1006,14 @@ E	O
 串	B-PCC
 行	I-PCC
 接	I-PCC
-口	I-PCC
+口	E-PCC
 的	O
 物	O
 理	O
 拓	B-PCC
 扑	I-PCC
 结	I-PCC
-构	I-PCC
+构	E-PCC
 分	O
 成	O
 “	O
@@ -1036,7 +1036,7 @@ E	O
 总	B-PCC
 线	I-PCC
 规	I-PCC
-范	I-PCC
+范	E-PCC
 并	O
 未	O
 要	O
@@ -1052,7 +1052,7 @@ E	O
 所	O
 有	O
 节	B-PCC
-点	I-PCC
+点	E-PCC
 可	O
 严	O
 格	O
@@ -1072,13 +1072,13 @@ E	O
 连	O
 在	O
 电	B-PROD
-缆	I-PROD
+缆	E-PROD
 上	O
 
 串	B-PCC
 行	I-PCC
 总	I-PCC
-线	I-PCC
+线	E-PCC
 管	O
 理	O
 它	O
@@ -1087,7 +1087,7 @@ E	O
 总	B-PCC
 线	I-PCC
 节	I-PCC
-点	I-PCC
+点	E-PCC
 所	O
 需	O
 的	O
@@ -1100,7 +1100,7 @@ E	O
 态	I-PCC
 寄	I-PCC
 存	I-PCC
-器	I-PCC
+器	E-PCC
 服	O
 务	O
 和	O
@@ -1130,14 +1130,14 @@ O	O
 标	O
 准	O
 接	B-PCC
-口	I-PCC
+口	E-PCC
 
 英	B-CORP
 特	I-CORP
-尔	I-CORP
+尔	E-CORP
 、	O
 微	B-CORP
-软	I-CORP
+软	E-CORP
 等	O
 公	O
 司	O
@@ -1155,7 +1155,7 @@ O	O
 代	O
 P	B-PCC
 C	I-PCC
-机	I-PCC
+机	E-PCC
 新	O
 标	O
 准	O
@@ -1187,7 +1187,7 @@ C	I-PCC
 用	O
 P	B-PCC
 C	I-PCC
-机	I-PCC
+机	E-PCC
 介	O
 入	O
 也	O
@@ -1205,7 +1205,7 @@ C	I-PCC
 数	B-PROD
 字	I-PROD
 相	I-PROD
-机	I-PROD
+机	E-PROD
 直	O
 接	O
 进	O
@@ -1215,7 +1215,7 @@ C	I-PCC
 的	O
 打	B-PCC
 印	I-PCC
-机	I-PCC
+机	E-PCC
 便	O
 可	O
 利	O
@@ -1231,7 +1231,7 @@ C	I-PCC
 着	O
 在	O
 家	B-PROD
-电	I-PROD
+电	E-PROD
 等	O
 消	O
 费	O
@@ -1255,7 +1255,7 @@ C	I-PCC
 I	B-PCC
 O	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 设	O
 计	O
 要	O
@@ -1271,12 +1271,12 @@ O	I-PCC
 时	B-PCC
 延	I-PCC
 约	I-PCC
-束	I-PCC
+束	E-PCC
 和	O
 带	B-PCC
 宽	I-PCC
 约	I-PCC
-束	I-PCC
+束	E-PCC
 
 在	O
 这	O
@@ -1311,11 +1311,11 @@ O	I-PCC
 时	B-PCC
 延	I-PCC
 约	I-PCC
-束	I-PCC
+束	E-PCC
 时	B-PCC
 延	I-PCC
 约	I-PCC
-束	I-PCC
+束	E-PCC
 确	O
 保	O
 完	O
@@ -1325,7 +1325,7 @@ O	I-PCC
 I	B-PCC
 O	I-PCC
 操	I-PCC
-作	I-PCC
+作	E-PCC
 的	O
 延	O
 迟	O
@@ -1389,7 +1389,7 @@ O	I-PCC
 应	B-PCC
 用	I-PCC
 程	I-PCC
-序	I-PCC
+序	E-PCC
 非	O
 常	O
 重	O
@@ -1454,7 +1454,7 @@ O	I-PCC
 I	B-PCC
 O	I-PCC
 操	I-PCC
-作	I-PCC
+作	E-PCC
 的	O
 路	O
 径	O
@@ -1484,7 +1484,7 @@ O	I-PCC
 平	B-PCC
 均	I-PCC
 时	I-PCC
-延	I-PCC
+延	E-PCC
 是	O
 一	O
 个	O
@@ -1519,7 +1519,7 @@ O	I-PCC
 I	B-PCC
 O	I-PCC
 服	I-PCC
-务	I-PCC
+务	E-PCC
 次	O
 数	O
 能	O
@@ -1542,7 +1542,7 @@ O	I-PCC
 I	B-PCC
 O	I-PCC
 事	I-PCC
-件	I-PCC
+件	E-PCC
 的	O
 行	O
 为	O
@@ -1559,7 +1559,7 @@ O	I-PCC
 带	B-PCC
 宽	I-PCC
 约	I-PCC
-束	I-PCC
+束	E-PCC
 给	O
 定	O
 一	O
@@ -1580,12 +1580,12 @@ O	I-PCC
 带	B-PCC
 宽	I-PCC
 约	I-PCC
-束	I-PCC
+束	E-PCC
 的	O
 I	B-PCC
 O	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 是	O
 设	O
 计	O
@@ -1619,7 +1619,7 @@ O	I-PCC
 I	B-PCC
 O	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 ，	O
 要	O
 求	O
@@ -1653,7 +1653,7 @@ O	I-PCC
 最	O
 大	O
 带	B-PCC
-宽	I-PCC
+宽	E-PCC
 
 设	O
 计	O
@@ -1676,7 +1676,7 @@ O	I-PCC
 I	B-PCC
 O	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 中	O
 效	O
 率	O
@@ -1689,7 +1689,7 @@ O	I-PCC
 它	O
 是	O
 I	B-PCC
-O	I-PCC
+O	E-PCC
 路	O
 径	O
 中	O
@@ -1729,28 +1729,28 @@ O	I-PCC
 括	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 、	O
 内	B-PCC
-存	I-PCC
+存	E-PCC
 系	O
 统	O
 、	O
 底	O
 板	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 、	O
 I	B-PCC
 O	I-PCC
 控	I-PCC
 制	I-PCC
-器	I-PCC
+器	E-PCC
 或	O
 I	B-PCC
 O	I-PCC
 设	I-PCC
-计	I-PCC
+计	E-PCC
 
 工	O
 作	O
@@ -1792,7 +1792,7 @@ O	I-PCC
 需	O
 的	O
 带	B-PCC
-宽	I-PCC
+宽	E-PCC
 
 研	O
 究	O
@@ -1817,21 +1817,21 @@ O	I-PCC
 这	O
 个	O
 带	B-PCC
-宽	I-PCC
+宽	E-PCC
 
 各	O
 种	O
 外	B-PCC
 围	I-PCC
 设	I-PCC
-备	I-PCC
+备	E-PCC
 的	O
 数	B-PCC
 据	I-PCC
 传	I-PCC
 输	I-PCC
 速	I-PCC
-率	I-PCC
+率	E-PCC
 相	O
 差	O
 很	O
@@ -1842,18 +1842,18 @@ O	I-PCC
 保	O
 证	O
 主	B-PCC
-机	I-PCC
+机	E-PCC
 与	O
 外	B-PCC
 围	I-PCC
 设	I-PCC
-备	I-PCC
+备	E-PCC
 在	O
 时	O
 间	O
 上	O
 同	B-PCC
-步	I-PCC
+步	E-PCC
 ，	O
 则	O
 涉	O
@@ -1861,7 +1861,7 @@ O	I-PCC
 外	B-PCC
 围	I-PCC
 设	I-PCC
-备	I-PCC
+备	E-PCC
 的	O
 定	O
 时	O
@@ -1874,7 +1874,7 @@ O	I-PCC
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 的	O
 性	O
 能	O
@@ -1886,14 +1886,14 @@ O	I-PCC
 于	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 ，	O
 还	O
 取	O
 决	O
 于	O
 I	B-PCC
-O	I-PCC
+O	E-PCC
 速	O
 度	O
 
@@ -1902,17 +1902,17 @@ O	I-PCC
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 中	O
 ，	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 对	O
 外	B-PCC
 围	I-PCC
 设	I-PCC
-备	I-PCC
+备	E-PCC
 的	O
 管	O
 理	O
@@ -1925,25 +1925,25 @@ U	I-PCC
 查	I-PCC
 询	I-PCC
 方	I-PCC
-式	I-PCC
+式	E-PCC
 ；	O
 程	B-PCC
 序	I-PCC
 中	I-PCC
 断	I-PCC
 方	I-PCC
-式	I-PCC
+式	E-PCC
 ；	O
 D	B-PCC
 M	I-PCC
 A	I-PCC
 方	I-PCC
-式	I-PCC
+式	E-PCC
 ；	O
 通	B-PCC
 道	I-PCC
 方	I-PCC
-式	I-PCC
+式	E-PCC
 
 每	O
 种	O
@@ -1953,10 +1953,10 @@ A	I-PCC
 需	O
 要	O
 硬	B-PCC
-件	I-PCC
+件	E-PCC
 和	O
 软	B-PCC
-件	I-PCC
+件	E-PCC
 结	O
 合	O
 起	O
@@ -1969,17 +1969,17 @@ A	I-PCC
 查	I-PCC
 询	I-PCC
 方	I-PCC
-式	I-PCC
+式	E-PCC
 是	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 管	O
 理	O
 I	B-PCC
 O	I-PCC
 设	I-PCC
-备	I-PCC
+备	E-PCC
 的	O
 最	O
 简	O
@@ -1989,7 +1989,7 @@ O	I-PCC
 ，	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 定	O
 期	O
 执	O
@@ -1999,7 +1999,7 @@ U	I-PCC
 服	O
 务	O
 程	B-PCC
-序	I-PCC
+序	E-PCC
 ，	O
 主	O
 动	O
@@ -2022,7 +2022,7 @@ U	I-PCC
 费	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 的	O
 宝	O
 贵	O
@@ -2034,13 +2034,13 @@ U	I-PCC
 中	I-PCC
 断	I-PCC
 方	I-PCC
-式	I-PCC
+式	E-PCC
 是	O
 各	O
 类	O
 计	B-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 中	O
 广	O
 泛	O
@@ -2060,7 +2060,7 @@ U	I-PCC
 某	O
 一	O
 外	B-PCC
-设	I-PCC
+设	E-PCC
 的	O
 数	O
 据	O
@@ -2078,7 +2078,7 @@ U	I-PCC
 向	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 发	O
 出	O
 请	O
@@ -2088,13 +2088,13 @@ U	I-PCC
 
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 响	O
 应	O
 中	B-PCC
 断	I-PCC
 请	I-PCC
-求	I-PCC
+求	E-PCC
 后	O
 ，	O
 暂	O
@@ -2103,7 +2103,7 @@ U	I-PCC
 行	O
 主	B-PCC
 程	I-PCC
-序	I-PCC
+序	E-PCC
 ，	O
 自	O
 动	O
@@ -2120,7 +2120,7 @@ U	I-PCC
 务	I-PCC
 子	I-PCC
 程	I-PCC
-序	I-PCC
+序	E-PCC
 ，	O
 为	O
 该	O
@@ -2138,14 +2138,14 @@ U	I-PCC
 回	O
 主	B-PCC
 程	I-PCC
-序	I-PCC
+序	E-PCC
 
 中	B-PCC
 断	I-PCC
 处	I-PCC
 理	I-PCC
 过	I-PCC
-程	I-PCC
+程	E-PCC
 可	O
 以	O
 嵌	O
@@ -2155,7 +2155,7 @@ U	I-PCC
 ，	O
 优	B-PCC
 先	I-PCC
-级	I-PCC
+级	E-PCC
 高	O
 的	O
 设	O
@@ -2166,7 +2166,7 @@ U	I-PCC
 断	O
 优	B-PCC
 先	I-PCC
-级	I-PCC
+级	E-PCC
 低	O
 的	O
 中	B-PCC
@@ -2174,11 +2174,11 @@ U	I-PCC
 服	I-PCC
 务	I-PCC
 程	I-PCC
-序	I-PCC
+序	E-PCC
 
 D	B-PCC
 M	I-PCC
-A	I-PCC
+A	E-PCC
 技	O
 术	O
 的	O
@@ -2190,7 +2190,7 @@ A	I-PCC
 外	B-PCC
 围	I-PCC
 设	I-PCC
-备	I-PCC
+备	E-PCC
 可	O
 以	O
 通	O
@@ -2200,13 +2200,13 @@ M	I-PCC
 A	I-PCC
 控	I-PCC
 制	I-PCC
-器	I-PCC
+器	E-PCC
 直	O
 接	O
 访	O
 问	O
 内	B-PCC
-存	I-PCC
+存	E-PCC
 ，	O
 与	O
 此	O
@@ -2215,19 +2215,19 @@ A	I-PCC
 ，	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 可	O
 以	O
 继	O
 续	O
 程	B-PCC
-序	I-PCC
+序	E-PCC
 
 D	B-PCC
 M	I-PCC
 A	I-PCC
 方	I-PCC
-式	I-PCC
+式	E-PCC
 采	O
 用	O
 以	O
@@ -2241,7 +2241,7 @@ A	I-PCC
 止	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 访	O
 内	O
 ；	O
@@ -2252,11 +2252,11 @@ U	I-PCC
 ；	O
 D	B-PCC
 M	I-PCC
-A	I-PCC
+A	E-PCC
 与	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 交	O
 替	O
 访	O
@@ -2267,7 +2267,7 @@ M	I-PCC
 A	I-PCC
 控	I-PCC
 制	I-PCC
-器	I-PCC
+器	E-PCC
 按	O
 其	O
 组	O
@@ -2288,7 +2288,7 @@ A	I-PCC
 类	O
 
 通	B-PCC
-道	I-PCC
+道	E-PCC
 是	O
 一	O
 个	O
@@ -2299,7 +2299,7 @@ A	I-PCC
 的	O
 处	B-PCC
 理	I-PCC
-器	I-PCC
+器	E-PCC
 
 它	O
 有	O
@@ -2307,10 +2307,10 @@ A	I-PCC
 己	O
 的	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 和	O
 程	B-PCC
-序	I-PCC
+序	E-PCC
 专	O
 门	O
 负	O
@@ -2332,7 +2332,7 @@ A	I-PCC
 使	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 将	O
 “	O
 传	O
@@ -2347,11 +2347,11 @@ U	I-PCC
 放	O
 给	O
 通	B-PCC
-道	I-PCC
+道	E-PCC
 ，	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 只	O
 负	O
 责	O
@@ -2368,24 +2368,24 @@ U	I-PCC
 样	O
 ，	O
 通	B-PCC
-道	I-PCC
+道	E-PCC
 与	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 分	O
 时	O
 使	O
 用	O
 内	B-PCC
-存	I-PCC
+存	E-PCC
 ，	O
 实	O
 现	O
 了	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 内	O
 部	O
 的	O
@@ -2397,7 +2397,7 @@ U	I-PCC
 I	B-PCC
 O	I-PCC
 设	I-PCC
-备	I-PCC
+备	E-PCC
 的	O
 平	O
 行	O
@@ -2405,7 +2405,7 @@ O	I-PCC
 作	O
 
 通	B-PCC
-道	I-PCC
+道	E-PCC
 有	O
 两	O
 种	O
@@ -2415,12 +2415,12 @@ O	I-PCC
 选	B-PCC
 择	I-PCC
 通	I-PCC
-道	I-PCC
+道	E-PCC
 ；	O
 多	B-PCC
 路	I-PCC
 通	I-PCC
-道	I-PCC
+道	E-PCC
 
 标	O
 准	O
@@ -2432,29 +2432,29 @@ O	I-PCC
 放	I-PCC
 式	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 的	O
 基	O
 础	O
 
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 、	O
 系	B-PCC
 统	I-PCC
 总	I-PCC
-线	I-PCC
+线	E-PCC
 、	O
 I	B-PCC
 O	I-PCC
 总	I-PCC
-线	I-PCC
+线	E-PCC
 及	O
 标	B-PCC
 准	I-PCC
 接	I-PCC
-口	I-PCC
+口	E-PCC
 技	O
 术	O
 近	O
@@ -2471,22 +2471,22 @@ O	I-PCC
 其	O
 中	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 I	B-PCC
 O	I-PCC
 接	I-PCC
-口	I-PCC
+口	E-PCC
 S	O
 C	O
 S	O
 I	O
 与	O
 串	B-PCC
-行	I-PCC
+行	E-PCC
 I	B-PCC
 O	I-PCC
 接	I-PCC
-口	I-PCC
+口	E-PCC
 I	O
 E	O
 E	O
@@ -2521,7 +2521,7 @@ I	O
 统	I-PCC
 级	I-PCC
 接	I-PCC
-口	I-PCC
+口	E-PCC
 ，	O
 是	O
 处	O
@@ -2529,7 +2529,7 @@ I	O
 主	B-PCC
 适	I-PCC
 配	I-PCC
-器	I-PCC
+器	E-PCC
 和	O
 智	O
 能	O
@@ -2537,16 +2537,16 @@ I	O
 备	I-PCC
 控	I-PCC
 制	I-PCC
-器	I-PCC
+器	E-PCC
 之	O
 间	O
 的	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 I	B-PCC
 O	I-PCC
 接	I-PCC
-口	I-PCC
+口	E-PCC
 ，	O
 改	O
 进	O
@@ -2571,7 +2571,7 @@ I	O
 外	I-PCC
 围	I-PCC
 设	I-PCC
-备	I-PCC
+备	E-PCC
 
 S	O
 C	O
@@ -2584,7 +2584,7 @@ I	O
 在	O
 于	O
 硬	B-PCC
-件	I-PCC
+件	E-PCC
 较	O
 昂	O
 贵	O
@@ -2599,7 +2599,7 @@ I	O
 驱	I-PCC
 动	I-PCC
 程	I-PCC
-序	I-PCC
+序	E-PCC
 和	O
 各	O
 类	O
@@ -2609,7 +2609,7 @@ I	O
 驱	B-PCC
 动	I-PCC
 程	I-PCC
-序	I-PCC
+序	E-PCC
 模	O
 块	O
 的	O
@@ -2622,13 +2622,13 @@ E	O
 E	O
 是	O
 串	B-PCC
-行	I-PCC
+行	E-PCC
 I	B-PCC
 O	I-PCC
 标	I-PCC
 准	I-PCC
 接	I-PCC
-口	I-PCC
+口	E-PCC
 
 与	O
 S	O
@@ -2636,11 +2636,11 @@ C	O
 S	O
 I	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 I	B-PCC
 O	I-PCC
 接	I-PCC
-口	I-PCC
+口	E-PCC
 相	O
 比	O
 ，	O
@@ -2655,7 +2655,7 @@ O	I-PCC
 传	I-PCC
 输	I-PCC
 速	I-PCC
-率	I-PCC
+率	E-PCC
 和	O
 数	O
 据	O
@@ -2712,7 +2712,7 @@ E	O
 不	O
 用	O
 P	B-PCC
-C	I-PCC
+C	E-PCC
 介	O
 入	O
 也	O
@@ -2735,7 +2735,7 @@ I	B-CORP
 n	I-CORP
 t	I-CORP
 e	I-CORP
-l	I-CORP
+l	E-CORP
 、	O
 M	B-CORP
 i	I-CORP
@@ -2745,7 +2745,7 @@ o	I-CORP
 s	I-CORP
 o	I-CORP
 f	I-CORP
-t	I-CORP
+t	E-CORP
 等	O
 公	O
 司	O
@@ -2762,12 +2762,12 @@ t	I-CORP
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 中	O
 的	O
 并	B-PCC
 行	I-PCC
-性	I-PCC
+性	E-PCC
 有	O
 不	O
 同	O
@@ -2779,7 +2779,7 @@ t	I-CORP
 谓	O
 并	B-PCC
 行	I-PCC
-性	I-PCC
+性	E-PCC
 ，	O
 是	O
 指	O
@@ -2787,7 +2787,7 @@ t	I-CORP
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 具	O
 有	O
 可	O
@@ -2810,11 +2810,11 @@ t	I-CORP
 括	O
 同	B-PCC
 时	I-PCC
-性	I-PCC
+性	E-PCC
 与	O
 并	B-PCC
 发	I-PCC
-性	I-PCC
+性	E-PCC
 两	O
 种	O
 含	O
@@ -2822,7 +2822,7 @@ t	I-CORP
 
 同	B-PCC
 时	I-PCC
-性	I-PCC
+性	E-PCC
 两	O
 个	O
 或	O
@@ -2843,7 +2843,7 @@ t	I-CORP
 
 并	B-PCC
 发	I-PCC
-性	I-PCC
+性	E-PCC
 两	O
 个	O
 或	O
@@ -2877,7 +2877,7 @@ t	I-CORP
 ，	O
 并	B-PCC
 行	I-PCC
-性	I-PCC
+性	E-PCC
 等	O
 级	O
 从	O
@@ -2891,7 +2891,7 @@ t	I-CORP
 字	B-PCC
 串	I-PCC
 位	I-PCC
-串	I-PCC
+串	E-PCC
 ：	O
 同	O
 时	O
@@ -2917,7 +2917,7 @@ t	I-CORP
 串	B-PCC
 行	I-PCC
 处	I-PCC
-理	I-PCC
+理	E-PCC
 方	O
 式	O
 ，	O
@@ -2926,12 +2926,12 @@ t	I-CORP
 在	O
 并	B-PCC
 行	I-PCC
-性	I-PCC
+性	E-PCC
 
 字	B-PCC
 串	I-PCC
 位	I-PCC
-并	I-PCC
+并	E-PCC
 ：	O
 同	O
 时	O
@@ -2955,7 +2955,7 @@ t	I-CORP
 间	O
 是	O
 串	B-PCC
-行	I-PCC
+行	E-PCC
 的	O
 
 这	O
@@ -2967,12 +2967,12 @@ t	I-CORP
 现	O
 并	B-PCC
 行	I-PCC
-性	I-PCC
+性	E-PCC
 
 字	B-PCC
 并	I-PCC
 位	I-PCC
-串	I-PCC
+串	E-PCC
 ：	O
 同	O
 时	O
@@ -2999,22 +2999,22 @@ t	I-CORP
 的	O
 并	B-PCC
 行	I-PCC
-性	I-PCC
+性	E-PCC
 
 全	B-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 ：	O
 同	O
 时	O
 对	O
 许	O
 多	O
-字	B-PCC
+字	S-PCC
 的	O
 全	O
 部	O
-位	B-PCC
+位	S-PCC
 进	O
 行	O
 处	O
@@ -3028,13 +3028,13 @@ t	I-CORP
 级	O
 的	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 
 从	O
 执	O
 行	O
 程	B-PCC
-序	I-PCC
+序	E-PCC
 的	O
 角	O
 度	O
@@ -3042,7 +3042,7 @@ t	I-CORP
 ，	O
 并	B-PCC
 行	I-PCC
-性	I-PCC
+性	E-PCC
 等	O
 级	O
 从	O
@@ -3063,28 +3063,28 @@ t	I-CORP
 一	O
 条	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 执	O
 行	O
 时	O
 各	O
 微	B-PCC
 操	I-PCC
-作	I-PCC
+作	E-PCC
 之	O
 间	O
 的	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 
 指	B-PCC
 令	I-PCC
 级	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 ：	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 执	O
 行	O
 两	O
@@ -3093,7 +3093,7 @@ t	I-CORP
 多	O
 条	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 
 任	O
 务	O
@@ -3103,7 +3103,7 @@ t	I-CORP
 程	I-PCC
 级	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 ：	O
 并	O
 行	O
@@ -3120,7 +3120,7 @@ t	I-CORP
 务	O
 程	B-PCC
 序	I-PCC
-段	I-PCC
+段	E-PCC
 
 作	O
 业	O
@@ -3129,7 +3129,7 @@ t	I-CORP
 序	I-PCC
 级	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 ：	O
 并	O
 行	O
@@ -3143,14 +3143,14 @@ t	I-CORP
 业	O
 或	O
 程	B-PCC
-序	I-PCC
+序	E-PCC
 
 在	O
 计	B-PCC
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 中	O
 ，	O
 可	O
@@ -3161,7 +3161,7 @@ t	I-CORP
 种	O
 并	B-PCC
 行	I-PCC
-性	I-PCC
+性	E-PCC
 措	O
 施	O
 
@@ -3178,7 +3178,7 @@ t	I-CORP
 的	O
 并	B-PCC
 行	I-PCC
-性	I-PCC
+性	E-PCC
 ，	O
 又	O
 可	O
@@ -3187,18 +3187,18 @@ t	I-CORP
 执	O
 行	O
 程	B-PCC
-序	I-PCC
+序	E-PCC
 方	O
 面	O
 的	O
 并	B-PCC
 行	I-PCC
-性	I-PCC
+性	E-PCC
 
 当	O
 并	B-PCC
 行	I-PCC
-性	I-PCC
+性	E-PCC
 提	O
 高	O
 到	O
@@ -3214,14 +3214,14 @@ t	I-CORP
 并	B-PCC
 行	I-PCC
 处	I-PCC
-理	I-PCC
+理	E-PCC
 领	O
 域	O
 
 并	B-PCC
 行	I-PCC
 处	I-PCC
-理	I-PCC
+理	E-PCC
 着	O
 重	O
 挖	O
@@ -3233,14 +3233,14 @@ t	I-CORP
 中	O
 的	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 事	O
 件	O
 ，	O
 使	O
 并	B-PCC
 行	I-PCC
-性	I-PCC
+性	E-PCC
 达	O
 到	O
 较	O
@@ -3255,7 +3255,7 @@ t	I-CORP
 并	B-PCC
 行	I-PCC
 处	I-PCC
-理	I-PCC
+理	E-PCC
 是	O
 体	O
 系	O
@@ -3263,18 +3263,18 @@ t	I-CORP
 构	O
 、	O
 硬	B-PCC
-件	I-PCC
+件	E-PCC
 、	O
 软	B-PCC
-件	I-PCC
+件	E-PCC
 、	O
 算	B-PCC
-法	I-PCC
+法	E-PCC
 、	O
 编	B-PCC
 程	I-PCC
 语	I-PCC
-言	I-PCC
+言	E-PCC
 等	O
 多	O
 方	O
@@ -3289,13 +3289,13 @@ t	I-CORP
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 中	O
 提	O
 高	O
 并	B-PCC
 行	I-PCC
-性	I-PCC
+性	E-PCC
 的	O
 措	O
 施	O
@@ -3327,22 +3327,22 @@ t	I-CORP
 时	B-PCC
 间	I-PCC
 重	I-PCC
-叠	I-PCC
+叠	E-PCC
 
 时	B-PCC
 间	I-PCC
 重	I-PCC
-叠	I-PCC
+叠	E-PCC
 即	O
 时	B-PCC
 间	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 
 在	O
 并	B-PCC
 行	I-PCC
-性	I-PCC
+性	E-PCC
 概	O
 念	O
 中	O
@@ -3380,7 +3380,7 @@ t	I-CORP
 一	O
 套	O
 硬	B-PCC
-件	I-PCC
+件	E-PCC
 设	O
 备	O
 的	O
@@ -3393,7 +3393,7 @@ t	I-CORP
 加	O
 快	O
 硬	B-PCC
-件	I-PCC
+件	E-PCC
 周	O
 转	O
 而	O
@@ -3405,7 +3405,7 @@ t	I-CORP
 时	B-PCC
 间	I-PCC
 重	I-PCC
-叠	I-PCC
+叠	E-PCC
 的	O
 实	O
 质	O
@@ -3485,7 +3485,7 @@ t	I-CORP
 时	B-PCC
 间	I-PCC
 重	I-PCC
-叠	I-PCC
+叠	E-PCC
 的	O
 典	O
 型	O
@@ -3495,7 +3495,7 @@ t	I-CORP
 是	O
 流	B-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 技	O
 术	O
 
@@ -3507,17 +3507,17 @@ t	I-CORP
 资	B-PCC
 源	I-PCC
 重	I-PCC
-复	I-PCC
+复	E-PCC
 即	O
 空	B-PCC
 间	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 
 在	O
 并	B-PCC
 行	I-PCC
-性	I-PCC
+性	E-PCC
 概	O
 念	O
 中	O
@@ -3544,7 +3544,7 @@ t	I-CORP
 设	O
 置	O
 硬	B-PCC
-件	I-PCC
+件	E-PCC
 资	O
 源	O
 ，	O
@@ -3557,7 +3557,7 @@ t	I-CORP
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 的	O
 性	O
 能	O
@@ -3565,7 +3565,7 @@ t	I-CORP
 随	O
 着	O
 硬	B-PCC
-件	I-PCC
+件	E-PCC
 价	O
 格	O
 的	O
@@ -3575,12 +3575,12 @@ t	I-CORP
 资	B-PCC
 源	I-PCC
 重	I-PCC
-复	I-PCC
+复	E-PCC
 在	O
 单	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 中	O
 通	O
 过	O
@@ -3592,7 +3592,7 @@ t	I-CORP
 多	B-PCC
 存	I-PCC
 储	I-PCC
-体	I-PCC
+体	E-PCC
 等	O
 方	O
 式	O
@@ -3606,7 +3606,7 @@ t	I-CORP
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 本	O
 身	O
 就	O
@@ -3617,7 +3617,7 @@ t	I-CORP
 资	B-PCC
 源	I-PCC
 重	I-PCC
-复	I-PCC
+复	E-PCC
 ”	O
 原	O
 理	O
@@ -3628,18 +3628,18 @@ t	I-CORP
 时	B-PCC
 间	I-PCC
 重	I-PCC
-叠	I-PCC
+叠	E-PCC
 资	B-PCC
 源	I-PCC
 重	I-PCC
-复	I-PCC
+复	E-PCC
 
 在	O
 计	B-PCC
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 中	O
 同	O
 时	O
@@ -3648,14 +3648,14 @@ t	I-CORP
 时	B-PCC
 间	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 和	O
 空	B-PCC
 间	I-PCC
 并	I-PCC
 行	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 ，	O
 这	O
 种	O
@@ -3666,7 +3666,7 @@ t	I-CORP
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 中	O
 得	O
 到	O
@@ -3679,7 +3679,7 @@ t	I-CORP
 为	O
 并	B-PCC
 行	I-PCC
-性	I-PCC
+性	E-PCC
 主	O
 流	O
 技	O
@@ -3688,22 +3688,22 @@ t	I-CORP
 资	B-PCC
 源	I-PCC
 共	I-PCC
-享	I-PCC
+享	E-PCC
 
 资	B-PCC
 源	I-PCC
 共	I-PCC
-享	I-PCC
+享	E-PCC
 是	O
 一	O
 种	O
 软	B-PCC
-件	I-PCC
+件	E-PCC
 方	O
 法	O
 的	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 ，	O
 它	O
 使	O
@@ -3726,25 +3726,25 @@ t	I-CORP
 一	O
 套	O
 硬	B-PCC
-件	I-PCC
+件	E-PCC
 设	O
 备	O
 
 多	B-PCC
 道	I-PCC
 程	I-PCC
-序	I-PCC
+序	E-PCC
 、	O
 分	B-PCC
 时	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 就	O
 是	O
 资	B-PCC
 源	I-PCC
 共	I-PCC
-享	I-PCC
+享	E-PCC
 的	O
 具	O
 体	O
@@ -3754,7 +3754,7 @@ t	I-CORP
 资	B-PCC
 源	I-PCC
 共	I-PCC
-享	I-PCC
+享	E-PCC
 既	O
 降	O
 低	O
@@ -3770,7 +3770,7 @@ t	I-CORP
 算	I-PCC
 机	I-PCC
 硬	I-PCC
-件	I-PCC
+件	E-PCC
 的	O
 利	O
 用	O
@@ -3781,7 +3781,7 @@ t	I-CORP
 单	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 发	O
 展	O
@@ -3800,10 +3800,10 @@ t	I-CORP
 时	B-PCC
 间	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 流	B-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 技	O
 术	O
 
@@ -3812,7 +3812,7 @@ t	I-CORP
 时	B-PCC
 间	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 的	O
 物	O
 质	O
@@ -3873,7 +3873,7 @@ t	I-CORP
 时	B-PCC
 间	I-PCC
 重	I-PCC
-叠	I-PCC
+叠	E-PCC
 原	O
 理	O
 把	O
@@ -3916,7 +3916,7 @@ t	I-CORP
 如	O
 ，	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 执	O
 行	O
 的	O
@@ -3937,7 +3937,7 @@ t	I-CORP
 即	O
 取	B-PCC
 指	I-PCC
-令	I-PCC
+令	E-PCC
 部	O
 件	O
 I	O
@@ -3946,7 +3946,7 @@ F	O
 指	B-PCC
 令	I-PCC
 译	I-PCC
-码	I-PCC
+码	E-PCC
 部	O
 件	O
 I	O
@@ -3965,7 +3965,7 @@ X	O
 问	O
 存	B-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 部	O
 件	O
 M	O
@@ -3984,7 +3984,7 @@ B	O
 们	O
 按	O
 流	B-PCC
-水	I-PCC
+水	E-PCC
 方	O
 式	O
 连	O
@@ -3998,7 +3998,7 @@ B	O
 时	B-PCC
 间	I-PCC
 重	I-PCC
-叠	I-PCC
+叠	E-PCC
 原	O
 理	O
 ，	O
@@ -4008,7 +4008,7 @@ B	O
 得	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 内	O
 部	O
 能	O
@@ -4019,14 +4019,14 @@ B	O
 多	O
 条	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 ，	O
 提	O
 高	O
 了	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 速	O
 度	O
@@ -4039,7 +4039,7 @@ B	O
 并	I-PCC
 行	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 开	O
 发	O
 了	O
@@ -4047,20 +4047,20 @@ B	O
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 中	O
 的	O
 指	B-PCC
 令	I-PCC
 级	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 
 在	O
 单	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 中	O
 ，	O
 空	B-PCC
@@ -4068,7 +4068,7 @@ B	O
 并	I-PCC
 行	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 的	O
 运	O
 用	O
@@ -4092,7 +4092,7 @@ B	O
 线	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 ，	O
 还	O
 是	O
@@ -4101,13 +4101,13 @@ B	O
 线	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 ，	O
 多	B-PCC
 体	I-PCC
 存	I-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 和	O
 多	O
 操	O
@@ -4134,7 +4134,7 @@ B	O
 件	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 中	O
 ，	O
 通	O
@@ -4174,7 +4174,7 @@ B	O
 逻	B-PCC
 辑	I-PCC
 运	I-PCC
-算	I-PCC
+算	E-PCC
 部	O
 件	O
 等	O
@@ -4182,7 +4182,7 @@ B	O
 一	O
 条	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 所	O
 需	O
 的	O
@@ -4205,7 +4205,7 @@ B	O
 这	O
 条	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 ，	O
 这	O
 就	O
@@ -4214,19 +4214,19 @@ B	O
 令	I-PCC
 级	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 
 在	O
 单	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 中	O
 ，	O
 资	B-PCC
 源	I-PCC
 共	I-PCC
-享	I-PCC
+享	E-PCC
 的	O
 概	O
 念	O
@@ -4238,13 +4238,13 @@ B	O
 单	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 模	O
 拟	O
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 功	O
 能	O
@@ -4255,7 +4255,7 @@ B	O
 谓	O
 虚	B-PCC
 拟	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 概	O
 念	O
@@ -4266,7 +4266,7 @@ B	O
 分	B-PCC
 时	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 ，	O
 在	O
 多	O
@@ -4296,17 +4296,17 @@ B	O
 台	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 一	O
 样	O
 
 单	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 并	B-PCC
 行	I-PCC
-性	I-PCC
+性	E-PCC
 发	O
 展	O
 的	O
@@ -4318,18 +4318,18 @@ B	O
 腾	I-PROD
 系	I-PROD
 列	I-PROD
-机	I-PROD
+机	E-PROD
 和	O
 安	B-PROD
 腾	I-PROD
 系	I-PROD
 列	I-PROD
-机	I-PROD
+机	E-PROD
 
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 系	O
 统	O
 也	O
@@ -4338,17 +4338,17 @@ B	O
 时	B-PCC
 间	I-PCC
 重	I-PCC
-叠	I-PCC
+叠	E-PCC
 、	O
 资	B-PCC
 源	I-PCC
 重	I-PCC
-复	I-PCC
+复	E-PCC
 、	B-PCC
 资	I-PCC
 源	I-PCC
 共	I-PCC
-享	I-PCC
+享	E-PCC
 原	O
 理	O
 ，	O
@@ -4364,7 +4364,7 @@ B	O
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 方	O
 向	O
 发	O
@@ -4384,7 +4384,7 @@ B	O
 单	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 系	O
 统	O
 有	O
@@ -4401,7 +4401,7 @@ B	O
 理	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 各	O
 机	O
 器	O
@@ -4444,7 +4444,7 @@ B	O
 理	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 的	O
 耦	O
 合	O
@@ -4456,13 +4456,13 @@ B	O
 耦	I-PCC
 合	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 和	O
 松	B-PCC
 耦	I-PCC
 合	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 两	O
 大	O
 类	O
@@ -4471,7 +4471,7 @@ B	O
 耦	I-PCC
 合	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 又	O
 称	O
 直	B-PCC
@@ -4479,12 +4479,12 @@ B	O
 耦	I-PCC
 合	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 ，	O
 指	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 之	O
 间	O
 物	O
@@ -4503,7 +4503,7 @@ B	O
 通	O
 过	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 或	O
 高	O
 速	O
@@ -4519,7 +4519,7 @@ B	O
 共	O
 享	O
 主	B-PCC
-存	I-PCC
+存	E-PCC
 
 由	O
 于	O
@@ -4543,7 +4543,7 @@ B	O
 并	B-PCC
 行	I-PCC
 处	I-PCC
-理	I-PCC
+理	E-PCC
 作	O
 业	O
 或	O
@@ -4554,7 +4554,7 @@ B	O
 耦	I-PCC
 合	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 又	O
 称	O
 间	B-PCC
@@ -4562,7 +4562,7 @@ B	O
 耦	I-PCC
 合	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 ，	O
 一	O
 般	O
@@ -4570,7 +4570,7 @@ B	O
 通	O
 过	O
 通	B-PCC
-道	I-PCC
+道	E-PCC
 或	O
 通	O
 信	O
@@ -4580,7 +4580,7 @@ B	O
 现	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 之	O
 间	O
 的	O
@@ -4594,12 +4594,12 @@ B	O
 外	B-PCC
 存	I-PCC
 设	I-PCC
-备	I-PCC
+备	E-PCC
 磁	B-PCC
-盘	I-PCC
+盘	E-PCC
 、	O
 磁	B-PCC
-带	I-PCC
+带	E-PCC
 等	O
 
 机	O
@@ -4629,7 +4629,7 @@ B	O
 耦	I-PCC
 合	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 表	O
 现	O
 为	O
@@ -4645,7 +4645,7 @@ B	O
 台	O
 计	B-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 和	O
 共	O
 享	O
@@ -4653,7 +4653,7 @@ B	O
 外	B-PCC
 存	I-PCC
 设	I-PCC
-备	I-PCC
+备	E-PCC
 连	O
 接	O
 ，	O
@@ -4699,7 +4699,7 @@ B	O
 共	O
 享	O
 外	B-PCC
-存	I-PCC
+存	E-PCC
 设	O
 备	O
 ，	O
@@ -4744,12 +4744,12 @@ B	O
 资	B-PCC
 源	I-PCC
 共	I-PCC
-享	I-PCC
+享	E-PCC
 
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 中	O
 为	O
 了	O
@@ -4758,7 +4758,7 @@ B	O
 时	B-PCC
 间	I-PCC
 重	I-PCC
-叠	I-PCC
+叠	E-PCC
 ，	O
 将	O
 处	O
@@ -4773,7 +4773,7 @@ B	O
 用	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 去	O
 完	O
 成	O
@@ -4788,7 +4788,7 @@ B	O
 各	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 之	O
 间	O
 则	O
@@ -4817,7 +4817,7 @@ B	O
 致	O
 由	O
 通	B-PCC
-道	I-PCC
+道	E-PCC
 向	O
 专	B-PCC
 用	I-PCC
@@ -4825,7 +4825,7 @@ B	O
 围	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 发	O
 展	O
 
@@ -4845,9 +4845,9 @@ B	O
 高	B-PCC
 级	I-PCC
 语	I-PCC
-言	I-PCC
+言	E-PCC
 编	B-PCC
-译	I-PCC
+译	E-PCC
 、	O
 数	O
 据	O
@@ -4870,7 +4870,7 @@ B	O
 用	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 完	O
 成	O
 ，	O
@@ -4899,12 +4899,12 @@ B	O
 理	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 
 随	O
 着	O
 硬	B-PCC
-件	I-PCC
+件	E-PCC
 价	O
 格	O
 的	O
@@ -4926,10 +4926,10 @@ B	O
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 处	O
 理	O
 来	O
@@ -4949,7 +4949,7 @@ B	O
 对	O
 计	B-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 间	O
 互	O
 联	O
@@ -4968,7 +4968,7 @@ B	O
 
 高	O
 带	B-PCC
-宽	I-PCC
+宽	E-PCC
 、	O
 低	O
 延	O
@@ -4992,7 +4992,7 @@ B	O
 现	O
 程	B-PCC
 序	I-PCC
-段	I-PCC
+段	E-PCC
 或	O
 任	O
 务	O
@@ -5001,7 +5001,7 @@ B	O
 并	B-PCC
 行	I-PCC
 处	I-PCC
-理	I-PCC
+理	E-PCC
 的	O
 前	O
 提	O
@@ -5014,7 +5014,7 @@ B	O
 并	B-PCC
 行	I-PCC
 处	I-PCC
-理	I-PCC
+理	E-PCC
 的	O
 任	O
 务	O
@@ -5022,7 +5022,7 @@ B	O
 在	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 之	O
 间	O
 随	O
@@ -5040,7 +5040,7 @@ B	O
 各	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 具	O
 有	O
 同	O
@@ -5060,7 +5060,7 @@ B	O
 理	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 
 世	O
 纪	O
@@ -5070,7 +5070,7 @@ B	O
 来	O
 ，	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 技	O
 术	O
 的	O
@@ -5085,7 +5085,7 @@ B	O
 理	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 的	O
 研	O
 究	O
@@ -5114,7 +5114,7 @@ B	O
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 纷	O
 纷	O
 问	O
@@ -5134,7 +5134,7 @@ B	O
 量	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 Y	O
 H	O
 和	O
@@ -5145,13 +5145,13 @@ H	O
 是	O
 流	B-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 单	O
 机	O
 内	O
 部	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 的	O
 机	O
 器	O
@@ -5180,7 +5180,7 @@ H	O
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 ，	O
 打	O
 破	O
@@ -5193,7 +5193,7 @@ H	O
 能	I-PCC
 计	I-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 领	O
 域	O
 对	O
@@ -5226,7 +5226,7 @@ H	O
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 
 年	O
 ，	O
@@ -5234,7 +5234,7 @@ H	O
 级	I-PCC
 计	I-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 浮	O
 点	O
 最	O
@@ -5258,7 +5258,7 @@ H	O
 号	I-PROD
 计	I-PROD
 算	I-PROD
-机	I-PROD
+机	E-PROD
 运	O
 算	O
 速	O
@@ -5277,10 +5277,10 @@ H	O
 为	O
 继	O
 美	B-LOC
-国	I-LOC
+国	E-LOC
 、	O
 日	B-LOC
-本	I-LOC
+本	E-LOC
 之	O
 后	O
 世	O
@@ -5304,7 +5304,7 @@ H	O
 月	O
 曙	B-PROD
 光	I-PROD
-A	I-PROD
+A	E-PROD
 被	O
 评	O
 为	O
@@ -5314,7 +5314,7 @@ A	I-PROD
 级	I-PCC
 计	I-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 五	O
 百	O
 强	O
@@ -5327,7 +5327,7 @@ A	I-PROD
 作	O
 为	O
 中	B-CORP
-国	I-CORP
+国	E-CORP
 国	O
 家	O
 网	O
@@ -5347,7 +5347,7 @@ A	I-PROD
 计	I-CORP
 算	I-CORP
 中	I-CORP
-心	I-CORP
+心	E-CORP
 
 龙	O
 芯	O
@@ -5364,7 +5364,7 @@ F	O
 术	I-CORP
 研	I-CORP
 究	I-CORP
-所	I-CORP
+所	E-CORP
 研	O
 制	O
 的	O
@@ -5377,7 +5377,7 @@ m	O
 技	O
 术	O
 的	O
-位	B-PCC
+位	S-PCC
 高	O
 性	O
 能	O
@@ -5385,9 +5385,9 @@ m	O
 用	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 
 年	O
 中	B-GRP
@@ -5397,7 +5397,7 @@ U	I-PCC
 技	I-GRP
 术	I-GRP
 大	I-GRP
-学	I-GRP
+学	E-GRP
 第	O
 一	O
 个	O
@@ -5409,7 +5409,7 @@ U	I-PCC
 F	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 设	O
 计	O
 出	O
@@ -5447,13 +5447,13 @@ U	I-PCC
 的	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 做	O
 超	B-PCC
 级	I-PCC
 计	I-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 开	O
 始	O
@@ -5467,7 +5467,7 @@ U	I-PCC
 级	I-PCC
 计	I-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 五	O
 百	O
 强	O
@@ -5487,12 +5487,12 @@ U	I-PCC
 科	I-GRP
 技	I-GRP
 大	I-GRP
-学	I-GRP
+学	E-GRP
 的	O
 “	O
 天	B-PROD
 河	I-PROD
-A	I-PROD
+A	E-PROD
 ”	O
 万	O
 亿	O
@@ -5510,7 +5510,7 @@ r	I-CORP
 a	I-CORP
 y	I-CORP
 公	I-CORP
-司	I-CORP
+司	E-CORP
 的	O
 J	B-PROD
 a	I-PROD
@@ -5520,7 +5520,7 @@ a	I-PROD
 r	I-PROD
 美	I-PROD
 洲	I-PROD
-虎	I-PROD
+虎	E-PROD
 ，	O
 第	O
 三	O
@@ -5537,11 +5537,11 @@ r	I-PROD
 有	I-CORP
 限	I-CORP
 公	I-CORP
-司	I-CORP
+司	E-CORP
 的	O
 “	O
 星	B-PROD
-云	I-PROD
+云	E-PROD
 ”	O
 ，	O
 第	O
@@ -5554,7 +5554,7 @@ I	I-CORP
 B	I-CORP
 M	I-CORP
 公	I-CORP
-司	I-CORP
+司	E-CORP
 的	O
 R	O
 o	O
@@ -5567,7 +5567,7 @@ n	O
 e	O
 r	O
 走	B-PROD
-鹃	I-PROD
+鹃	E-PROD
 
 表	O
 是	O
@@ -5578,7 +5578,7 @@ r	O
 级	I-PCC
 计	I-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 列	O
 表	O
@@ -5591,11 +5591,11 @@ F	I-PER
 l	I-PER
 y	I-PER
 n	I-PER
-n	I-PER
+n	E-PER
 从	O
 计	B-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 体	O
 系	O
 结	O
@@ -5603,7 +5603,7 @@ n	I-PER
 的	O
 并	B-PCC
 行	I-PCC
-性	I-PCC
+性	E-PCC
 出	O
 发	O
 ，	O
@@ -5611,7 +5611,7 @@ n	I-PER
 照	O
 指	B-PCC
 令	I-PCC
-流	I-PCC
+流	E-PCC
 和	O
 数	O
 据	O
@@ -5629,7 +5629,7 @@ n	I-PER
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 结	O
 构	O
 分	O
@@ -5653,11 +5653,11 @@ n	I-PER
 单	I-PCC
 数	I-PCC
 据	I-PCC
-流	I-PCC
+流	E-PCC
 S	B-PCC
 I	I-PCC
 S	I-PCC
-D	I-PCC
+D	E-PCC
 ，	O
 其	O
 代	O
@@ -5668,7 +5668,7 @@ D	I-PCC
 单	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 
 单	B-PCC
 指	I-PCC
@@ -5677,11 +5677,11 @@ D	I-PCC
 多	I-PCC
 数	I-PCC
 据	I-PCC
-流	I-PCC
+流	E-PCC
 S	B-PCC
 I	I-PCC
 M	I-PCC
-D	I-PCC
+D	E-PCC
 ，	O
 其	O
 代	O
@@ -5693,7 +5693,7 @@ D	I-PCC
 量	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 
 多	B-PCC
 指	I-PCC
@@ -5702,11 +5702,11 @@ D	I-PCC
 单	I-PCC
 数	I-PCC
 据	I-PCC
-流	I-PCC
+流	E-PCC
 M	B-PCC
 I	I-PCC
 S	I-PCC
-D	I-PCC
+D	E-PCC
 ，	O
 这	O
 种	O
@@ -5727,11 +5727,11 @@ D	I-PCC
 多	I-PCC
 数	I-PCC
 据	I-PCC
-流	I-PCC
+流	E-PCC
 M	B-PCC
 I	I-PCC
 M	I-PCC
-D	I-PCC
+D	E-PCC
 ，	O
 其	O
 代	O
@@ -5742,12 +5742,12 @@ D	I-PCC
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 和	O
 机	B-PCC
 群	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 
 前	O
 者	O
@@ -5756,7 +5756,7 @@ D	I-PCC
 耦	I-PCC
 合	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 ，	O
 后	O
 者	O
@@ -5765,7 +5765,7 @@ D	I-PCC
 耦	I-PCC
 合	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 
 图	O
 进	O
@@ -5796,7 +5796,7 @@ a	O
 S	B-PCC
 I	I-PCC
 S	I-PCC
-D	I-PCC
+D	E-PCC
 的	O
 结	O
 构	O
@@ -5808,7 +5808,7 @@ U	O
 控	B-PCC
 制	I-PCC
 单	I-PCC
-元	I-PCC
+元	E-PCC
 ，	O
 P	O
 U	O
@@ -5817,7 +5817,7 @@ U	O
 处	B-PCC
 理	I-PCC
 单	I-PCC
-元	I-PCC
+元	E-PCC
 ，	O
 M	O
 U	O
@@ -5826,7 +5826,7 @@ U	O
 存	B-PCC
 储	I-PCC
 单	I-PCC
-元	I-PCC
+元	E-PCC
 ，	O
 I	O
 S	O
@@ -5836,7 +5836,7 @@ S	O
 一	O
 指	B-PCC
 令	I-PCC
-流	I-PCC
+流	E-PCC
 ，	O
 D	O
 S	O
@@ -5855,12 +5855,12 @@ S	O
 理	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 进	O
 行	O
 取	B-PCC
 指	I-PCC
-令	I-PCC
+令	E-PCC
 和	O
 执	O
 行	O
@@ -5877,7 +5877,7 @@ b	O
 S	B-PCC
 I	I-PCC
 M	I-PCC
-D	I-PCC
+D	E-PCC
 的	O
 结	O
 构	O
@@ -5891,7 +5891,7 @@ D	I-PCC
 控	B-PCC
 制	I-PCC
 单	I-PCC
-元	I-PCC
+元	E-PCC
 C	O
 U	O
 ，	O
@@ -5905,7 +5905,7 @@ U	O
 处	B-PCC
 理	I-PCC
 单	I-PCC
-元	I-PCC
+元	E-PCC
 P	O
 U	O
 l	O
@@ -5918,14 +5918,14 @@ n	O
 一	O
 指	B-PCC
 令	I-PCC
-流	I-PCC
+流	E-PCC
 ，	O
 每	O
 个	O
 处	B-PCC
 理	I-PCC
 单	I-PCC
-元	I-PCC
+元	E-PCC
 可	O
 有	O
 自	O
@@ -5935,12 +5935,12 @@ n	O
 用	O
 存	B-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 局	B-PCC
 部	I-PCC
 存	I-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 L	O
 M	O
 l	O
@@ -5954,7 +5954,7 @@ n	O
 用	O
 存	B-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 组	O
 成	O
 分	B-PCC
@@ -5962,7 +5962,7 @@ n	O
 式	I-PCC
 存	I-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 
 图	O
 c	O
@@ -5974,7 +5974,7 @@ d	O
 M	B-PCC
 I	I-PCC
 M	I-PCC
-D	I-PCC
+D	E-PCC
 的	O
 结	O
 构	O
@@ -5988,7 +5988,7 @@ D	I-PCC
 控	B-PCC
 制	I-PCC
 单	I-PCC
-元	I-PCC
+元	E-PCC
 C	O
 U	O
 l	O
@@ -6025,7 +6025,7 @@ n	O
 的	O
 指	B-PCC
 令	I-PCC
-流	I-PCC
+流	E-PCC
 
 不	O
 同	O
@@ -6039,11 +6039,11 @@ c	O
 享	I-PCC
 存	I-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 ，	O
 而	O
 图	O
@@ -6054,11 +6054,11 @@ d	O
 式	I-PCC
 存	I-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 
 计	B-PCC
 算	I-PCC
@@ -6066,7 +6066,7 @@ d	O
 体	I-PCC
 系	I-PCC
 结	I-PCC
-构	I-PCC
+构	E-PCC
 可	O
 以	O
 采	O
@@ -6077,7 +6077,7 @@ d	O
 式	O
 的	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 机	O
 制	O
 
@@ -6086,7 +6086,7 @@ d	O
 量	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 和	O
 超	B-PCC
 长	I-PCC
@@ -6095,13 +6095,13 @@ d	O
 字	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 在	O
 计	B-PCC
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 的	O
 最	O
 底	O
@@ -6109,20 +6109,20 @@ d	O
 ，	O
 流	B-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 技	O
 术	O
 将	O
 时	B-PCC
 间	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 性	O
 引	O
 入	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 ，	O
 而	O
 多	B-PCC
@@ -6130,23 +6130,23 @@ d	O
 射	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 则	O
 把	O
 空	B-PCC
 间	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 性	O
 引	O
 入	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 
 超	B-PCC
 标	I-PCC
-量	I-PCC
+量	E-PCC
 s	O
 u	O
 p	O
@@ -6166,12 +6166,12 @@ r	O
 发	I-PCC
 射	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 ，	O
 在	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 内	O
 部	O
 设	O
@@ -6179,7 +6179,7 @@ r	O
 多	O
 条	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 执	O
 行	O
 的	O
@@ -6187,7 +6187,7 @@ r	O
 令	I-PCC
 流	I-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 ，	O
 通	O
 过	O
@@ -6197,13 +6197,13 @@ r	O
 时	B-PCC
 钟	I-PCC
 周	I-PCC
-期	I-PCC
+期	E-PCC
 内	O
 向	O
 执	B-PCC
 行	I-PCC
 单	I-PCC
-元	I-PCC
+元	E-PCC
 发	O
 射	O
 多	O
@@ -6216,13 +6216,13 @@ r	O
 令	I-PCC
 级	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 
 超	B-PCC
 长	I-PCC
 指	I-PCC
 令	I-PCC
-字	I-PCC
+字	E-PCC
 技	O
 术	O
 v	O
@@ -6257,10 +6257,10 @@ W	O
 由	O
 编	B-PCC
 译	I-PCC
-器	I-PCC
+器	E-PCC
 在	O
 编	B-PCC
-译	I-PCC
+译	E-PCC
 时	O
 找	O
 出	O
@@ -6272,7 +6272,7 @@ W	O
 的	O
 并	B-PCC
 行	I-PCC
-性	I-PCC
+性	E-PCC
 ，	O
 进	O
 行	O
@@ -6290,7 +6290,7 @@ W	O
 能	O
 够	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 执	O
 行	O
 的	O
@@ -6306,7 +6306,7 @@ W	O
 制	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 中	O
 的	O
 多	O
@@ -6331,7 +6331,7 @@ W	O
 多	O
 条	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 ，	O
 从	O
 而	O
@@ -6339,7 +6339,7 @@ W	O
 高	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 并	O
 行	O
@@ -6348,18 +6348,18 @@ W	O
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 和	O
 多	B-PCC
 计	I-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 在	O
 单	O
 个	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 性	O
 能	O
@@ -6379,7 +6379,7 @@ W	O
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 处	O
 理	O
 能	O
@@ -6396,7 +6396,7 @@ W	O
 个	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 协	O
 同	O
 工	O
@@ -6420,7 +6420,7 @@ W	O
 台	O
 计	B-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 协	O
 同	O
 工	O
@@ -6439,7 +6439,7 @@ W	O
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 称	O
 为	O
 多	O
@@ -6459,7 +6459,7 @@ e	I-PCC
 s	I-PCC
 s	I-PCC
 o	I-PCC
-r	I-PCC
+r	E-PCC
 系	O
 统	O
 
@@ -6471,7 +6471,7 @@ r	I-PCC
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 系	O
 统	O
 由	O
@@ -6482,7 +6482,7 @@ r	I-PCC
 的	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 组	O
 成	O
 ，	O
@@ -6490,7 +6490,7 @@ r	I-PCC
 台	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 都	O
 能	O
 够	O
@@ -6502,11 +6502,11 @@ r	I-PCC
 己	O
 的	O
 程	B-PCC
-序	I-PCC
+序	E-PCC
 和	O
 指	B-PCC
 令	I-PCC
-流	I-PCC
+流	E-PCC
 ，	O
 相	O
 互	O
@@ -6554,19 +6554,19 @@ r	I-PCC
 理	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 中	O
 的	O
 各	O
 台	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 由	O
 操	B-PCC
 作	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 管	O
 理	O
 ，	O
@@ -6580,7 +6580,7 @@ r	I-PCC
 务	O
 级	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 
 与	O
 广	O
@@ -6590,7 +6590,7 @@ r	I-PCC
 理	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 不	O
 同	O
 ，	O
@@ -6601,7 +6601,7 @@ r	I-PCC
 理	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 仅	O
 指	O
 在	O
@@ -6609,11 +6609,11 @@ r	I-PCC
 一	O
 计	B-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 内	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 之	O
 间	O
 通	O
@@ -6622,7 +6622,7 @@ r	I-PCC
 享	O
 存	B-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 方	O
 式	O
 通	O
@@ -6634,7 +6634,7 @@ r	I-PCC
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 
 运	O
 行	O
@@ -6644,13 +6644,13 @@ r	I-PCC
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 上	O
 的	O
 所	O
 有	O
 进	B-PCC
-程	I-PCC
+程	E-PCC
 能	O
 够	O
 共	O
@@ -6661,7 +6661,7 @@ r	I-PCC
 公	O
 共	O
 内	B-PCC
-存	I-PCC
+存	E-PCC
 的	O
 单	O
 一	O
@@ -6670,12 +6670,12 @@ r	I-PCC
 地	I-PCC
 址	I-PCC
 空	I-PCC
-间	I-PCC
+间	E-PCC
 
 任	O
 何	O
 进	B-PCC
-程	I-PCC
+程	E-PCC
 都	O
 能	O
 通	O
@@ -6693,14 +6693,14 @@ O	O
 R	O
 E	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 来	O
 读	O
 写	O
 一	O
 个	O
 内	B-PCC
-存	I-PCC
+存	E-PCC
 字	O
 
 与	O
@@ -6709,7 +6709,7 @@ E	O
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 相	O
 对	O
 应	O
@@ -6721,7 +6721,7 @@ E	O
 公	O
 共	O
 内	B-PCC
-存	I-PCC
+存	E-PCC
 的	O
 多	O
 个	O
@@ -6729,12 +6729,12 @@ E	O
 理	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 构	O
 成	O
 的	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 系	O
 统	O
 又	O
@@ -6757,7 +6757,7 @@ u	I-PCC
 t	I-PCC
 e	I-PCC
 r	I-PCC
-s	I-PCC
+s	E-PCC
 系	O
 统	O
 
@@ -6773,14 +6773,14 @@ s	I-PCC
 私	O
 有	O
 内	B-PCC
-存	I-PCC
+存	E-PCC
 ，	O
 通	O
 过	O
 消	B-PCC
 息	I-PCC
 传	I-PCC
-递	I-PCC
+递	E-PCC
 的	O
 方	O
 式	O
@@ -6796,7 +6796,7 @@ s	I-PCC
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 有	O
 各	O
 种	O
@@ -6817,14 +6817,14 @@ u	I-PCC
 s	I-PCC
 t	I-PCC
 e	I-PCC
-r	I-PCC
+r	E-PCC
 ，	O
 也	O
 称	O
 集	B-PCC
 群	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 就	O
 是	O
 一	O
@@ -6837,12 +6837,12 @@ r	I-PCC
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 
 机	B-PCC
 群	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 是	O
 由	O
 一	O
@@ -6851,7 +6851,7 @@ r	I-PCC
 整	O
 计	B-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 通	O
 过	O
 高	O
@@ -6863,7 +6863,7 @@ r	I-PCC
 或	O
 局	B-PCC
 域	I-PCC
-网	I-PCC
+网	E-PCC
 互	O
 连	O
 而	O
@@ -6876,7 +6876,7 @@ r	I-PCC
 组	O
 计	B-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 作	O
 为	O
 统	O
@@ -6884,7 +6884,7 @@ r	I-PCC
 的	O
 计	B-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 资	O
 源	O
 一	O
@@ -6911,7 +6911,7 @@ r	I-PCC
 整	O
 计	B-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 ”	O
 意	O
 指	O
@@ -6919,13 +6919,13 @@ r	I-PCC
 台	O
 计	B-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 离	O
 开	O
 机	B-PCC
 群	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 仍	O
 能	O
 运	O
@@ -6939,27 +6939,27 @@ r	I-PCC
 机	B-PCC
 群	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 中	O
 的	O
 每	O
 台	O
 计	B-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 一	O
 般	O
 称	O
 为	O
 节	B-PCC
-点	I-PCC
+点	E-PCC
 
 多	B-PCC
 线	I-PCC
 程	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 当	O
 通	O
 过	O
@@ -6969,9 +6969,9 @@ r	I-PCC
 高	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 主	B-PCC
-频	I-PCC
+频	E-PCC
 从	O
 而	O
 提	O
@@ -6979,7 +6979,7 @@ r	I-PCC
 单	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 性	O
 能	O
@@ -7005,11 +7005,11 @@ r	I-PCC
 向	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 片	O
 内	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 技	O
 术	O
 
@@ -7022,7 +7022,7 @@ r	I-PCC
 令	I-PCC
 级	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 技	O
 术	O
 之	O
@@ -7032,19 +7032,19 @@ r	I-PCC
 线	I-PCC
 程	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 和	O
 多	B-PCC
 核	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 也	O
 是	O
 提	O
 高	O
 单	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 处	O
 理	O
 能	O
@@ -7055,7 +7055,7 @@ r	I-PCC
 并	I-PCC
 行	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 
 由	O
 于	O
@@ -7063,7 +7063,7 @@ r	I-PCC
 代	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 广	O
 泛	O
 采	O
@@ -7072,7 +7072,7 @@ r	I-PCC
 令	I-PCC
 流	I-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 技	O
 术	O
 ，	O
@@ -7080,7 +7080,7 @@ r	I-PCC
 而	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 必	O
 须	O
 面	O
@@ -7097,7 +7097,7 @@ r	I-PCC
 果	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 访	O
 存	O
 时	O
@@ -7105,7 +7105,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 缺	O
 失	O
 不	O
@@ -7118,7 +7118,7 @@ e	I-PCC
 访	O
 问	O
 主	B-PCC
-存	I-PCC
+存	E-PCC
 ，	O
 这	O
 会	O
@@ -7144,7 +7144,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 块	O
 被	O
 加	O
@@ -7154,7 +7154,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 中	O
 
 解	O
@@ -7163,7 +7163,7 @@ e	I-PCC
 令	I-PCC
 流	I-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 因	O
 此	O
 必	O
@@ -7181,7 +7181,7 @@ e	I-PCC
 上	O
 多	B-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 o	O
 n	O
 c	O
@@ -7201,7 +7201,7 @@ a	I-PCC
 d	I-PCC
 i	I-PCC
 n	I-PCC
-g	I-PCC
+g	E-PCC
 技	O
 术	O
 
@@ -7212,7 +7212,7 @@ g	I-PCC
 许	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 同	O
 时	O
 运	O
@@ -7222,14 +7222,14 @@ U	I-PCC
 硬	B-PCC
 件	I-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 ，	O
 如	O
 果	O
 某	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 被	O
 迫	O
 暂	O
@@ -7238,7 +7238,7 @@ U	I-PCC
 其	O
 他	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 仍	O
 可	O
 以	O
@@ -7251,7 +7251,7 @@ U	I-PCC
 保	O
 证	O
 硬	B-PCC
-件	I-PCC
+件	E-PCC
 资	O
 源	O
 被	O
@@ -7264,18 +7264,18 @@ U	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 片	O
 上	O
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 多	B-PCC
 线	I-PCC
 程	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 能	O
 够	O
 屏	O
@@ -7285,7 +7285,7 @@ U	I-PCC
 的	O
 存	B-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 访	O
 问	O
 延	O
@@ -7297,7 +7297,7 @@ U	I-PCC
 统	I-PCC
 吞	I-PCC
 吐	I-PCC
-率	I-PCC
+率	E-PCC
 ，	O
 但	O
 并	O
@@ -7308,7 +7308,7 @@ U	I-PCC
 个	O
 单	B-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 的	O
 执	O
 行	O
@@ -7326,7 +7326,7 @@ i	I-PCC
 c	I-PCC
 o	I-PCC
 r	I-PCC
-e	I-PCC
+e	E-PCC
 技	O
 术	O
 通	O
@@ -7334,11 +7334,11 @@ e	I-PCC
 开	O
 发	O
 程	B-PCC
-序	I-PCC
+序	E-PCC
 内	O
 的	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 级	O
 或	O
 进	B-PCC
@@ -7346,7 +7346,7 @@ e	I-PCC
 级	I-PCC
 并	I-PCC
 行	I-PCC
-性	I-PCC
+性	E-PCC
 提	O
 高	O
 性	O
@@ -7356,7 +7356,7 @@ e	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 是	O
 指	O
 在	O
@@ -7364,9 +7364,9 @@ e	I-PCC
 颗	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 内	O
 集	O
 成	O
@@ -7381,7 +7381,7 @@ e	I-PCC
 整	O
 且	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 工	O
 作	O
 的	O
@@ -7399,7 +7399,7 @@ e	I-PCC
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 c	O
 h	O
 i	O
@@ -7441,7 +7441,7 @@ e	O
 包	O
 含	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 部	O
 件	O
 、	O
@@ -7455,7 +7455,7 @@ e	O
 寄	B-PCC
 存	I-PCC
 器	I-PCC
-堆	I-PCC
+堆	E-PCC
 和	O
 一	O
 级	O
@@ -7466,7 +7466,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 的	O
 处	O
 理	O
@@ -7509,12 +7509,12 @@ e	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 
 多	B-PCC
 核	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 的	O
 兴	O
 起	O
@@ -7527,7 +7527,7 @@ e	I-PCC
 单	B-PCC
 核	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 面	O
 临	O
 继	O
@@ -7552,7 +7552,7 @@ e	I-PCC
 集	B-PCC
 成	I-PCC
 电	I-PCC
-路	I-PCC
+路	E-PCC
 技	O
 术	O
 的	O
@@ -7561,7 +7561,7 @@ e	I-PCC
 使	O
 单	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 容	O
 量	O
 增	O
@@ -7583,7 +7583,7 @@ e	I-PCC
 行	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 结	O
 构	O
 中	O
@@ -7591,14 +7591,14 @@ e	I-PCC
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 和	O
 多	B-PCC
 计	I-PCC
 算	I-PCC
 机	I-PCC
 节	I-PCC
-点	I-PCC
+点	E-PCC
 集	O
 成	O
 到	O
@@ -7614,13 +7614,13 @@ e	I-PCC
 处	B-PCC
 理	I-PCC
 机	I-PCC
-核	I-PCC
+核	E-PCC
 实	O
 现	O
 片	B-PCC
 内	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 运	O
 行	O
 
@@ -7631,7 +7631,7 @@ e	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 是	O
 一	O
 种	O
@@ -7643,21 +7643,21 @@ e	I-PCC
 理	I-PCC
 机	I-PCC
 架	I-PCC
-构	I-PCC
+构	E-PCC
 
 所	O
 有	O
 的	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 都	O
 在	O
 同	O
 一	O
 块	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 上	O
 ，	O
 不	O
@@ -7670,11 +7670,11 @@ e	I-PCC
 同	O
 的	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 ，	O
 在	O
 内	B-PCC
-存	I-PCC
+存	E-PCC
 的	O
 不	O
 同	O
@@ -7684,7 +7684,7 @@ e	I-PCC
 作	O
 
 多	B-PCC
-核	I-PCC
+核	E-PCC
 也	O
 是	O
 一	O
@@ -7692,12 +7692,12 @@ e	I-PCC
 共	O
 享	O
 内	B-PCC
-存	I-PCC
+存	E-PCC
 的	O
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 ：	O
 所	O
 有	O
@@ -7711,7 +7711,7 @@ e	I-PCC
 内	B-PCC
 存	I-PCC
 空	I-PCC
-间	I-PCC
+间	E-PCC
 
 多	O
 个	O
@@ -7720,7 +7720,7 @@ e	I-PCC
 一	O
 个	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 内	O
 直	O
 接	O
@@ -7729,15 +7729,15 @@ e	I-PCC
 ，	O
 多	B-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 和	O
 多	B-PCC
 进	I-PCC
-程	I-PCC
+程	E-PCC
 可	O
 以	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 运	O
 行	O
 
@@ -7747,7 +7747,7 @@ e	I-PCC
 多	B-PCC
 核	I-PCC
 结	I-PCC
-构	I-PCC
+构	E-PCC
 ，	O
 在	O
 传	O
@@ -7756,7 +7756,7 @@ e	I-PCC
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 结	O
 构	O
 中	O
@@ -7767,14 +7767,14 @@ e	I-PCC
 不	O
 同	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 上	O
 的	O
 多	O
 个	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 通	O
 过	O
 片	O
@@ -7782,7 +7782,7 @@ e	I-PCC
 系	B-PCC
 统	I-PCC
 总	I-PCC
-线	I-PCC
+线	E-PCC
 连	O
 接	O
 ，	O
@@ -7796,7 +7796,7 @@ e	I-PCC
 大	O
 的	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 尺	O
 寸	O
 ，	O
@@ -7815,7 +7815,7 @@ e	I-PCC
 外	O
 的	O
 软	B-PCC
-件	I-PCC
+件	E-PCC
 支	O
 持	O
 
@@ -7823,7 +7823,7 @@ e	I-PCC
 个	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 可	O
 以	O
 分	O
@@ -7852,7 +7852,7 @@ e	I-PCC
 ，	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 之	O
 间	O
 通	O
@@ -7862,7 +7862,7 @@ e	I-PCC
 通	B-PCC
 信	I-PCC
 接	I-PCC
-口	I-PCC
+口	E-PCC
 连	O
 接	O
 
@@ -7879,7 +7879,7 @@ f	O
 的	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 形	O
 态	O
 
@@ -7890,7 +7890,7 @@ a	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 结	O
 构	O
 ，	O
@@ -7898,18 +7898,18 @@ a	O
 执	B-PCC
 行	I-PCC
 单	I-PCC
-元	I-PCC
+元	E-PCC
 、	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 状	O
 态	O
 、	O
 中	B-PCC
 断	I-PCC
 逻	I-PCC
-辑	I-PCC
+辑	E-PCC
 和	O
 片	O
 上	O
@@ -7917,7 +7917,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 组	O
 成	O
 
@@ -7927,7 +7927,7 @@ b	O
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 结	O
 构	O
 ，	O
@@ -7943,7 +7943,7 @@ b	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 构	O
 成	O
 双	B-PCC
@@ -7951,7 +7951,7 @@ b	O
 理	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 
 图	O
 c	O
@@ -7961,7 +7961,7 @@ c	O
 程	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 结	O
 构	O
 ，	O
@@ -7972,9 +7972,9 @@ c	O
 理	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 内	O
 集	O
 成	O
@@ -7984,7 +7984,7 @@ c	O
 辑	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 ，	O
 二	O
 者	O
@@ -7993,7 +7993,7 @@ c	O
 执	B-PCC
 行	I-PCC
 单	I-PCC
-元	I-PCC
+元	E-PCC
 和	O
 片	O
 上	O
@@ -8001,7 +8001,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 ，	O
 但	O
 各	O
@@ -8012,14 +8012,14 @@ e	I-PCC
 的	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 状	O
 态	O
 和	O
 中	B-PCC
 断	I-PCC
 逻	I-PCC
-辑	I-PCC
+辑	E-PCC
 
 图	O
 d	O
@@ -8028,7 +8028,7 @@ d	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 结	O
 构	O
 ，	O
@@ -8043,7 +8043,7 @@ d	O
 处	I-PCC
 理	I-PCC
 机	I-PCC
-核	I-PCC
+核	E-PCC
 集	O
 成	O
 在	O
@@ -8051,7 +8051,7 @@ d	O
 一	O
 个	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 内	O
 ，	O
 构	O
@@ -8060,7 +8060,7 @@ d	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 ，	O
 每	O
 个	O
@@ -8078,7 +8078,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 
 图	O
 e	O
@@ -8089,7 +8089,7 @@ e	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 结	O
 构	O
 ，	O
@@ -8104,7 +8104,7 @@ d	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 结	O
 构	O
 的	O
@@ -8123,7 +8123,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 
 图	O
 f	O
@@ -8138,18 +8138,18 @@ f	O
 程	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 结	O
 构	O
 ，	O
 这	O
 是	O
 多	B-PCC
-核	I-PCC
+核	E-PCC
 与	O
 多	B-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 相	O
 结	O
 合	O
@@ -8157,7 +8157,7 @@ f	O
 片	O
 上	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 技	O
 术	O
 
@@ -8171,7 +8171,7 @@ f	O
 处	B-PCC
 理	I-PCC
 机	I-PCC
-核	I-PCC
+核	E-PCC
 集	O
 成	O
 在	O
@@ -8179,7 +8179,7 @@ f	O
 一	O
 个	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 内	O
 ，	O
 每	O
@@ -8189,20 +8189,20 @@ f	O
 是	O
 双	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 的	O
 ，	O
 故	O
 该	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 为	O
 双	O
 核	O
 四	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 结	O
 构	O
 
@@ -8210,7 +8210,7 @@ f	O
 件	I-PCC
 多	I-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 技	O
 术	O
 是	O
@@ -8218,9 +8218,9 @@ f	O
 高	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 并	B-PCC
-行	I-PCC
+行	E-PCC
 度	O
 的	O
 有	O
@@ -8240,11 +8240,11 @@ f	O
 能	I-PCC
 计	I-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 
 年	O
 秋	O
@@ -8253,7 +8253,7 @@ f	O
 特	I-CORP
 尔	I-CORP
 公	I-CORP
-司	I-CORP
+司	E-CORP
 推	O
 出	O
 一	O
@@ -8262,7 +8262,7 @@ f	O
 用	O
 超	B-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 h	O
 y	O
 p	O
@@ -8289,17 +8289,17 @@ n	I-PROD
 t	I-PROD
 i	I-PROD
 u	I-PROD
-m	I-PROD
+m	E-PROD
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 ，	O
 使	O
 多	B-PCC
 线	I-PCC
 程	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 进	O
 入	O
 桌	O
@@ -8313,7 +8313,7 @@ m	I-PROD
 线	I-PCC
 程	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 是	O
 同	O
 时	O
@@ -8321,14 +8321,14 @@ m	I-PROD
 线	I-PCC
 程	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 在	O
 英	B-CORP
 特	I-CORP
-尔	I-CORP
+尔	E-CORP
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 上	O
 的	O
 具	O
@@ -8346,7 +8346,7 @@ m	I-PROD
 的	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 中	O
 ，	O
 原	O
@@ -8357,7 +8357,7 @@ m	I-PROD
 物	B-PCC
 理	I-PCC
 内	I-PCC
-核	I-PCC
+核	E-PCC
 经	O
 过	O
 简	O
@@ -8374,7 +8374,7 @@ m	I-PROD
 逻	B-PCC
 辑	I-PCC
 内	I-PCC
-核	I-PCC
+核	E-PCC
 ，	O
 并	O
 能	O
@@ -8391,7 +8391,7 @@ m	I-PROD
 立	O
 的	O
 程	B-PCC
-序	I-PCC
+序	E-PCC
 ，	O
 从	O
 而	O
@@ -8400,7 +8400,7 @@ m	I-PROD
 了	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 闲	O
 置	O
@@ -8416,7 +8416,7 @@ m	I-PROD
 央	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 执	O
 行	O
@@ -8428,7 +8428,7 @@ m	I-PROD
 量	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 水	O
 平	O
@@ -8443,7 +8443,7 @@ m	I-PROD
 标	I-PCC
 量	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 和	O
 超	B-PCC
 长	I-PCC
@@ -8451,7 +8451,7 @@ m	I-PROD
 令	I-PCC
 字	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 都	O
 是	O
 针	O
@@ -8461,7 +8461,7 @@ m	I-PROD
 的	O
 指	B-PCC
 令	I-PCC
-流	I-PCC
+流	E-PCC
 中	O
 的	O
 若	O
@@ -8472,7 +8472,7 @@ m	I-PROD
 提	O
 高	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 处	O
 理	O
 能	O
@@ -8485,14 +8485,14 @@ m	I-PROD
 的	O
 指	B-PCC
 令	I-PCC
-流	I-PCC
+流	E-PCC
 出	O
 现	O
 c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 缺	O
 失	O
 等	O
@@ -8504,7 +8504,7 @@ e	I-PCC
 令	I-PCC
 流	I-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 就	O
 会	O
 断	O
@@ -8528,7 +8528,7 @@ e	I-PCC
 执	B-PCC
 行	I-PCC
 单	I-PCC
-元	I-PCC
+元	E-PCC
 的	O
 利	O
 用	O
@@ -8546,10 +8546,10 @@ e	I-PCC
 致	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 流	B-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 不	O
 能	O
 继	O
@@ -8559,7 +8559,7 @@ e	I-PCC
 新	O
 的	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 而	O
 造	O
 成	O
@@ -8580,13 +8580,13 @@ e	I-PCC
 条	O
 流	B-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 中	O
 部	O
 分	O
 流	B-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 被	O
 闲	O
 置	O
@@ -8609,17 +8609,17 @@ e	I-PCC
 条	O
 流	B-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 的	O
 超	B-PCC
 标	I-PCC
 量	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 执	O
 行	O
 实	O
@@ -8640,7 +8640,7 @@ e	I-PCC
 用	O
 的	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 发	O
 射	O
 时	O
@@ -8653,18 +8653,18 @@ e	I-PCC
 表	O
 示	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 执	O
 行	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 的	O
 条	O
 指	B-PCC
 令	I-PCC
 流	I-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 指	O
 令	O
 发	O
@@ -8680,7 +8680,7 @@ e	I-PCC
 时	B-PCC
 钟	I-PCC
 周	I-PCC
-期	I-PCC
+期	E-PCC
 ，	O
 “	O
 A	O
@@ -8690,7 +8690,7 @@ A	O
 某	O
 指	B-PCC
 令	I-PCC
-流	I-PCC
+流	E-PCC
 A	O
 占	O
 用	O
@@ -8708,7 +8708,7 @@ A	O
 期	O
 
 显	B-CW
-然	I-CW
+然	E-CW
 ，	O
 水	O
 平	O
@@ -8724,7 +8724,7 @@ A	O
 了	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 执	O
 行	O
 部	O
@@ -8742,7 +8742,7 @@ A	O
 少	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 执	O
 行	O
 部	O
@@ -8758,7 +8758,7 @@ A	O
 升	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 性	O
 能	O
 的	O
@@ -8770,7 +8770,7 @@ A	O
 程	I-PCC
 级	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 t	O
 h	O
 r	O
@@ -8815,7 +8815,7 @@ P	O
 硬	B-PCC
 件	I-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 的	O
 概	O
 念	O
@@ -8823,7 +8823,7 @@ P	O
 任	I-PCC
 务	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 必	O
 须	O
 解	O
@@ -8844,7 +8844,7 @@ P	O
 的	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 时	O
 间	O
 ，	O
@@ -8856,7 +8856,7 @@ P	O
 操	B-PCC
 作	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 负	O
 责	O
 的	O
@@ -8864,7 +8864,7 @@ P	O
 操	B-PCC
 作	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 除	O
 了	O
 负	O
@@ -8874,7 +8874,7 @@ P	O
 用	B-PCC
 户	I-PCC
 程	I-PCC
-序	I-PCC
+序	E-PCC
 的	O
 执	O
 行	O
@@ -8896,7 +8896,7 @@ P	O
 操	B-PCC
 作	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 中	O
 ，	O
 通	O
@@ -8904,14 +8904,14 @@ P	O
 使	O
 用	O
 进	B-PCC
-程	I-PCC
+程	E-PCC
 p	B-PCC
 r	I-PCC
 o	I-PCC
 c	I-PCC
 e	I-PCC
 s	I-PCC
-s	I-PCC
+s	E-PCC
 这	O
 一	O
 概	O
@@ -8919,7 +8919,7 @@ s	I-PCC
 描	O
 述	O
 程	B-PCC
-序	I-PCC
+序	E-PCC
 的	O
 动	O
 态	O
@@ -8934,7 +8934,7 @@ s	I-PCC
 讲	O
 ，	O
 程	B-PCC
-序	I-PCC
+序	E-PCC
 是	O
 静	O
 态	O
@@ -8943,7 +8943,7 @@ s	I-PCC
 ，	O
 而	O
 进	B-PCC
-程	I-PCC
+程	E-PCC
 是	O
 动	O
 态	O
@@ -8956,17 +8956,17 @@ s	I-PCC
 中	O
 的	O
 程	B-PCC
-序	I-PCC
+序	E-PCC
 
 进	B-PCC
-程	I-PCC
+程	E-PCC
 不	O
 仅	O
 仅	O
 包	O
 含	O
 程	B-PCC
-序	I-PCC
+序	E-PCC
 代	O
 码	O
 ，	O
@@ -8985,18 +8985,18 @@ s	I-PCC
 序	I-PCC
 计	I-PCC
 数	I-PCC
-器	I-PCC
+器	E-PCC
 和	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 中	O
 的	O
 相	O
 关	O
 寄	B-PCC
 存	I-PCC
-器	I-PCC
+器	E-PCC
 表	O
 示	O
 和	O
@@ -9029,7 +9029,7 @@ s	I-PCC
 能	O
 的	O
 程	B-PCC
-序	I-PCC
+序	E-PCC
 ，	O
 那	O
 么	O
@@ -9047,7 +9047,7 @@ s	I-PCC
 立	O
 的	O
 进	B-PCC
-程	I-PCC
+程	E-PCC
 
 虽	O
 然	O
@@ -9076,10 +9076,10 @@ s	I-PCC
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 把	O
 进	B-PCC
-程	I-PCC
+程	E-PCC
 当	O
 作	O
 系	O
@@ -9096,17 +9096,17 @@ s	I-PCC
 操	B-PCC
 作	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 将	O
 内	B-PCC
 存	I-PCC
 空	I-PCC
-间	I-PCC
+间	E-PCC
 、	O
 I	B-PCC
 O	I-PCC
 设	I-PCC
-备	I-PCC
+备	E-PCC
 和	O
 文	O
 件	O
@@ -9119,7 +9119,7 @@ O	I-PCC
 每	O
 个	O
 进	B-PCC
-程	I-PCC
+程	E-PCC
 ，	O
 调	O
 度	O
@@ -9131,7 +9131,7 @@ O	I-PCC
 也	O
 以	O
 进	B-PCC
-程	I-PCC
+程	E-PCC
 作	O
 为	O
 基	O
@@ -9141,7 +9141,7 @@ O	I-PCC
 
 但	O
 进	B-PCC
-程	I-PCC
+程	E-PCC
 调	O
 度	O
 是	O
@@ -9156,12 +9156,12 @@ O	I-PCC
 在	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 从	O
 一	O
 个	O
 进	B-PCC
-程	I-PCC
+程	E-PCC
 切	O
 换	O
 到	O
@@ -9169,7 +9169,7 @@ O	I-PCC
 一	O
 个	O
 进	B-PCC
-程	I-PCC
+程	E-PCC
 的	O
 过	O
 程	O
@@ -9230,7 +9230,7 @@ O	I-PCC
 操	B-PCC
 作	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 中	O
 ，	O
 大	O
@@ -9238,11 +9238,11 @@ O	I-PCC
 引	O
 入	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 作	O
 为	O
 进	B-PCC
-程	I-PCC
+程	E-PCC
 概	O
 念	O
 的	O
@@ -9256,7 +9256,7 @@ O	I-PCC
 操	B-PCC
 作	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 中	O
 描	O
 述	O
@@ -9268,7 +9268,7 @@ O	I-PCC
 行	O
 的	O
 程	B-PCC
-序	I-PCC
+序	E-PCC
 代	O
 码	O
 的	O
@@ -9278,7 +9278,7 @@ O	I-PCC
 位	O
 
 进	B-PCC
-程	I-PCC
+程	E-PCC
 只	O
 作	O
 为	O
@@ -9308,17 +9308,17 @@ O	I-PCC
 每	O
 个	O
 进	B-PCC
-程	I-PCC
+程	E-PCC
 又	O
 拥	O
 有	O
 若	O
 干	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 ，	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 则	O
 是	O
 调	O
@@ -9357,20 +9357,20 @@ O	I-PCC
 序	I-PCC
 计	I-PCC
 数	I-PCC
-器	I-PCC
+器	E-PCC
 、	O
 一	O
 组	O
 寄	B-PCC
 存	I-PCC
-器	I-PCC
+器	E-PCC
 和	O
 栈	O
 之	O
 外	O
 ，	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 与	O
 属	O
 于	O
@@ -9378,16 +9378,16 @@ O	I-PCC
 一	O
 个	O
 进	B-PCC
-程	I-PCC
+程	E-PCC
 的	O
 其	O
 他	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 共	O
 享	O
 进	B-PCC
-程	I-PCC
+程	E-PCC
 所	O
 拥	O
 有	O
@@ -9400,7 +9400,7 @@ O	I-PCC
 由	O
 于	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 调	O
 度	O
 时	O
@@ -9422,7 +9422,7 @@ O	I-PCC
 因	O
 而	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 切	O
 换	O
 的	O
@@ -9430,7 +9430,7 @@ O	I-PCC
 销	O
 比	O
 进	B-PCC
-程	I-PCC
+程	E-PCC
 切	O
 换	O
 少	O
@@ -9440,7 +9440,7 @@ O	I-PCC
 在	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 设	O
 计	O
 中	O
@@ -9449,7 +9449,7 @@ O	I-PCC
 硬	B-PCC
 件	I-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 h	O
 a	O
 r	O
@@ -9475,16 +9475,16 @@ d	O
 操	B-PCC
 作	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 中	O
 的	O
 软	B-PCC
-件	I-PCC
+件	E-PCC
 多	B-PCC
 线	I-PCC
 程	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 技	O
 术	O
 相	O
@@ -9493,7 +9493,7 @@ d	O
 硬	B-PCC
 件	I-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 用	O
 来	O
 描	O
@@ -9505,14 +9505,14 @@ d	O
 的	O
 指	B-PCC
 令	I-PCC
-流	I-PCC
+流	E-PCC
 ，	O
 而	O
 多	O
 个	O
 指	B-PCC
 令	I-PCC
-流	I-PCC
+流	E-PCC
 能	O
 共	O
 享	O
@@ -9523,18 +9523,18 @@ d	O
 持	O
 多	B-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 的	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 
 当	O
 一	O
 个	O
 指	B-PCC
 令	I-PCC
-流	I-PCC
+流	E-PCC
 因	O
 故	O
 暂	O
@@ -9555,18 +9555,18 @@ d	O
 一	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 的	O
 指	B-PCC
 令	I-PCC
-流	I-PCC
+流	E-PCC
 
 由	O
 于	O
 各	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 相	O
 互	O
 独	O
@@ -9582,15 +9582,15 @@ d	O
 因	O
 单	B-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 指	B-PCC
 令	I-PCC
-流	I-PCC
+流	E-PCC
 中	O
 各	O
 条	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 之	O
 间	O
 的	O
@@ -9605,7 +9605,7 @@ d	O
 令	I-PCC
 流	I-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 冲	O
 突	O
 现	O
@@ -9619,11 +9619,11 @@ d	O
 高	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 执	B-PCC
 行	I-PCC
 单	I-PCC
-元	I-PCC
+元	E-PCC
 的	O
 利	O
 用	O
@@ -9633,7 +9633,7 @@ d	O
 此	O
 ，	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 的	O
 概	O
 念	O
@@ -9643,7 +9643,7 @@ d	O
 令	I-PCC
 级	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 扩	O
 展	O
 至	O
@@ -9651,7 +9651,7 @@ d	O
 程	I-PCC
 级	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 
 图	O
 显	O
@@ -9664,17 +9664,17 @@ d	O
 两	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 的	O
 超	B-PCC
 标	I-PCC
 量	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 执	O
 行	O
 实	O
@@ -9689,11 +9689,11 @@ A	O
 表	O
 示	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 A	O
 指	B-PCC
 令	I-PCC
-流	I-PCC
+流	E-PCC
 A	O
 占	O
 用	O
@@ -9707,11 +9707,11 @@ B	O
 表	O
 示	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 B	O
 指	B-PCC
 令	I-PCC
-流	I-PCC
+流	E-PCC
 B	O
 占	O
 用	O
@@ -9725,7 +9725,7 @@ B	O
 时	B-PCC
 钟	I-PCC
 周	I-PCC
-期	I-PCC
+期	E-PCC
 内	O
 ，	O
 所	O
@@ -9733,7 +9733,7 @@ B	O
 的	O
 流	B-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 都	O
 用	O
 于	O
@@ -9742,10 +9742,10 @@ B	O
 同	O
 一	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 的	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 ，	O
 但	O
 在	O
@@ -9755,7 +9755,7 @@ B	O
 时	B-PCC
 钟	I-PCC
 周	I-PCC
-期	I-PCC
+期	E-PCC
 则	O
 可	O
 以	O
@@ -9765,12 +9765,12 @@ B	O
 一	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 的	O
 指	O
 令	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 执	O
 行	O
 
@@ -9779,14 +9779,14 @@ B	O
 度	I-PCC
 多	I-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 和	O
 粗	B-PCC
 粒	I-PCC
 度	I-PCC
 多	I-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 根	O
 据	O
 多	B-PCC
@@ -9794,7 +9794,7 @@ B	O
 程	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 具	O
 体	O
@@ -9823,7 +9823,7 @@ B	O
 程	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 和	O
 粗	B-PCC
 粒	I-PCC
@@ -9838,14 +9838,14 @@ B	O
 程	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 
 细	B-PCC
 粒	I-PCC
 度	I-PCC
 多	I-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 如	O
 图	O
 a	O
@@ -9854,7 +9854,7 @@ a	O
 ，	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 交	O
 替	O
 执	O
@@ -9865,10 +9865,10 @@ B	O
 两	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 的	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 ，	O
 在	O
 每	O
@@ -9876,12 +9876,12 @@ B	O
 时	B-PCC
 钟	I-PCC
 周	I-PCC
-期	I-PCC
+期	E-PCC
 都	O
 进	O
 行	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 切	O
 换	O
 
@@ -9890,7 +9890,7 @@ B	O
 多	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 交	O
 替	O
 执	O
@@ -9906,7 +9906,7 @@ B	O
 态	O
 的	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 在	O
 切	O
 换	O
@@ -9926,7 +9926,7 @@ B	O
 低	O
 了	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 阻	O
 塞	O
 造	O
@@ -9934,7 +9934,7 @@ B	O
 的	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 吞	O
 吐	O
 率	O
@@ -9947,7 +9947,7 @@ B	O
 每	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 的	O
 执	O
 行	O
@@ -9965,14 +9965,14 @@ B	O
 态	O
 的	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 会	O
 因	O
 为	O
 其	O
 他	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 的	O
 执	O
 行	O
@@ -9985,7 +9985,7 @@ B	O
 度	I-PCC
 多	I-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 如	O
 图	O
 b	O
@@ -10013,7 +10013,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 缺	O
 失	O
 需	O
@@ -10021,19 +10021,19 @@ e	I-PCC
 访	O
 问	O
 主	B-PCC
-存	I-PCC
+存	E-PCC
 时	O
 才	O
 由	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 硬	B-PCC
-件	I-PCC
+件	E-PCC
 进	O
 行	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 切	O
 换	O
 ，	O
@@ -10047,10 +10047,10 @@ e	I-PCC
 一	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 的	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 
 因	O
 此	O
@@ -10060,14 +10060,14 @@ e	I-PCC
 度	I-PCC
 多	I-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 比	O
 细	B-PCC
 粒	I-PCC
 度	I-PCC
 多	I-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 有	O
 更	O
 低	O
@@ -10083,7 +10083,7 @@ e	I-PCC
 每	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 的	O
 执	O
 行	O
@@ -10103,7 +10103,7 @@ e	I-PCC
 度	I-PCC
 多	I-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 也	O
 有	O
 弱	O
@@ -10113,7 +10113,7 @@ e	I-PCC
 是	O
 在	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 切	O
 换	O
 的	O
@@ -10131,7 +10131,7 @@ e	I-PCC
 令	I-PCC
 流	I-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 
 只	O
 有	O
@@ -10144,7 +10144,7 @@ e	I-PCC
 导	O
 致	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 被	O
 阻	O
 塞	O
@@ -10158,7 +10158,7 @@ e	I-PCC
 令	I-PCC
 流	I-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 排	O
 空	O
 或	O
@@ -10174,7 +10174,7 @@ e	I-PCC
 度	I-PCC
 多	I-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 才	O
 是	O
 有	O
@@ -10187,14 +10187,14 @@ e	I-PCC
 程	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 通	O
 常	O
 为	O
 每	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 维	O
 护	O
 独	O
@@ -10204,17 +10204,17 @@ e	I-PCC
 序	I-PCC
 计	I-PCC
 数	I-PCC
-器	I-PCC
+器	E-PCC
 和	O
 数	B-PCC
 据	I-PCC
 寄	I-PCC
 存	I-PCC
-器	I-PCC
+器	E-PCC
 
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 硬	O
 件	O
 能	O
@@ -10224,7 +10224,7 @@ e	I-PCC
 实	O
 现	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 间	O
 的	O
 切	O
@@ -10240,17 +10240,17 @@ e	I-PCC
 立	O
 的	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 共	O
 享	O
 执	B-PCC
 行	I-PCC
 单	I-PCC
-元	I-PCC
+元	E-PCC
 的	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 时	O
 间	O
 ，	O
@@ -10264,7 +10264,7 @@ e	I-PCC
 速	O
 的	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 切	O
 换	O
 ，	O
@@ -10275,7 +10275,7 @@ e	I-PCC
 程	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 能	O
 够	O
 有	O
@@ -10298,13 +10298,13 @@ e	I-PCC
 程	I-PCC
 级	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 来	O
 提	O
 高	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 资	O
 源	O
 的	O
@@ -10324,7 +10324,7 @@ e	I-PCC
 程	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 虽	O
 然	O
 可	O
@@ -10350,7 +10350,7 @@ e	I-PCC
 执	B-PCC
 行	I-PCC
 单	I-PCC
-元	I-PCC
+元	E-PCC
 浪	O
 费	O
 ，	O
@@ -10364,7 +10364,7 @@ e	I-PCC
 用	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 中	O
 的	O
 所	O
@@ -10381,12 +10381,12 @@ e	I-PCC
 时	B-PCC
 钟	I-PCC
 周	I-PCC
-期	I-PCC
+期	E-PCC
 执	O
 行	O
 的	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 都	O
 来	O
 自	O
@@ -10394,7 +10394,7 @@ e	I-PCC
 一	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 ，	O
 因	O
 而	O
@@ -10421,7 +10421,7 @@ e	I-PCC
 用	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 资	O
 源	O
 ，	O
@@ -10429,7 +10429,7 @@ e	I-PCC
 时	O
 多	B-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 s	O
 i	O
 m	O
@@ -10461,7 +10461,7 @@ S	B-PCC
 M	I-PCC
 T	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 被	O
 引	O
 入	O
@@ -10469,7 +10469,7 @@ T	I-PCC
 代	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 中	O
 
 同	O
@@ -10478,7 +10478,7 @@ T	I-PCC
 线	I-PCC
 程	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 结	O
 合	O
 了	O
@@ -10486,14 +10486,14 @@ T	I-PCC
 标	I-PCC
 量	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 和	O
 细	B-PCC
 粒	I-PCC
 度	I-PCC
 多	I-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 技	O
 术	O
 的	O
@@ -10508,7 +10508,7 @@ T	I-PCC
 时	B-PCC
 钟	I-PCC
 周	I-PCC
-期	I-PCC
+期	E-PCC
 内	O
 发	O
 射	O
@@ -10517,12 +10517,12 @@ T	I-PCC
 不	O
 同	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 的	O
 多	O
 条	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 ，	O
 因	O
 而	O
@@ -10553,7 +10553,7 @@ T	I-PCC
 两	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 的	O
 同	O
 时	O
@@ -10562,10 +10562,10 @@ T	I-PCC
 程	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 执	O
 行	O
 实	O
@@ -10577,12 +10577,12 @@ T	I-PCC
 时	B-PCC
 钟	I-PCC
 周	I-PCC
-期	I-PCC
+期	E-PCC
 内	O
 ，	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 可	O
 以	O
 执	O
@@ -10592,12 +10592,12 @@ T	I-PCC
 不	O
 同	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 的	O
 多	O
 条	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 
 当	O
 其	O
@@ -10605,7 +10605,7 @@ T	I-PCC
 某	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 由	O
 于	O
 长	O
@@ -10622,7 +10622,7 @@ T	I-PCC
 没	O
 有	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 可	O
 以	O
 执	O
@@ -10633,7 +10633,7 @@ T	I-PCC
 一	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 甚	O
 至	O
 能	O
@@ -10644,7 +10644,7 @@ T	I-PCC
 有	O
 的	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 发	O
 射	O
 时	O
@@ -10659,7 +10659,7 @@ T	I-PCC
 线	I-PCC
 程	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 既	O
 能	O
 够	O
@@ -10669,7 +10669,7 @@ T	I-PCC
 程	I-PCC
 级	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 减	O
 少	O
 垂	O
@@ -10686,7 +10686,7 @@ T	I-PCC
 时	B-PCC
 钟	I-PCC
 周	I-PCC
-期	I-PCC
+期	E-PCC
 内	O
 同	O
 时	O
@@ -10696,13 +10696,13 @@ T	I-PCC
 程	I-PCC
 级	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 和	O
 指	B-PCC
 令	I-PCC
 级	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 来	O
 减	O
 少	O
@@ -10719,7 +10719,7 @@ T	I-PCC
 高	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 整	O
 体	O
@@ -10730,7 +10730,7 @@ T	I-PCC
 时	I-PCC
 多	I-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 技	O
 术	O
 是	O
@@ -10744,7 +10744,7 @@ T	I-PCC
 本	O
 的	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 技	O
 术	O
 
@@ -10754,7 +10754,7 @@ T	I-PCC
 程	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 相	O
 比	O
 ，	O
@@ -10765,7 +10765,7 @@ T	I-PCC
 程	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 只	O
 花	O
 费	O
@@ -10794,14 +10794,14 @@ T	I-PCC
 程	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 内	O
 部	O
 为	O
 多	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 提	O
 供	O
 各	O
@@ -10811,13 +10811,13 @@ T	I-PCC
 序	I-PCC
 计	I-PCC
 数	I-PCC
-器	I-PCC
+器	E-PCC
 、	O
 相	O
 关	O
 寄	B-PCC
 存	I-PCC
-器	I-PCC
+器	E-PCC
 以	O
 及	O
 其	O
@@ -10837,7 +10837,7 @@ T	I-PCC
 ”	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 被	O
 模	O
 拟	O
@@ -10850,14 +10850,14 @@ T	I-PCC
 ”	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 ，	O
 以	O
 便	O
 多	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 同	O
 步	O
 执	O
@@ -10867,7 +10867,7 @@ T	I-PCC
 享	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 执	O
 行	O
@@ -10877,7 +10877,7 @@ T	I-PCC
 应	B-PCC
 用	I-PCC
 程	I-PCC
-序	I-PCC
+序	E-PCC
 无	O
 须	O
 做	O
@@ -10896,7 +10896,7 @@ T	I-PCC
 辑	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 
 由	O
 于	O
@@ -10906,31 +10906,31 @@ T	I-PCC
 辑	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 共	O
 享	O
 处	B-PCC
 理	I-PCC
 机	I-PCC
 内	I-PCC
-核	I-PCC
+核	E-PCC
 的	O
 执	B-PCC
 行	I-PCC
 单	I-PCC
-元	I-PCC
+元	E-PCC
 、	O
 高	B-PCC
 速	I-PCC
 缓	I-PCC
-存	I-PCC
+存	E-PCC
 和	O
 系	B-PCC
 统	I-PCC
 总	I-PCC
-线	I-PCC
+线	E-PCC
 接	B-PCC
-口	I-PCC
+口	E-PCC
 等	O
 资	O
 源	O
@@ -10942,7 +10942,7 @@ T	I-PCC
 现	O
 多	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 时	O
 多	O
 个	O
@@ -10950,7 +10950,7 @@ T	I-PCC
 辑	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 需	O
 要	O
 交	O
@@ -10963,7 +10963,7 @@ T	I-PCC
 多	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 同	O
 时	O
 需	O
@@ -10981,7 +10981,7 @@ T	I-PCC
 一	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 能	O
 够	O
 使	O
@@ -10993,7 +10993,7 @@ T	I-PCC
 其	O
 他	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 要	O
 暂	O
 停	O
@@ -11021,7 +11021,7 @@ T	I-PCC
 线	I-PCC
 程	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 就	O
 性	O
 能	O
@@ -11042,11 +11042,11 @@ T	I-PCC
 时	B-PCC
 钟	I-PCC
 频	I-PCC
-率	I-PCC
+率	E-PCC
 处	B-PCC
 理	I-PCC
 机	I-PCC
-核	I-PCC
+核	E-PCC
 组	O
 合	O
 而	O
@@ -11056,7 +11056,7 @@ T	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 ，	O
 但	O
 从	O
@@ -11076,7 +11076,7 @@ T	I-PCC
 线	I-PCC
 程	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 是	O
 一	O
 种	O
@@ -11086,7 +11086,7 @@ T	I-PCC
 程	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 执	O
 行	O
 资	O
@@ -11113,7 +11113,7 @@ T	I-PCC
 多	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 需	O
 要	O
 共	O
@@ -11127,7 +11127,7 @@ T	I-PCC
 而	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 实	O
 时	O
@@ -11151,16 +11151,16 @@ T	I-PCC
 取	B-PCC
 指	I-PCC
 部	I-PCC
-件	I-PCC
+件	E-PCC
 要	O
 在	O
 单	B-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 执	B-PCC
 行	I-PCC
 时	I-PCC
-间	I-PCC
+间	E-PCC
 延	O
 迟	O
 与	O
@@ -11183,19 +11183,19 @@ T	I-PCC
 程	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 相	O
 比	O
 ，	O
 并	B-PCC
-发	I-PCC
+发	E-PCC
 执	O
 行	O
 的	O
 多	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 必	O
 然	O
 拉	O
@@ -11203,17 +11203,17 @@ T	I-PCC
 单	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 的	O
 执	B-PCC
 行	I-PCC
 时	I-PCC
-间	I-PCC
+间	E-PCC
 ，	O
 但	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 可	O
 以	O
 通	O
@@ -11223,13 +11223,13 @@ T	I-PCC
 一	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 为	O
 最	O
 高	O
 优	B-PCC
 先	I-PCC
-级	I-PCC
+级	E-PCC
 而	O
 减	O
 小	O
@@ -11245,7 +11245,7 @@ T	I-PCC
 优	O
 先	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 阻	O
 塞	O
 时	O
@@ -11255,7 +11255,7 @@ T	I-PCC
 其	O
 他	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 
 为	O
 了	O
@@ -11268,7 +11268,7 @@ T	I-PCC
 高	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 整	O
 体	O
 性	O
@@ -11281,7 +11281,7 @@ T	I-PCC
 程	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 也	O
 可	O
 以	O
@@ -11297,12 +11297,12 @@ T	I-PCC
 即	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 取	B-PCC
 指	I-PCC
 部	I-PCC
-件	I-PCC
+件	E-PCC
 可	O
 以	O
 选	O
@@ -11321,11 +11321,11 @@ T	I-PCC
 处	O
 的	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 优	O
 先	O
 取	B-PCC
-指	I-PCC
+指	E-PCC
 并	O
 执	O
 行	O
@@ -11338,12 +11338,12 @@ T	I-PCC
 单	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 的	O
 执	B-PCC
 行	I-PCC
 时	I-PCC
-间	I-PCC
+间	E-PCC
 延	O
 迟	O
 
@@ -11355,11 +11355,11 @@ T	I-PCC
 时	O
 多	B-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 ，	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 需	O
 要	O
 解	O
@@ -11375,7 +11375,7 @@ T	I-PCC
 ，	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 内	O
 需	O
 要	O
@@ -11385,13 +11385,13 @@ T	I-PCC
 量	O
 寄	B-PCC
 存	I-PCC
-器	I-PCC
+器	E-PCC
 保	O
 存	O
 每	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 的	O
 现	O
 场	O
@@ -11405,13 +11405,13 @@ T	I-PCC
 由	O
 于	O
 并	B-PCC
-发	I-PCC
+发	E-PCC
 执	O
 行	O
 多	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 带	O
 来	O
 的	O
@@ -11419,7 +11419,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 冲	O
 突	O
 不	O
@@ -11437,7 +11437,7 @@ e	I-PCC
 确	O
 保	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 切	O
 换	O
 的	O
@@ -11452,7 +11452,7 @@ e	I-PCC
 线	I-PCC
 程	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 是	O
 同	O
 时	O
@@ -11460,16 +11460,16 @@ e	I-PCC
 线	I-PCC
 程	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 在	O
 英	B-PROD
 特	I-PROD
 尔	I-PROD
 系	I-PROD
-列	I-PROD
+列	E-PROD
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 产	O
 品	O
 中	O
@@ -11487,26 +11487,26 @@ e	I-PCC
 特	I-CORP
 尔	I-CORP
 公	I-CORP
-司	I-CORP
+司	E-CORP
 先	O
 后	O
 在	O
 其	O
 奔	B-PROD
-腾	I-PROD
+腾	E-PROD
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 和	O
 至	B-PROD
 强	I-PROD
 X	I-PROD
 E	I-PROD
 O	I-PROD
-N	I-PROD
+N	E-PROD
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 等	O
 产	O
 品	O
@@ -11517,19 +11517,19 @@ N	I-PROD
 线	I-PCC
 程	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 
 奔	B-PROD
 腾	I-PROD
 处	I-PROD
 理	I-PROD
-机	I-PROD
+机	E-PROD
 和	O
 至	B-PROD
 强	I-PROD
 处	I-PROD
 理	I-PROD
-机	I-PROD
+机	E-PROD
 基	O
 于	O
 同	O
@@ -11539,7 +11539,7 @@ I	B-CORP
 n	I-CORP
 t	I-CORP
 e	I-CORP
-l	I-CORP
+l	E-CORP
 N	O
 e	O
 t	O
@@ -11573,15 +11573,15 @@ e	O
 ，	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 体	O
 系	O
 结	O
 构	O
 在	O
-硅	B-PROD
+硅	S-PROD
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 上	O
 的	O
 具	O
@@ -11599,7 +11599,7 @@ e	O
 线	I-PCC
 程	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 的	O
 N	O
 e	O
@@ -11617,14 +11617,14 @@ t	O
 的	O
 流	B-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 结	O
 构	O
 
 每	O
 条	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 的	O
 执	O
 行	O
@@ -11644,7 +11644,7 @@ t	O
 的	O
 流	B-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 
 图	O
 支	O
@@ -11653,7 +11653,7 @@ t	O
 线	I-PCC
 程	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 的	O
 N	O
 e	O
@@ -11671,7 +11671,7 @@ t	O
 的	O
 流	B-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 结	O
 构	O
 原	O
@@ -11679,13 +11679,13 @@ t	O
 的	O
 流	B-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 只	O
 支	O
 持	O
 单	B-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 运	O
 行	O
 
@@ -11696,7 +11696,7 @@ t	O
 ，	O
 单	B-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 的	O
 N	O
 e	O
@@ -11714,7 +11714,7 @@ t	O
 的	O
 流	B-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 在	O
 执	O
 行	O
@@ -11724,7 +11724,7 @@ t	O
 指	B-PCC
 令	I-PCC
 序	I-PCC
-列	I-PCC
+列	E-PCC
 时	O
 仅	O
 仅	O
@@ -11736,7 +11736,7 @@ t	O
 的	O
 流	B-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 资	O
 源	O
 
@@ -11749,7 +11749,7 @@ t	O
 硬	B-PCC
 件	I-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 同	O
 时	O
 运	O
@@ -11760,7 +11760,7 @@ t	O
 对	O
 流	B-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 进	O
 行	O
 改	O
@@ -11777,7 +11777,7 @@ t	O
 级	O
 流	B-PCC
 水	I-PCC
-线	I-PCC
+线	E-PCC
 中	O
 的	O
 资	O
@@ -11796,7 +11796,7 @@ t	O
 两	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 ：	O
 复	O
 制	O
@@ -11818,7 +11818,7 @@ t	O
 在	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 设	O
 计	O
 时	O
@@ -11828,7 +11828,7 @@ t	O
 两	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 设	O
 置	O
 独	O
@@ -11850,12 +11850,12 @@ t	O
 的	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 状	O
 态	O
 、	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 指	O
 针	O
 I	O
@@ -11864,14 +11864,14 @@ P	O
 序	I-PCC
 计	I-PCC
 数	I-PCC
-器	I-PCC
+器	E-PCC
 寄	B-PCC
 存	I-PCC
-器	I-PCC
+器	E-PCC
 、	O
 寄	B-PCC
 存	I-PCC
-器	I-PCC
+器	E-PCC
 重	O
 命	O
 名	O
@@ -11889,7 +11889,7 @@ P	O
 令	I-PCC
 T	I-PCC
 L	I-PCC
-B	I-PCC
+B	E-PCC
 等	O
 
 复	O
@@ -11907,7 +11907,7 @@ B	I-PCC
 高	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 成	O
 本	O
@@ -11916,7 +11916,7 @@ B	I-PCC
 每	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 使	O
 用	O
 这	O
@@ -11929,7 +11929,7 @@ B	I-PCC
 与	O
 单	B-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 相	O
 同	O
 
@@ -11942,7 +11942,7 @@ B	I-PCC
 在	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 设	O
 计	O
 时	O
@@ -11954,7 +11954,7 @@ B	I-PCC
 于	O
 单	B-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 的	O
 独	O
 立	O
@@ -11973,7 +11973,7 @@ B	I-PCC
 两	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 使	O
 用	O
 
@@ -11991,10 +11991,10 @@ B	I-PCC
 种	O
 缓	B-PCC
 冲	I-PCC
-区	I-PCC
+区	E-PCC
 和	O
 队	B-PCC
-列	I-PCC
+列	E-PCC
 ，	O
 如	O
 重	O
@@ -12002,7 +12002,7 @@ B	I-PCC
 序	O
 缓	B-PCC
 冲	I-PCC
-区	I-PCC
+区	E-PCC
 、	O
 取	O
 数	O
@@ -12010,34 +12010,34 @@ B	I-PCC
 数	O
 缓	B-PCC
 冲	I-PCC
-区	I-PCC
+区	E-PCC
 和	O
 各	O
 级	O
 队	B-PCC
-列	I-PCC
+列	E-PCC
 等	O
 
 与	O
 单	B-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 相	O
 比	O
 ，	O
 每	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 使	O
 用	O
 的	O
 缓	B-PCC
 冲	I-PCC
-区	I-PCC
+区	E-PCC
 或	O
 队	B-PCC
-列	I-PCC
+列	E-PCC
 的	O
 容	O
 量	O
@@ -12047,7 +12047,7 @@ B	I-PCC
 而	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 成	O
 本	O
 并	O
@@ -12065,12 +12065,12 @@ B	I-PCC
 由	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 在	O
 执	O
 行	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 的	O
 过	O
 程	O
@@ -12088,7 +12088,7 @@ B	I-PCC
 两	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 之	O
 间	O
 动	O
@@ -12109,7 +12109,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 采	O
 用	O
 共	O
@@ -12130,14 +12130,14 @@ e	I-PCC
 加	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 成	O
 本	O
 ，	O
 但	O
 单	B-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 运	O
 行	O
 时	O
@@ -12176,7 +12176,7 @@ e	I-PCC
 此	O
 当	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 在	O
 不	O
 同	O
@@ -12191,7 +12191,7 @@ e	I-PCC
 ，	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 需	O
 在	O
 图	O
@@ -12227,13 +12227,13 @@ e	I-PCC
 源	O
 的	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 
 多	B-PCC
 线	I-PCC
 程	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 只	O
 对	O
 传	O
@@ -12241,13 +12241,13 @@ e	I-PCC
 的	O
 单	B-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 超	B-PCC
 标	I-PCC
 量	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 结	O
 构	O
 做	O
@@ -12275,7 +12275,7 @@ e	I-PCC
 线	I-PCC
 程	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 的	O
 内	O
 核	O
@@ -12286,7 +12286,7 @@ e	I-PCC
 线	I-PCC
 程	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 的	O
 内	O
 核	O
@@ -12304,7 +12304,7 @@ e	I-PCC
 线	I-PCC
 程	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 需	O
 要	O
 解	O
@@ -12331,7 +12331,7 @@ e	I-PCC
 略	O
 、	O
 取	B-PCC
-指	I-PCC
+指	E-PCC
 和	O
 发	O
 射	O
@@ -12340,7 +12340,7 @@ e	I-PCC
 、	O
 寄	B-PCC
 存	I-PCC
-器	I-PCC
+器	E-PCC
 回	O
 收	O
 机	O
@@ -12349,7 +12349,7 @@ e	I-PCC
 存	B-PCC
 储	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 层	O
 次	O
 设	O
@@ -12361,7 +12361,7 @@ e	I-PCC
 程	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 复	O
 杂	O
 许	O
@@ -12372,7 +12372,7 @@ e	I-PCC
 理	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 由	O
 多	O
 个	O
@@ -12381,7 +12381,7 @@ e	I-PCC
 的	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 组	O
 成	O
 ，	O
@@ -12389,7 +12389,7 @@ e	I-PCC
 个	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 能	O
 够	O
 独	O
@@ -12400,7 +12400,7 @@ e	I-PCC
 己	O
 的	O
 程	B-PCC
-序	I-PCC
+序	E-PCC
 
 现	O
 有	O
@@ -12410,7 +12410,7 @@ e	I-PCC
 理	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 分	O
 为	O
 如	O
@@ -12426,7 +12426,7 @@ e	I-PCC
 量	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 P	O
 V	O
 P	O
@@ -12436,7 +12436,7 @@ P	O
 多	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 S	O
 M	O
 P	O
@@ -12448,7 +12448,7 @@ P	O
 行	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 M	O
 P	O
 P	O
@@ -12463,7 +12463,7 @@ P	O
 多	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 D	O
 S	O
 M	O
@@ -12479,7 +12479,7 @@ M	O
 量	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 见	O
 图	O
 a	O
@@ -12497,14 +12497,14 @@ a	O
 量	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 采	O
 用	O
 共	B-PCC
 享	I-PCC
 存	I-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 方	O
 式	O
 互	O
@@ -12521,7 +12521,7 @@ a	O
 ，	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 数	O
 目	O
 不	O
@@ -12535,7 +12535,7 @@ a	O
 多	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 见	O
 图	O
 b	O
@@ -12546,13 +12546,13 @@ b	O
 组	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 和	O
 一	O
 组	O
 存	B-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 模	O
 块	O
 经	O
@@ -12571,7 +12571,7 @@ b	O
 个	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 且	O
 是	O
 对	O
@@ -12582,7 +12582,7 @@ b	O
 台	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 能	O
 力	O
@@ -12598,7 +12598,7 @@ b	O
 问	O
 存	B-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 时	O
 ，	O
 数	O
@@ -12606,13 +12606,13 @@ b	O
 在	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 和	O
 存	B-PCC
 储	I-PCC
 器	I-PCC
 模	I-PCC
-块	I-PCC
+块	E-PCC
 间	O
 的	O
 传	O
@@ -12633,7 +12633,7 @@ b	O
 耦	I-PCC
 合	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 ，	O
 不	O
 管	O
@@ -12648,7 +12648,7 @@ b	O
 个	O
 存	B-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 模	O
 块	O
 中	O
@@ -12657,7 +12657,7 @@ b	O
 问	O
 存	B-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 所	O
 需	O
 的	O
@@ -12681,7 +12681,7 @@ b	O
 多	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 见	O
 图	O
 c	O
@@ -12705,7 +12705,7 @@ P	O
 耦	I-PCC
 合	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 
 它	O
 的	O
@@ -12713,7 +12713,7 @@ P	O
 享	I-PCC
 存	I-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 分	O
 布	O
 在	O
@@ -12721,14 +12721,14 @@ P	O
 台	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 中	O
 ，	O
 每	O
 台	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 都	O
 带	O
 有	O
@@ -12739,7 +12739,7 @@ P	O
 地	I-PCC
 存	I-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 ，	O
 组	O
 成	O
@@ -12752,7 +12752,7 @@ P	O
 储	I-PCC
 器	I-PCC
 单	I-PCC
-元	I-PCC
+元	E-PCC
 
 但	O
 是	O
@@ -12765,14 +12765,14 @@ P	O
 台	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 中	O
 的	O
 实	O
 际	O
 存	B-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 又	O
 合	O
 在	O
@@ -12781,7 +12781,7 @@ P	O
 统	B-PCC
 一	I-PCC
 编	I-PCC
-址	I-PCC
+址	E-PCC
 ，	O
 在	O
 逻	O
@@ -12795,7 +12795,7 @@ P	O
 享	I-PCC
 存	I-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 
 这	O
 些	O
@@ -12806,7 +12806,7 @@ P	O
 储	I-PCC
 器	I-PCC
 单	I-PCC
-元	I-PCC
+元	E-PCC
 通	O
 过	O
 互	O
@@ -12823,7 +12823,7 @@ P	O
 台	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 除	O
 了	O
 能	O
@@ -12833,7 +12833,7 @@ P	O
 地	I-PCC
 存	I-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 外	O
 ，	O
 还	O
@@ -12858,7 +12858,7 @@ P	O
 储	I-PCC
 器	I-PCC
 单	I-PCC
-元	I-PCC
+元	E-PCC
 中	O
 的	O
 “	O
@@ -12866,12 +12866,12 @@ P	O
 程	I-PCC
 存	I-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 ”	O
 
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 在	O
 访	O
 问	O
@@ -12879,7 +12879,7 @@ P	O
 程	I-PCC
 存	I-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 时	O
 所	O
 需	O
@@ -12895,7 +12895,7 @@ P	O
 地	I-PCC
 存	I-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 时	O
 所	O
 需	O
@@ -12916,7 +12916,7 @@ P	O
 地	I-PCC
 存	I-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 要	O
 快	O
 得	O
@@ -12929,7 +12929,7 @@ P	O
 行	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 见	O
 图	O
 d	O
@@ -12945,13 +12945,13 @@ d	O
 理	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 
 每	O
 个	O
 计	B-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 模	O
 块	O
 称	O
@@ -12970,7 +12970,7 @@ d	O
 台	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 和	O
 它	O
 的	O
@@ -12978,14 +12978,14 @@ d	O
 部	O
 存	B-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 L	O
 M	O
 、	O
 结	O
 点	O
 接	B-PCC
-口	I-PCC
+口	E-PCC
 N	O
 I	O
 C	O
@@ -13000,7 +13000,7 @@ C	O
 I	B-PCC
 O	I-PCC
 设	I-PCC
-备	I-PCC
+备	E-PCC
 ，	O
 这	O
 几	O
@@ -13013,7 +13013,7 @@ O	I-PCC
 内	O
 的	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 连	O
 在	O
 一	O
@@ -13021,7 +13021,7 @@ O	I-PCC
 
 计	B-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 模	O
 块	O
 又	O
@@ -13030,7 +13030,7 @@ O	I-PCC
 结	O
 点	O
 接	B-PCC
-口	I-PCC
+口	E-PCC
 连	O
 接	O
 到	O
@@ -13060,7 +13060,7 @@ I	O
 的	O
 计	B-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 已	O
 可	O
 以	O
@@ -13069,7 +13069,7 @@ I	O
 一	O
 个	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 上	O
 
 第	O
@@ -13093,14 +13093,14 @@ I	O
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 中	O
 ，	O
 各	O
 台	O
 计	B-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 间	O
 传	O
 送	O
@@ -13170,7 +13170,7 @@ I	O
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 的	O
 互	O
 联	O
@@ -13193,7 +13193,7 @@ I	O
 理	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 相	O
 比	O
 ，	O
@@ -13207,7 +13207,7 @@ I	O
 成	O
 计	B-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 数	O
 目	O
 很	O
@@ -13217,7 +13217,7 @@ I	O
 规	O
 模	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 处	O
 理	O
 系	O
@@ -13241,7 +13241,7 @@ I	O
 微	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 构	O
 成	O
 几	O
@@ -13258,14 +13258,14 @@ I	O
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 
 鉴	O
 于	O
 当	O
 前	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 处	O
 理	O
 系	O
@@ -13287,10 +13287,10 @@ I	O
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 S	B-PCC
 M	I-PCC
-P	I-PCC
+P	E-PCC
 
 不	O
 久	O
@@ -13306,7 +13306,7 @@ P	I-PCC
 人	O
 计	B-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 和	O
 大	O
 多	O
@@ -13325,7 +13325,7 @@ P	I-PCC
 微	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 
 随	O
 着	O
@@ -13340,7 +13340,7 @@ P	I-PCC
 微	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 价	O
 格	O
 的	O
@@ -13351,7 +13351,7 @@ P	I-PCC
 ，	O
 计	B-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 制	O
 造	O
 商	O
@@ -13360,20 +13360,20 @@ P	I-PCC
 了	O
 S	B-PCC
 M	I-PCC
-P	I-PCC
+P	E-PCC
 系	O
 统	O
 
 S	B-PCC
 M	I-PCC
-P	I-PCC
+P	E-PCC
 既	O
 指	O
 计	B-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 硬	B-PCC
-件	I-PCC
+件	E-PCC
 体	O
 系	O
 结	O
@@ -13392,13 +13392,13 @@ P	I-PCC
 操	B-PCC
 作	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 行	O
 为	O
 
 S	B-PCC
 M	I-PCC
-P	I-PCC
+P	E-PCC
 定	O
 义	O
 为	O
@@ -13415,7 +13415,7 @@ P	I-PCC
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 
 有	O
 两	O
@@ -13429,28 +13429,28 @@ P	I-PCC
 的	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 
 这	O
 些	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 共	O
 享	O
 同	O
 一	O
 主	B-PCC
-存	I-PCC
+存	E-PCC
 和	O
 I	B-PCC
-O	I-PCC
+O	E-PCC
 设	O
 施	O
 ，	O
 以	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 或	O
 其	O
 他	O
@@ -13471,17 +13471,17 @@ O	I-PCC
 ，	O
 存	B-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 存	B-PCC
 取	I-PCC
 时	I-PCC
-间	I-PCC
+间	E-PCC
 对	O
 每	O
 个	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 都	O
 是	O
 大	O
@@ -13494,14 +13494,14 @@ O	I-PCC
 有	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 共	O
 享	O
 对	O
 I	B-PCC
 O	I-PCC
 设	I-PCC
-备	I-PCC
+备	E-PCC
 的	O
 访	O
 问	O
@@ -13512,7 +13512,7 @@ O	I-PCC
 同	O
 一	O
 通	B-PCC
-道	I-PCC
+道	E-PCC
 ，	O
 或	O
 通	O
@@ -13530,13 +13530,13 @@ O	I-PCC
 不	O
 同	O
 通	B-PCC
-道	I-PCC
+道	E-PCC
 
 所	O
 有	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 能	O
 完	O
 成	O
@@ -13557,7 +13557,7 @@ O	I-PCC
 操	B-PCC
 作	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 O	O
 S	O
 控	O
@@ -13570,11 +13570,11 @@ S	O
 各	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 及	O
 其	O
 程	B-PCC
-序	I-PCC
+序	E-PCC
 之	O
 间	O
 的	O
@@ -13614,12 +13614,12 @@ S	O
 了	O
 S	B-PCC
 M	I-PCC
-P	I-PCC
+P	E-PCC
 与	O
 机	B-PCC
 群	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 之	O
 类	O
 的	O
@@ -13659,7 +13659,7 @@ P	I-PCC
 在	O
 S	B-PCC
 M	I-PCC
-P	I-PCC
+P	E-PCC
 中	O
 ，	O
 个	O
@@ -13681,7 +13681,7 @@ P	I-PCC
 是	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 间	O
 能	O
 够	O
@@ -13696,12 +13696,12 @@ P	I-PCC
 
 S	B-PCC
 M	I-PCC
-P	I-PCC
+P	E-PCC
 的	O
 操	B-PCC
 作	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 能	O
 跨	O
 越	O
@@ -13709,19 +13709,19 @@ P	I-PCC
 有	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 来	O
 调	O
 度	O
 进	B-PCC
-程	I-PCC
+程	E-PCC
 或	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 
 S	B-PCC
 M	I-PCC
-P	I-PCC
+P	E-PCC
 有	O
 如	O
 下	O
@@ -13732,7 +13732,7 @@ P	I-PCC
 单	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 优	O
 点	O
@@ -13748,7 +13748,7 @@ P	I-PCC
 台	O
 计	B-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 完	O
 成	O
 的	O
@@ -13770,7 +13770,7 @@ P	I-PCC
 能	O
 够	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 完	O
 成	O
 ；	O
@@ -13781,7 +13781,7 @@ P	I-PCC
 个	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 系	O
 统	O
@@ -13796,7 +13796,7 @@ P	I-PCC
 单	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 系	O
 统	O
@@ -13823,7 +13823,7 @@ P	I-PCC
 多	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 系	O
 统	O
 中	O
@@ -13832,7 +13832,7 @@ P	I-PCC
 有	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 都	O
 能	O
 完	O
@@ -13848,7 +13848,7 @@ P	I-PCC
 个	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 故	O
 障	O
@@ -13897,7 +13897,7 @@ P	I-PCC
 加	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 来	O
 提	O
 高	O
@@ -13934,7 +13934,7 @@ P	I-PCC
 的	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 数	O
 目	O
 不	O
@@ -13954,7 +13954,7 @@ P	I-PCC
 
 S	B-PCC
 M	I-PCC
-P	I-PCC
+P	E-PCC
 的	O
 一	O
 个	O
@@ -13971,7 +13971,7 @@ P	I-PCC
 个	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 存	O
 在	O
@@ -13987,7 +13987,7 @@ P	I-PCC
 操	B-PCC
 作	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 实	O
 际	O
 关	O
@@ -13996,13 +13996,13 @@ P	I-PCC
 个	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 上	O
 进	B-PCC
-程	I-PCC
+程	E-PCC
 或	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 的	O
 调	O
 度	O
@@ -14011,18 +14011,18 @@ P	I-PCC
 及	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 间	O
 的	O
 同	B-PCC
-步	I-PCC
+步	E-PCC
 
 对	O
 个	O
 人	O
 计	B-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 、	O
 工	O
 作	O
@@ -14045,14 +14045,14 @@ P	I-PCC
 共	O
 享	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 
 分	O
 时	O
 共	O
 享	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 是	O
 构	O
 成	O
@@ -14063,7 +14063,7 @@ P	I-PCC
 理	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 的	O
 最	O
 简	O
@@ -14084,7 +14084,7 @@ P	I-PCC
 使	O
 用	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 互	O
 连	O
 的	O
@@ -14093,20 +14093,20 @@ P	I-PCC
 理	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 
 总	B-PCC
-线	I-PCC
+线	E-PCC
 由	O
 控	O
 制	O
 、	O
 地	B-PCC
-址	I-PCC
+址	E-PCC
 和	O
 数	B-PCC
 据	I-PCC
-线	I-PCC
+线	E-PCC
 组	O
 成	O
 
@@ -14116,16 +14116,16 @@ P	I-PCC
 来	O
 自	O
 I	B-PCC
-O	I-PCC
+O	E-PCC
 处	B-PCC
 理	I-PCC
-器	I-PCC
+器	E-PCC
 的	O
 D	B-PCC
 M	I-PCC
 A	I-PCC
 传	I-PCC
-送	I-PCC
+送	E-PCC
 ，	O
 应	O
 具	O
@@ -14136,14 +14136,14 @@ A	I-PCC
 征	O
 
 寻	B-PCC
-址	I-PCC
+址	E-PCC
 必	O
 须	O
 能	O
 区	O
 别	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 上	O
 各	O
 模	O
@@ -14167,7 +14167,7 @@ A	I-PCC
 I	B-PCC
 O	I-PCC
 模	I-PCC
-块	I-PCC
+块	E-PCC
 都	O
 能	O
 临	O
@@ -14176,7 +14176,7 @@ O	I-PCC
 备	O
 主	B-PCC
 控	I-PCC
-器	I-PCC
+器	E-PCC
 m	O
 a	O
 s	O
@@ -14196,7 +14196,7 @@ r	O
 来	O
 对	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 控	O
 制	O
 的	O
@@ -14219,14 +14219,14 @@ r	O
 的	O
 优	B-PCC
 先	I-PCC
-级	I-PCC
+级	E-PCC
 策	O
 略	O
 
 分	B-PCC
 时	I-PCC
 共	I-PCC
-享	I-PCC
+享	E-PCC
 当	O
 一	O
 个	O
@@ -14237,7 +14237,7 @@ r	O
 控	B-PCC
 制	I-PCC
 总	I-PCC
-线	I-PCC
+线	E-PCC
 时	O
 ，	O
 其	O
@@ -14271,7 +14271,7 @@ r	O
 前	O
 的	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 访	O
 问	O
 完	O
@@ -14282,7 +14282,7 @@ r	O
 单	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 特	O
 征	O
 在	O
@@ -14291,7 +14291,7 @@ r	O
 多	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 配	O
 置	O
 中	O
@@ -14312,23 +14312,23 @@ r	O
 个	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 以	O
 及	O
 多	O
 个	O
 I	B-PCC
-O	I-PCC
+O	E-PCC
 适	B-PCC
 配	I-PCC
-器	I-PCC
+器	E-PCC
 都	O
 试	O
 图	O
 掌	O
 管	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 ，	O
 并	O
 对	O
@@ -14339,7 +14339,7 @@ O	I-PCC
 个	O
 存	B-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 模	O
 块	O
 进	O
@@ -14347,7 +14347,7 @@ O	I-PCC
 存	B-PCC
 取	I-PCC
 操	I-PCC
-作	I-PCC
+作	E-PCC
 的	O
 更	O
 为	O
@@ -14366,7 +14366,7 @@ O	I-PCC
 较	O
 ，	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 组	O
 织	O
 方	O
@@ -14389,7 +14389,7 @@ O	I-PCC
 理	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 组	O
 成	O
 的	O
@@ -14402,17 +14402,17 @@ O	I-PCC
 物	B-PCC
 理	I-PCC
 接	I-PCC
-口	I-PCC
+口	E-PCC
 以	O
 及	O
 每	O
 个	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 寻	B-PCC
-址	I-PCC
+址	E-PCC
 、	O
 仲	O
 裁	O
@@ -14427,7 +14427,7 @@ O	I-PCC
 单	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 系	O
 统	O
 相	O
@@ -14443,10 +14443,10 @@ O	I-PCC
 多	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 到	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 的	O
 方	O
 法	O
@@ -14476,7 +14476,7 @@ O	I-PCC
 说	O
 ，	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 是	O
 一	O
 个	O
@@ -14488,7 +14488,7 @@ O	I-PCC
 并	O
 且	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 上	O
 任	O
 一	O
@@ -14510,7 +14510,7 @@ O	I-PCC
 败	O
 
 总	B-PCC
-线	I-PCC
+线	E-PCC
 组	O
 织	O
 的	O
@@ -14528,7 +14528,7 @@ O	I-PCC
 的	O
 存	B-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 访	O
 问	O
 都	O
@@ -14538,7 +14538,7 @@ O	I-PCC
 公	O
 共	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 ，	O
 于	O
 是	O
@@ -14552,7 +14552,7 @@ O	I-PCC
 总	B-PCC
 线	I-PCC
 周	I-PCC
-期	I-PCC
+期	E-PCC
 
 为	O
 改	O
@@ -14568,14 +14568,14 @@ O	I-PCC
 个	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 配	O
 置	O
 c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 ，	O
 这	O
 将	O
@@ -14585,7 +14585,7 @@ e	I-PCC
 减	O
 少	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 访	O
 问	O
 次	O
@@ -14605,7 +14605,7 @@ e	I-PCC
 机	O
 S	B-PCC
 M	I-PCC
-P	I-PCC
+P	E-PCC
 都	O
 有	O
 两	O
@@ -14614,7 +14614,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 ，	O
 L	O
 c	O
@@ -14629,11 +14629,11 @@ e	O
 与	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 同	O
 一	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 ，	O
 L	O
 c	O
@@ -14660,7 +14660,7 @@ e	O
 些	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 还	O
 使	O
 用	O
@@ -14676,7 +14676,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 的	O
 使	O
 用	O
@@ -14701,7 +14701,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 只	O
 保	O
 存	O
@@ -14709,7 +14709,7 @@ e	I-PCC
 分	O
 存	B-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 的	O
 映	O
 像	O
@@ -14723,14 +14723,14 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 中	O
 修	O
 改	O
 了	O
 一	O
 个	O
-字	B-PCC
+字	S-PCC
 ，	O
 可	O
 想	O
@@ -14742,7 +14742,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 中	O
 的	O
 此	O
@@ -14770,7 +14770,7 @@ e	I-PCC
 他	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 ：	O
 已	O
 经	O
@@ -14793,7 +14793,7 @@ h	I-PCC
 e	I-PCC
 一	I-PCC
 致	I-PCC
-性	I-PCC
+性	E-PCC
 问	O
 题	O
 ，	O
@@ -14804,7 +14804,7 @@ e	I-PCC
 是	O
 以	O
 硬	B-PCC
-件	I-PCC
+件	E-PCC
 解	O
 决	O
 
@@ -14812,13 +14812,13 @@ e	I-PCC
 单	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 到	O
 多	B-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 变	O
 化	O
@@ -14827,7 +14827,7 @@ e	I-PCC
 是	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 设	O
 计	O
 厂	O
@@ -14886,7 +14886,7 @@ e	I-PCC
 集	B-PCC
 成	I-PCC
 电	I-PCC
-路	I-PCC
+路	E-PCC
 集	O
 成	O
 度	O
@@ -14901,14 +14901,14 @@ e	I-PCC
 理	I-PCC
 机	I-PCC
 核	I-PCC
-心	I-PCC
+心	E-PCC
 集	O
 成	O
 在	O
 一	O
 块	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 内	O
 
 与	O
@@ -14916,21 +14916,21 @@ e	I-PCC
 统	O
 的	O
 单	B-PCC
-核	I-PCC
+核	E-PCC
 技	O
 术	O
 相	O
 比	O
 ，	O
 多	B-PCC
-核	I-PCC
+核	E-PCC
 技	O
 术	O
 是	O
 应	O
 对	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 物	O
 理	O
 规	O
@@ -14951,9 +14951,9 @@ e	I-PCC
 高	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 主	B-PCC
-频	I-PCC
+频	E-PCC
 相	O
 比	O
 ，	O
@@ -14961,7 +14961,7 @@ e	I-PCC
 一	O
 个	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 内	O
 集	O
 成	O
@@ -14973,14 +14973,14 @@ e	I-PCC
 单	O
 而	O
 主	B-PCC
-频	I-PCC
+频	E-PCC
 稍	O
 低	O
 的	O
 处	B-PCC
 理	I-PCC
 机	I-PCC
-核	I-PCC
+核	E-PCC
 既	O
 可	O
 以	O
@@ -14991,12 +14991,12 @@ e	I-PCC
 摩	B-PCC
 尔	I-PCC
 定	I-PCC
-律	I-PCC
+律	E-PCC
 带	O
 来	O
 的	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 面	O
 积	O
 提	O
@@ -15015,7 +15015,7 @@ e	I-PCC
 耗	O
 、	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 内	O
 部	O
 互	O
@@ -15035,14 +15035,14 @@ e	I-PCC
 高	O
 并	B-PCC
 行	I-PCC
-性	I-PCC
+性	E-PCC
 ：	O
 每	O
 个	O
 处	B-PCC
 理	I-PCC
 机	I-PCC
-核	I-PCC
+核	E-PCC
 都	O
 不	O
 必	O
@@ -15050,7 +15050,7 @@ e	I-PCC
 高	O
 晶	B-PCC
 体	I-PCC
-管	I-PCC
+管	E-PCC
 的	O
 翻	O
 转	O
@@ -15062,7 +15062,7 @@ e	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 可	O
 同	O
 时	O
@@ -15070,7 +15070,7 @@ e	I-PCC
 行	O
 的	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 数	O
 或	O
 任	O
@@ -15080,7 +15080,7 @@ e	I-PCC
 单	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 数	O
 倍	O
@@ -15093,7 +15093,7 @@ e	I-PCC
 了	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 并	O
 行	O
@@ -15106,7 +15106,7 @@ e	I-PCC
 强	O
 的	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 处	O
 理	O
 能	O
@@ -15140,7 +15140,7 @@ e	I-PCC
 处	B-PCC
 理	I-PCC
 机	I-PCC
-核	I-PCC
+核	E-PCC
 只	O
 需	O
 要	O
@@ -15192,7 +15192,7 @@ e	I-PCC
 传	B-PCC
 输	I-PCC
 带	I-PCC
-宽	I-PCC
+宽	E-PCC
 也	O
 得	O
 到	O
@@ -15209,7 +15209,7 @@ e	I-PCC
 多	B-PCC
 核	I-PCC
 结	I-PCC
-构	I-PCC
+构	E-PCC
 可	O
 以	O
 有	O
@@ -15221,7 +15221,7 @@ e	I-PCC
 资	B-PCC
 源	I-PCC
 共	I-PCC
-享	I-PCC
+享	E-PCC
 ，	O
 片	O
 上	O
@@ -15243,7 +15243,7 @@ e	I-PCC
 ：	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 功	O
 耗	O
@@ -15290,7 +15290,7 @@ e	I-PCC
 提	O
 高	O
 主	B-PCC
-频	I-PCC
+频	E-PCC
 改	O
 善	O
 性	O
@@ -15332,7 +15332,7 @@ e	I-PCC
 杂	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 功	O
 耗	O
@@ -15352,7 +15352,7 @@ e	I-PCC
 处	B-PCC
 理	I-PCC
 机	I-PCC
-核	I-PCC
+核	E-PCC
 功	O
 耗	O
 的	O
@@ -15380,7 +15380,7 @@ e	I-PCC
 闭	O
 ，	O
 多	B-PCC
-核	I-PCC
+核	E-PCC
 在	O
 功	O
 耗	O
@@ -15404,7 +15404,7 @@ e	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 中	O
 的	O
 每	O
@@ -15441,7 +15441,7 @@ e	I-PCC
 单	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 往	O
 往	O
 要	O
@@ -15452,7 +15452,7 @@ e	I-PCC
 量	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 结	O
 构	O
 和	O
@@ -15460,7 +15460,7 @@ e	I-PCC
 长	I-PCC
 指	I-PCC
 令	I-PCC
-字	I-PCC
+字	E-PCC
 结	O
 构	O
 ，	O
@@ -15474,7 +15474,7 @@ e	I-PCC
 而	O
 在	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 内	O
 复	O
 制	O
@@ -15527,7 +15527,7 @@ e	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 内	O
 的	O
 各	O
@@ -15538,14 +15538,14 @@ e	I-PCC
 器	O
 件	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 封	O
 装	O
 和	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 I	B-PCC
-O	I-PCC
+O	E-PCC
 资	O
 源	O
 ，	O
@@ -15556,17 +15556,17 @@ O	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 成	O
 本	O
 的	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 封	O
 装	O
 和	O
 I	B-PCC
-O	I-PCC
+O	E-PCC
 成	O
 本	O
 的	O
@@ -15599,7 +15599,7 @@ O	I-PCC
 使	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 设	O
 计	O
 开	O
@@ -15619,14 +15619,14 @@ O	I-PCC
 推	O
 动	O
 多	B-PCC
-核	I-PCC
+核	E-PCC
 的	O
 发	O
 展	O
 并	O
 使	O
 多	B-PCC
-核	I-PCC
+核	E-PCC
 逐	O
 渐	O
 取	O
@@ -15635,7 +15635,7 @@ O	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 成	O
 为	O
 主	O
@@ -15644,23 +15644,23 @@ O	I-PCC
 术	O
 
 多	B-PCC
-核	I-PCC
+核	E-PCC
 技	O
 术	O
 是	O
 在	O
 超	B-PCC
 线	I-PCC
-程	I-PCC
+程	E-PCC
 、	O
 超	B-PCC
 标	I-PCC
-量	I-PCC
+量	E-PCC
 和	O
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 等	O
 技	O
 术	O
@@ -15692,7 +15692,7 @@ O	I-PCC
 线	I-PCC
 程	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 是	O
 通	O
 过	O
@@ -15711,7 +15711,7 @@ O	I-PCC
 高	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 性	O
 能	O
@@ -15731,7 +15731,7 @@ O	I-PCC
 的	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 资	O
 源	O
 ，	O
@@ -15744,7 +15744,7 @@ O	I-PCC
 多	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 共	O
 享	O
 一	O
@@ -15752,7 +15752,7 @@ O	I-PCC
 处	B-PCC
 理	I-PCC
 机	I-PCC
-核	I-PCC
+核	E-PCC
 
 因	O
 此	O
@@ -15763,7 +15763,7 @@ O	I-PCC
 线	I-PCC
 程	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 是	O
 否	O
 能	O
@@ -15780,11 +15780,11 @@ O	I-PCC
 应	B-PCC
 用	I-PCC
 程	I-PCC
-序	I-PCC
+序	E-PCC
 以	O
 及	O
 硬	B-PCC
-件	I-PCC
+件	E-PCC
 平	O
 台	O
 
@@ -15792,7 +15792,7 @@ O	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 则	O
 是	O
 将	O
@@ -15804,7 +15804,7 @@ O	I-PCC
 处	B-PCC
 理	I-PCC
 机	I-PCC
-核	I-PCC
+核	E-PCC
 嵌	O
 入	O
 到	O
@@ -15812,7 +15812,7 @@ O	I-PCC
 个	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 芯	O
 片	O
 内	O
@@ -15821,7 +15821,7 @@ O	I-PCC
 每	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 都	O
 具	O
 有	O
@@ -15829,7 +15829,7 @@ O	I-PCC
 整	O
 的	O
 硬	B-PCC
-件	I-PCC
+件	E-PCC
 执	O
 行	O
 环	O
@@ -15838,7 +15838,7 @@ O	I-PCC
 故	O
 各	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 之	O
 间	O
 可	O
@@ -15852,7 +15852,7 @@ O	I-PCC
 上	O
 的	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 
 当	O
 然	O
@@ -15860,7 +15860,7 @@ O	I-PCC
 多	B-PCC
 核	I-PCC
 架	I-PCC
-构	I-PCC
+构	E-PCC
 中	O
 灵	O
 活	O
@@ -15890,14 +15890,14 @@ O	I-PCC
 程	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 还	O
 是	O
 多	B-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 ，	O
 性	O
 能	O
@@ -15908,7 +15908,7 @@ O	I-PCC
 需	O
 要	O
 软	B-PCC
-件	I-PCC
+件	E-PCC
 的	O
 配	O
 合	O
@@ -15925,7 +15925,7 @@ O	I-PCC
 于	O
 并	B-PCC
 行	I-PCC
-性	I-PCC
+性	E-PCC
 的	O
 大	O
 小	O
@@ -15935,7 +15935,7 @@ O	I-PCC
 理	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 是	O
 利	O
 用	O
@@ -15943,7 +15943,7 @@ O	I-PCC
 务	I-PCC
 级	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 的	O
 方	O
 式	O
@@ -15960,7 +15960,7 @@ O	I-PCC
 任	O
 务	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 化	O
 并	O
 分	O
@@ -15970,7 +15970,7 @@ O	I-PCC
 个	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 中	O
 去	O
 执	O
@@ -15981,7 +15981,7 @@ O	I-PCC
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 之	O
 间	O
 的	O
@@ -16000,7 +16000,7 @@ O	I-PCC
 粒	I-PCC
 度	I-PCC
 并	I-PCC
-行	I-PCC
+行	E-PCC
 ，	O
 而	O
 功	O
@@ -16014,14 +16014,14 @@ O	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 由	O
 于	O
 在	O
 一	O
 个	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 内	O
 集	O
 成	O
@@ -16060,11 +16060,11 @@ O	I-PCC
 级	O
 、	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 级	O
 和	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 级	O
 等	O
 多	O
@@ -16076,11 +16076,11 @@ O	I-PCC
 发	O
 挥	O
 程	B-PCC
-序	I-PCC
+序	E-PCC
 的	O
 并	B-PCC
 行	I-PCC
-性	I-PCC
+性	E-PCC
 ，	O
 灵	O
 活	O
@@ -16093,7 +16093,7 @@ O	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 与	O
 异	B-PCC
 构	I-PCC
@@ -16101,12 +16101,12 @@ O	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 与	O
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 分	O
 类	O
@@ -16120,7 +16120,7 @@ O	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 内	O
 的	O
 计	O
@@ -16141,7 +16141,7 @@ O	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 可	O
 以	O
 分	O
@@ -16149,12 +16149,12 @@ O	I-PCC
 同	B-PCC
 构	I-PCC
 多	I-PCC
-核	I-PCC
+核	E-PCC
 和	O
 异	B-PCC
 构	I-PCC
 多	I-PCC
-核	I-PCC
+核	E-PCC
 两	O
 种	O
 类	O
@@ -16163,7 +16163,7 @@ O	I-PCC
 同	B-PCC
 构	I-PCC
 多	I-PCC
-核	I-PCC
+核	E-PCC
 h	O
 o	O
 m	O
@@ -16185,14 +16185,14 @@ r	O
 e	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 同	B-PCC
 构	I-PCC
 多	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 内	O
 的	O
 所	O
@@ -16217,7 +16217,7 @@ e	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 大	O
 多	O
 由	O
@@ -16228,7 +16228,7 @@ e	O
 理	I-PCC
 机	I-PCC
 核	I-PCC
-心	I-PCC
+心	E-PCC
 构	O
 成	O
 ，	O
@@ -16238,7 +16238,7 @@ e	O
 理	I-PCC
 机	I-PCC
 核	I-PCC
-心	I-PCC
+心	E-PCC
 可	O
 以	O
 独	O
@@ -16259,7 +16259,7 @@ e	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 结	O
 构	O
 相	O
@@ -16271,7 +16271,7 @@ e	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 各	O
 个	O
@@ -16287,7 +16287,7 @@ e	O
 享	O
 存	B-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 互	O
 连	O
 ，	O
@@ -16300,13 +16300,13 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 或	O
 局	B-PCC
 部	I-PCC
 存	I-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 互	O
 连	O
 
@@ -16315,7 +16315,7 @@ e	I-PCC
 特	I-CORP
 尔	I-CORP
 公	I-CORP
-司	I-CORP
+司	E-CORP
 的	O
 通	O
 用	O
@@ -16323,14 +16323,14 @@ e	I-PCC
 面	O
 计	B-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 上	O
 的	O
 多	B-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 通	O
 常	O
 采	O
@@ -16338,14 +16338,14 @@ e	I-PCC
 同	B-PCC
 构	I-PCC
 多	I-PCC
-核	I-PCC
+核	E-PCC
 结	O
 构	O
 
 异	B-PCC
 构	I-PCC
 多	I-PCC
-核	I-PCC
+核	E-PCC
 h	O
 e	O
 t	O
@@ -16370,14 +16370,14 @@ r	O
 e	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 异	B-PCC
 构	I-PCC
 多	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 内	O
 的	O
 各	O
@@ -16403,7 +16403,7 @@ e	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 根	O
 据	O
 不	O
@@ -16422,7 +16422,7 @@ e	O
 理	I-PCC
 机	I-PCC
 核	I-PCC
-心	I-PCC
+心	E-PCC
 ，	O
 一	O
 般	O
@@ -16451,7 +16451,7 @@ e	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 优	O
 势	O
@@ -16469,7 +16469,7 @@ e	O
 型	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 各	O
 自	O
 的	O
@@ -16500,7 +16500,7 @@ e	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 将	O
 结	O
 构	O
@@ -16528,7 +16528,7 @@ e	O
 成	O
 在	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 上	O
 ，	O
 并	O
@@ -16580,7 +16580,7 @@ e	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 通	O
 常	O
 同	O
@@ -16591,7 +16591,7 @@ e	O
 用	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 、	O
 数	B-PCC
 字	I-PCC
@@ -16599,7 +16599,7 @@ e	O
 号	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 D	O
 S	O
 P	O
@@ -16608,13 +16608,13 @@ P	O
 体	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 、	O
 网	B-PCC
 络	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 等	O
 多	O
 种	O
@@ -16625,7 +16625,7 @@ P	O
 理	I-PCC
 机	I-PCC
 核	I-PCC
-心	I-PCC
+心	E-PCC
 ，	O
 并	O
 针	O
@@ -16652,13 +16652,13 @@ P	O
 处	B-PCC
 理	I-PCC
 机	I-PCC
-核	I-PCC
+核	E-PCC
 常	O
 作	O
 为	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 控	O
 制	O
 主	O
@@ -16678,7 +16678,7 @@ P	O
 处	B-PCC
 理	I-PCC
 机	I-PCC
-核	I-PCC
+核	E-PCC
 则	O
 作	O
 为	O
@@ -16705,7 +16705,7 @@ P	O
 络	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 配	O
 有	O
 负	O
@@ -16745,7 +16745,7 @@ P	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 在	O
 主	O
 核	O
@@ -16760,12 +16760,12 @@ P	O
 定	B-PCC
 点	I-PCC
 运	I-PCC
-算	I-PCC
+算	E-PCC
 和	O
 浮	B-PCC
 点	I-PCC
 运	I-PCC
-算	I-PCC
+算	E-PCC
 等	O
 计	O
 算	O
@@ -16796,7 +16796,7 @@ P	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 执	O
 行	O
 任	O
@@ -16835,7 +16835,7 @@ P	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 对	O
 称	O
@@ -16843,21 +16843,21 @@ P	O
 同	B-PCC
 构	I-PCC
 多	I-PCC
-核	I-PCC
+核	E-PCC
 和	O
 异	B-PCC
 构	I-PCC
 多	I-PCC
-核	I-PCC
+核	E-PCC
 是	O
 对	O
 处	B-PCC
 理	I-PCC
 机	I-PCC
 内	I-PCC
-核	I-PCC
+核	E-PCC
 硬	B-PCC
-件	I-PCC
+件	E-PCC
 结	O
 构	O
 和	O
@@ -16884,7 +16884,7 @@ P	O
 操	B-PCC
 作	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 ，	O
 从	O
 用	O
@@ -16901,7 +16901,7 @@ P	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 运	O
 行	O
@@ -16939,7 +16939,7 @@ g	O
 ，	O
 S	B-PCC
 M	I-PCC
-P	I-PCC
+P	E-PCC
 多	O
 核	O
 和	O
@@ -16986,7 +16986,7 @@ P	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 中	O
 的	O
 对	B-PCC
@@ -16997,12 +16997,12 @@ P	I-PCC
 多	I-PCC
 核	I-PCC
 结	I-PCC
-构	I-PCC
+构	E-PCC
 是	O
 指	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 片	O
 内	O
 包	O
@@ -17033,7 +17033,7 @@ P	I-PCC
 操	B-PCC
 作	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 
 每	O
 个	O
@@ -17053,7 +17053,7 @@ P	I-PCC
 操	B-PCC
 作	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 的	O
 所	O
 有	O
@@ -17062,7 +17062,7 @@ P	I-PCC
 
 S	B-PCC
 M	I-PCC
-P	I-PCC
+P	E-PCC
 由	O
 多	O
 个	O
@@ -17072,13 +17072,13 @@ P	I-PCC
 处	B-PCC
 理	I-PCC
 机	I-PCC
-核	I-PCC
+核	E-PCC
 和	O
 共	B-PCC
 享	I-PCC
 存	I-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 构	O
 成	O
 ，	O
@@ -17088,7 +17088,7 @@ P	I-PCC
 操	B-PCC
 作	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 的	O
 实	O
 例	O
@@ -17108,7 +17108,7 @@ P	I-PCC
 应	B-PCC
 用	I-PCC
 程	I-PCC
-序	I-PCC
+序	E-PCC
 分	O
 配	O
 至	O
@@ -17134,15 +17134,15 @@ P	I-PCC
 操	B-PCC
 作	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 就	O
 在	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 等	O
 待	O
 队	B-PCC
-列	I-PCC
+列	E-PCC
 中	O
 分	O
 配	O
@@ -17150,7 +17150,7 @@ P	I-PCC
 一	O
 个	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 给	O
 这	O
 个	O
@@ -17165,7 +17165,7 @@ P	I-PCC
 应	B-PCC
 用	I-PCC
 程	I-PCC
-序	I-PCC
+序	E-PCC
 本	O
 身	O
 可	O
@@ -17186,7 +17186,7 @@ P	I-PCC
 操	B-PCC
 作	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 自	O
 动	O
 协	O
@@ -17208,7 +17208,7 @@ P	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 也	O
 可	O
 以	O
@@ -17221,23 +17221,23 @@ A	B-PCC
 M	I-PCC
 P	I-PCC
 多	I-PCC
-核	I-PCC
+核	E-PCC
 结	O
 构	O
 
 若	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 内	O
 部	O
 是	O
 同	B-PCC
 构	I-PCC
 多	I-PCC
-核	I-PCC
+核	E-PCC
 ，	O
 但	O
 每	O
@@ -17253,14 +17253,14 @@ P	I-PCC
 操	B-PCC
 作	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 或	O
 同	O
 一	O
 操	B-PCC
 作	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 的	O
 独	O
 立	O
@@ -17275,7 +17275,7 @@ P	I-PCC
 对	B-PCC
 称	I-PCC
 多	I-PCC
-核	I-PCC
+核	E-PCC
 
 A	B-PCC
 M	I-PCC
@@ -17283,7 +17283,7 @@ P	I-PCC
 多	I-PCC
 核	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 也	O
 可	O
 以	O
@@ -17291,13 +17291,13 @@ P	I-PCC
 异	B-PCC
 构	I-PCC
 多	I-PCC
-核	I-PCC
+核	E-PCC
 和	O
 共	B-PCC
 享	I-PCC
 存	I-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 构	O
 成	O
 
@@ -17305,13 +17305,13 @@ P	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 组	O
 织	O
 在	O
@@ -17321,14 +17321,14 @@ e	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 时	O
 ，	O
 除	O
 了	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 结	O
 构	O
@@ -17340,7 +17340,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 的	O
 级	O
 数	O
@@ -17365,14 +17365,14 @@ e	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 内	O
 的	O
 c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 配	O
 置	O
 ，	O
@@ -17383,7 +17383,7 @@ e	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 组	O
 织	O
@@ -17405,7 +17405,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 结	O
 构	O
 图	O
@@ -17416,7 +17416,7 @@ a	O
 多	B-PCC
 核	I-PCC
 结	I-PCC
-构	I-PCC
+构	E-PCC
 是	O
 简	O
 单	O
@@ -17425,14 +17425,14 @@ a	O
 核	I-PCC
 计	I-PCC
 算	I-PCC
-机	I-PCC
+机	E-PCC
 片	O
 内	O
 c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 结	O
 构	O
 
@@ -17442,7 +17442,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 由	O
 L	O
 和	O
@@ -17454,7 +17454,7 @@ L	O
 
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 片	O
 内	O
 的	O
@@ -17474,7 +17474,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 ，	O
 一	O
 般	O
@@ -17489,7 +17489,7 @@ c	I-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 L	O
 I	O
 和	O
@@ -17500,7 +17500,7 @@ c	I-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 L	O
 D	O
 
@@ -17515,16 +17515,16 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 则	O
 存	O
 在	O
 于	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 之	O
 外	O
 
@@ -17532,7 +17532,7 @@ A	B-CORP
 R	I-CORP
 M	I-CORP
 公	I-CORP
-司	I-CORP
+司	E-CORP
 A	B-PROD
 R	I-PROD
 M	I-PROD
@@ -17540,7 +17540,7 @@ M	I-PROD
 体	I-PROD
 系	I-PROD
 结	I-PROD
-构	I-PROD
+构	E-PROD
 的	O
 M	O
 P	O
@@ -17555,7 +17555,7 @@ e	O
 式	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 就	O
 采	O
 用	O
@@ -17573,7 +17573,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 结	O
 构	O
 在	O
@@ -17583,14 +17583,14 @@ b	O
 示	O
 的	O
 多	B-PCC
-核	I-PCC
+核	E-PCC
 结	O
 构	O
 中	O
 ，	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 片	O
 内	O
 的	O
@@ -17613,7 +17613,7 @@ c	I-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 L	O
 I	O
 和	O
@@ -17624,7 +17624,7 @@ c	I-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 L	O
 D	O
 ，	O
@@ -17634,13 +17634,13 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 被	O
 移	O
 至	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 片	O
 内	O
 ，	O
@@ -17650,7 +17650,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 为	O
 各	O
 个	O
@@ -17664,20 +17664,20 @@ e	I-PCC
 享	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 之	O
 外	O
 的	O
 主	B-PCC
-存	I-PCC
+存	E-PCC
 
 A	B-CORP
 M	I-CORP
 D	I-CORP
 公	I-CORP
-司	I-CORP
+司	E-CORP
 专	O
 门	O
 为	O
@@ -17702,7 +17702,7 @@ o	I-PROD
 n	I-PROD
 处	I-PROD
 理	I-PROD
-机	I-PROD
+机	E-PROD
 就	O
 采	O
 用	O
@@ -17720,7 +17720,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 结	O
 构	O
 在	O
@@ -17730,7 +17730,7 @@ c	O
 示	O
 的	O
 多	B-PCC
-核	I-PCC
+核	E-PCC
 结	O
 构	O
 与	O
@@ -17740,7 +17740,7 @@ b	O
 示	O
 的	O
 多	B-PCC
-核	I-PCC
+核	E-PCC
 结	O
 构	O
 相	O
@@ -17756,7 +17756,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 结	O
 构	O
 
@@ -17768,7 +17768,7 @@ e	I-PCC
 于	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 片	O
 内	O
 的	O
@@ -17779,7 +17779,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 变	O
 为	O
 多	O
@@ -17791,29 +17791,29 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 
 多	B-PCC
-核	I-PCC
+核	E-PCC
 仍	O
 然	O
 共	O
 享	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 之	O
 外	O
 的	O
 主	B-PCC
-存	I-PCC
+存	E-PCC
 
 对	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 每	O
 个	O
@@ -17830,7 +17830,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 的	O
 访	O
 问	O
@@ -17843,7 +17843,7 @@ e	I-PCC
 在	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 片	O
 内	O
 使	O
@@ -17856,7 +17856,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 取	O
 代	O
 各	O
@@ -17870,7 +17870,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 能	O
 够	O
 获	O
@@ -17896,7 +17896,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 有	O
 助	O
 于	O
@@ -17908,16 +17908,16 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 命	B-PCC
 中	I-PCC
-率	I-PCC
+率	E-PCC
 
 如	O
 果	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 内	O
 的	O
 多	O
@@ -17928,12 +17928,12 @@ e	I-PCC
 访	O
 问	O
 主	B-PCC
-存	I-PCC
+存	E-PCC
 同	O
 一	O
 个	O
 页	B-PCC
-面	I-PCC
+面	E-PCC
 ，	O
 首	O
 次	O
@@ -17941,7 +17941,7 @@ e	I-PCC
 问	O
 该	O
 地	B-PCC
-址	I-PCC
+址	E-PCC
 的	O
 操	O
 作	O
@@ -17958,7 +17958,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 ，	O
 其	O
 他	O
@@ -17974,7 +17974,7 @@ e	I-PCC
 主	B-PCC
 存	I-PCC
 页	I-PCC
-面	I-PCC
+面	E-PCC
 时	O
 可	O
 以	O
@@ -17987,7 +17987,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 中	O
 快	O
 速	O
@@ -18001,7 +18001,7 @@ e	I-PCC
 访	O
 问	O
 主	B-PCC
-存	I-PCC
+存	E-PCC
 的	O
 次	O
 数	O
@@ -18016,7 +18016,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 结	O
 构	O
 中	O
@@ -18027,11 +18027,11 @@ e	I-PCC
 访	O
 问	O
 主	B-PCC
-存	I-PCC
+存	E-PCC
 相	O
 同	O
 页	B-PCC
-面	I-PCC
+面	E-PCC
 会	O
 在	O
 各	O
@@ -18042,7 +18042,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 中	O
 都	O
 保	O
@@ -18051,7 +18051,7 @@ e	I-PCC
 主	B-PCC
 存	I-PCC
 页	I-PCC
-面	I-PCC
+面	E-PCC
 的	O
 副	O
 本	O
@@ -18063,7 +18063,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 则	O
 不	O
 会	O
@@ -18080,12 +18080,12 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 的	O
 存	B-PCC
 储	I-PCC
 空	I-PCC
-间	I-PCC
+间	E-PCC
 可	O
 以	O
 在	O
@@ -18119,7 +18119,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 的	O
 大	O
 小	O
@@ -18136,7 +18136,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 还	O
 可	O
 以	O
@@ -18144,7 +18144,7 @@ e	I-PCC
 为	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 间	O
 交	O
 互	O
@@ -18158,7 +18158,7 @@ e	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 必	O
 须	O
 解	O
@@ -18169,7 +18169,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 的	O
 一	O
 致	O
@@ -18190,7 +18190,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 可	O
 以	O
 降	O
@@ -18204,7 +18204,7 @@ h	I-PCC
 e	I-PCC
 一	I-PCC
 致	I-PCC
-性	I-PCC
+性	E-PCC
 问	O
 题	O
 的	O
@@ -18227,7 +18227,7 @@ e	I-PCC
 特	I-CORP
 尔	I-CORP
 公	I-CORP
-司	I-CORP
+司	E-CORP
 的	O
 第	O
 一	O
@@ -18248,7 +18248,7 @@ o	I-PROD
 耗	I-PROD
 处	I-PROD
 理	I-PROD
-机	I-PROD
+机	E-PROD
 就	O
 采	O
 用	O
@@ -18266,23 +18266,23 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 结	O
 构	O
 随	O
 着	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 上	O
 的	O
 可	O
 用	O
 存	B-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 资	O
 源	O
 的	O
@@ -18295,7 +18295,7 @@ e	I-PCC
 的	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 甚	O
 至	O
 把	O
@@ -18304,12 +18304,12 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 也	O
 从	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 片	O
 外	O
 移	O
@@ -18323,7 +18323,7 @@ d	O
 示	O
 的	O
 多	B-PCC
-核	I-PCC
+核	E-PCC
 结	O
 构	O
 在	O
@@ -18341,7 +18341,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 结	O
 构	O
 的	O
@@ -18354,7 +18354,7 @@ e	I-PCC
 片	O
 内	O
 多	B-PCC
-核	I-PCC
+核	E-PCC
 共	O
 享	O
 L	O
@@ -18362,13 +18362,13 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 ，	O
 使	O
 存	B-PCC
 储	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 的	O
 性	O
 能	O
@@ -18383,7 +18383,7 @@ e	I-PCC
 于	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 片	O
 内	O
 核	O
@@ -18395,7 +18395,7 @@ e	I-PCC
 存	B-PCC
 储	I-PCC
 空	I-PCC
-间	I-PCC
+间	E-PCC
 容	O
 量	O
 都	O
@@ -18411,7 +18411,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 结	O
 构	O
 或	O
@@ -18422,7 +18422,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 结	O
 构	O
 上	O
@@ -18436,7 +18436,7 @@ c	B-CW
 a	I-CW
 c	I-CW
 h	I-CW
-e	I-CW
+e	E-CW
 显	O
 然	O
 有	O
@@ -18446,7 +18446,7 @@ e	I-CW
 高	O
 处	B-CW
 理	I-CW
-机	I-CW
+机	E-CW
 的	O
 整	O
 体	O
@@ -18457,7 +18457,7 @@ e	I-CW
 特	I-CORP
 尔	I-CORP
 公	I-CORP
-司	I-CORP
+司	E-CORP
 于	O
 年	O
 推	O
@@ -18465,7 +18465,7 @@ e	I-CW
 的	O
 位	O
 酷	B-PROD
-睿	I-PROD
+睿	E-PROD
 i	O
 C	O
 o	O
@@ -18476,7 +18476,7 @@ i	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 就	O
 采	O
 用	O
@@ -18488,12 +18488,12 @@ i	O
 尽	O
 管	O
 多	B-PCC
-核	I-PCC
+核	E-PCC
 技	O
 术	O
 与	O
 单	B-PCC
-核	I-PCC
+核	E-PCC
 技	O
 术	O
 相	O
@@ -18510,7 +18510,7 @@ i	O
 高	O
 、	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 度	O
 高	O
 、	O
@@ -18534,10 +18534,10 @@ i	O
 但	O
 从	O
 单	B-PCC
-核	I-PCC
+核	E-PCC
 到	O
 多	B-PCC
-核	I-PCC
+核	E-PCC
 的	O
 转	O
 变	O
@@ -18550,21 +18550,21 @@ i	O
 多	O
 个	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 上	O
 的	O
 多	O
 个	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 集	O
 成	O
 到	O
 单	O
 一	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 之	O
 中	O
 这	O
@@ -18576,7 +18576,7 @@ i	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 必	O
 须	O
 解	O
@@ -18592,14 +18592,14 @@ i	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 架	O
 构	O
 多	B-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 体	O
 系	O
@@ -18611,7 +18611,7 @@ i	O
 响	O
 着	O
 多	B-PCC
-核	I-PCC
+核	E-PCC
 的	O
 性	O
 能	O
@@ -18638,7 +18638,7 @@ i	O
 又	O
 对	O
 多	B-PCC
-核	I-PCC
+核	E-PCC
 应	O
 该	O
 采	O
@@ -18673,7 +18673,7 @@ i	O
 设	O
 计	O
 多	B-PCC
-核	I-PCC
+核	E-PCC
 的	O
 实	O
 现	O
@@ -18699,7 +18699,7 @@ i	O
 整	O
 个	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 的	O
 面	O
 积	O
@@ -18729,7 +18729,7 @@ i	O
 单	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 设	O
 计	O
 的	O
@@ -18744,7 +18744,7 @@ i	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 性	O
 能	O
@@ -18757,7 +18757,7 @@ i	O
 多	B-PCC
 核	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 中	O
 的	O
 每	O
@@ -18773,13 +18773,13 @@ i	O
 标	I-PCC
 量	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 或	O
 超	B-PCC
 线	I-PCC
 程	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 ，	O
 是	O
 性	O
@@ -18798,7 +18798,7 @@ i	O
 对	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 性	O
 能	O
@@ -18815,7 +18815,7 @@ i	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 每	O
 个	O
@@ -18827,7 +18827,7 @@ i	O
 线	I-PCC
 程	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 的	O
 架	O
 构	O
@@ -18840,10 +18840,10 @@ i	O
 
 而	O
 软	B-PCC
-件	I-PCC
+件	E-PCC
 的	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 化	O
 设	O
 计	O
@@ -18858,7 +18858,7 @@ i	O
 线	I-PCC
 程	I-PCC
 技	I-PCC
-术	I-PCC
+术	E-PCC
 越	O
 来	O
 越	O
@@ -18872,7 +18872,7 @@ i	O
 就	O
 是	O
 多	B-PCC
-核	I-PCC
+核	E-PCC
 之	O
 间	O
 的	O
@@ -18883,7 +18883,7 @@ i	O
 以	O
 及	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 上	O
 的	O
 核	O
@@ -18896,13 +18896,13 @@ i	O
 同	B-PCC
 构	I-PCC
 多	I-PCC
-核	I-PCC
+核	E-PCC
 还	O
 是	O
 异	B-PCC
 构	I-PCC
 多	I-PCC
-核	I-PCC
+核	E-PCC
 ，	O
 一	O
 般	O
@@ -18936,7 +18936,7 @@ i	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 都	O
 采	O
 用	O
@@ -18944,7 +18944,7 @@ i	O
 构	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 架	O
 构	O
 ，	O
@@ -18964,7 +18964,7 @@ i	O
 处	B-PCC
 理	I-PCC
 机	I-PCC
-核	I-PCC
+核	E-PCC
 的	O
 数	O
 量	O
@@ -18975,12 +18975,12 @@ i	O
 般	O
 以	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 或	O
 交	B-PCC
 叉	I-PCC
 开	I-PCC
-关	I-PCC
+关	E-PCC
 互	O
 连	O
 
@@ -18996,7 +18996,7 @@ i	O
 用	O
 半	B-PCC
 导	I-PCC
-体	I-PCC
+体	E-PCC
 技	O
 术	O
 的	O
@@ -19010,20 +19010,20 @@ i	O
 不	O
 同	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 上	O
 的	O
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 集	O
 成	O
 到	O
 一	O
 个	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 上	O
 ，	O
 通	O
@@ -19038,7 +19038,7 @@ i	O
 理	I-PCC
 机	I-PCC
 核	I-PCC
-心	I-PCC
+心	E-PCC
 的	O
 数	O
 量	O
@@ -19047,7 +19047,7 @@ i	O
 升	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 性	O
 能	O
@@ -19086,7 +19086,7 @@ i	O
 的	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 设	O
 计	O
 ，	O
@@ -19099,11 +19099,11 @@ i	O
 总	B-PCC
 线	I-PCC
 协	I-PCC
-议	I-PCC
+议	E-PCC
 ，	O
 是	O
 多	B-PCC
-核	I-PCC
+核	E-PCC
 发	O
 展	O
 的	O
@@ -19115,7 +19115,7 @@ i	O
 同	B-PCC
 构	I-PCC
 多	I-PCC
-核	I-PCC
+核	E-PCC
 结	O
 构	O
 原	O
@@ -19124,7 +19124,7 @@ i	O
 单	O
 ，	O
 硬	B-PCC
-件	I-PCC
+件	E-PCC
 实	O
 现	O
 复	O
@@ -19185,7 +19185,7 @@ i	O
 上	O
 ，	O
 多	B-PCC
-核	I-PCC
+核	E-PCC
 必	O
 须	O
 面	O
@@ -19198,7 +19198,7 @@ i	O
 干	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 负	O
 载	O
@@ -19227,7 +19227,7 @@ i	O
 的	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 核	O
 心	O
 的	O
@@ -19237,7 +19237,7 @@ i	O
 加	O
 强	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 处	O
 理	O
 能	O
@@ -19258,12 +19258,12 @@ i	O
 受	O
 到	O
 软	B-PCC
-件	I-PCC
+件	E-PCC
 中	O
 必	O
 须	O
 串	B-PCC
-行	I-PCC
+行	E-PCC
 执	O
 行	O
 的	O
@@ -19291,7 +19291,7 @@ i	O
 随	O
 着	O
 内	B-PCC
-核	I-PCC
+核	E-PCC
 数	O
 量	O
 的	O
@@ -19313,7 +19313,7 @@ i	O
 达	I-CW
 尔	I-CW
 定	I-CW
-律	I-CW
+律	E-CW
 A	O
 m	O
 d	O
@@ -19329,7 +19329,7 @@ w	O
 异	B-PCC
 构	I-PCC
 多	I-PCC
-核	I-PCC
+核	E-PCC
 则	O
 通	O
 过	O
@@ -19347,7 +19347,7 @@ w	O
 化	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 内	O
 部	O
 结	O
@@ -19357,7 +19357,7 @@ w	O
 现	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 性	O
 能	O
 的	O
@@ -19380,7 +19380,7 @@ w	O
 异	B-PCC
 构	I-PCC
 多	I-PCC
-核	I-PCC
+核	E-PCC
 架	O
 构	O
 的	O
@@ -19399,7 +19399,7 @@ w	O
 人	I-PROD
 计	I-PROD
 算	I-PROD
-机	I-PROD
+机	E-PROD
 上	O
 将	O
 图	O
@@ -19432,20 +19432,20 @@ t	O
 ，	O
 G	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 与	O
 通	O
 用	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 集	O
 成	O
 在	O
 一	O
 颗	O
 芯	B-PCC
-片	I-PCC
+片	E-PCC
 上	O
 构	O
 成	O
@@ -19456,7 +19456,7 @@ U	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 
 在	O
 这	O
@@ -19472,7 +19472,7 @@ U	I-PCC
 必	O
 须	O
 串	B-PCC
-行	I-PCC
+行	E-PCC
 执	O
 行	O
 的	O
@@ -19488,7 +19488,7 @@ U	I-PCC
 C	B-PCC
 P	I-PCC
 U	I-PCC
-核	I-PCC
+核	E-PCC
 上	O
 加	O
 速	O
@@ -19497,7 +19497,7 @@ U	I-PCC
 可	O
 以	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 的	O
 部	O
 分	O
@@ -19512,14 +19512,14 @@ U	I-PCC
 G	B-PCC
 P	I-PCC
 U	I-PCC
-核	I-PCC
+核	E-PCC
 来	O
 提	O
 速	O
 
 G	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 是	O
 在	O
 通	O
@@ -19528,7 +19528,7 @@ U	I-PCC
 算	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 上	O
 支	O
 持	O
@@ -19546,7 +19546,7 @@ U	I-PCC
 
 G	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 的	O
 计	O
 算	O
@@ -19577,7 +19577,7 @@ U	I-PCC
 浮	B-PCC
 点	I-PCC
 运	I-PCC
-算	I-PCC
+算	E-PCC
 能	O
 力	O
 已	O
@@ -19590,20 +19590,20 @@ U	I-PCC
 用	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 数	O
 倍	O
 
 与	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 相	O
 比	O
 ，	O
 G	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 更	O
 适	O
 合	O
@@ -19690,7 +19690,7 @@ U	O
 让	O
 G	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 非	O
 常	O
 适	O
@@ -19700,7 +19700,7 @@ U	I-PCC
 S	B-PCC
 I	I-PCC
 M	I-PCC
-D	I-PCC
+D	E-PCC
 运	O
 算	O
 
@@ -19719,7 +19719,7 @@ D	I-PCC
 用	O
 G	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 的	O
 这	O
 种	O
@@ -19743,7 +19743,7 @@ U	I-PCC
 将	O
 G	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 通	O
 用	O
 化	O
@@ -19759,7 +19759,7 @@ U	I-PCC
 形	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 G	O
 e	O
 n	O
@@ -19788,7 +19788,7 @@ G	B-PCC
 P	I-PCC
 G	I-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 兼	O
 有	O
 通	O
@@ -19810,7 +19810,7 @@ U	I-PCC
 成	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 的	O
 运	O
 算	O
@@ -19856,7 +19856,7 @@ G	B-PCC
 P	I-PCC
 G	I-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 向	O
 着	O
 集	O
@@ -19872,13 +19872,13 @@ U	I-PCC
 G	B-PCC
 P	I-PCC
 U	I-PCC
-核	I-PCC
+核	E-PCC
 集	O
 成	O
 到	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 片	O
 内	O
 ，	O
@@ -19891,19 +19891,19 @@ U	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 
 面	O
 向	O
 并	B-PCC
-行	I-PCC
+行	E-PCC
 处	O
 理	O
 的	O
 应	B-PCC
 用	I-PCC
 软	I-PCC
-件	I-PCC
+件	E-PCC
 所	O
 要	O
 求	O
@@ -19911,24 +19911,24 @@ U	I-PCC
 浮	B-PCC
 点	I-PCC
 运	I-PCC
-算	I-PCC
+算	E-PCC
 及	O
 定	B-PCC
 点	I-PCC
 运	I-PCC
-算	I-PCC
+算	E-PCC
 将	O
 由	O
 G	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 执	O
 行	O
 ；	O
 而	O
 C	B-PCC
 P	I-PCC
-U	I-PCC
+U	E-PCC
 内	O
 核	O
 则	O
@@ -19943,7 +19943,7 @@ U	I-PCC
 统	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 主	O
 要	O
@@ -19956,7 +19956,7 @@ U	I-PCC
 操	B-PCC
 作	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 、	O
 执	O
 行	O
@@ -19977,7 +19977,7 @@ U	I-PCC
 多	I-PCC
 核	I-PCC
 结	I-PCC
-构	I-PCC
+构	E-PCC
 也	O
 存	O
 在	O
@@ -20048,7 +20048,7 @@ U	I-PCC
 过	O
 软	O
 硬	B-PCC
-件	I-PCC
+件	E-PCC
 相	O
 互	O
 配	O
@@ -20059,7 +20059,7 @@ U	I-PCC
 的	O
 并	B-PCC
 行	I-PCC
-性	I-PCC
+性	E-PCC
 最	O
 大	O
 化	O
@@ -20067,7 +20067,7 @@ U	I-PCC
 多	B-PCC
 核	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 存	O
 储	O
 结	O
@@ -20079,7 +20079,7 @@ U	I-PCC
 使	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 处	O
 理	O
@@ -20095,7 +20095,7 @@ U	I-PCC
 存	B-PCC
 储	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 必	O
 须	O
 能	O
@@ -20105,7 +20105,7 @@ U	I-PCC
 与	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 性	O
 能	O
 相	O
@@ -20114,21 +20114,21 @@ U	I-PCC
 的	O
 存	B-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 带	B-PCC
-宽	I-PCC
+宽	E-PCC
 
 因	O
 此	O
 ，	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 与	O
 主	B-PCC
 存	I-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 之	O
 间	O
 的	O
@@ -20141,7 +20141,7 @@ U	I-PCC
 是	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 结	O
 构	O
 设	O
@@ -20159,7 +20159,7 @@ U	I-PCC
 于	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 内	O
 的	O
 核	O
@@ -20180,7 +20180,7 @@ U	I-PCC
 享	I-PCC
 存	I-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 结	O
 构	O
 进	O
@@ -20192,7 +20192,7 @@ U	I-PCC
 ，	O
 对	O
 主	B-PCC
-存	I-PCC
+存	E-PCC
 的	O
 访	O
 问	O
@@ -20208,7 +20208,7 @@ U	I-PCC
 单	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 时	O
 代	O
 面	O
@@ -20242,7 +20242,7 @@ U	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 进	O
 行	O
 相	O
@@ -20262,7 +20262,7 @@ U	I-PCC
 存	B-PCC
 储	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 的	O
 效	O
 率	O
@@ -20275,7 +20275,7 @@ U	I-PCC
 存	B-PCC
 储	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 设	O
 计	O
 仍	O
@@ -20284,7 +20284,7 @@ U	I-PCC
 用	O
 存	B-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 分	O
 级	O
 的	O
@@ -20305,7 +20305,7 @@ U	I-PCC
 的	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 采	O
 用	O
 二	O
@@ -20318,13 +20318,13 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 提	O
 高	O
 存	B-PCC
 储	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 的	O
 等	O
 效	O
@@ -20337,7 +20337,7 @@ e	I-PCC
 且	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 片	O
 内	O
 的	O
@@ -20345,7 +20345,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 容	O
 量	O
 尽	O
@@ -20358,13 +20358,13 @@ e	I-PCC
 多	B-PCC
 核	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 中	O
 的	O
 存	B-PCC
 储	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 设	O
 计	O
 必	O
@@ -20402,7 +20402,7 @@ e	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 设	O
 计	O
 时	O
@@ -20417,7 +20417,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 和	O
 私	O
 有	O
@@ -20425,7 +20425,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 孰	O
 优	O
 孰	O
@@ -20444,7 +20444,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 等	O
 因	O
 素	O
@@ -20456,7 +20456,7 @@ e	I-PCC
 多	B-PCC
 核	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 中	O
 ，	O
 还	O
@@ -20468,7 +20468,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 的	O
 一	O
 致	O
@@ -20494,7 +20494,7 @@ y	O
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 c	B-PCC
 a	I-PCC
@@ -20503,7 +20503,7 @@ h	I-PCC
 e	I-PCC
 一	I-PCC
 致	I-PCC
-性	I-PCC
+性	E-PCC
 c	B-PCC
 a	I-PCC
 c	I-PCC
@@ -20511,7 +20511,7 @@ h	I-PCC
 e	I-PCC
 一	I-PCC
 致	I-PCC
-性	I-PCC
+性	E-PCC
 问	O
 题	O
 产	O
@@ -20526,7 +20526,7 @@ e	I-PCC
 个	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 系	O
 统	O
 中	O
@@ -20538,12 +20538,12 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 和	O
 主	B-PCC
 存	I-PCC
 空	I-PCC
-间	I-PCC
+间	E-PCC
 中	O
 可	O
 能	O
@@ -20564,7 +20564,7 @@ e	I-PCC
 在	O
 写	B-PCC
 操	I-PCC
-作	I-PCC
+作	E-PCC
 时	O
 ，	O
 这	O
@@ -20585,7 +20585,7 @@ e	I-PCC
 单	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 系	O
 统	O
 中	O
@@ -20597,7 +20597,7 @@ h	I-PCC
 e	I-PCC
 一	I-PCC
 致	I-PCC
-性	I-PCC
+性	E-PCC
 问	O
 题	O
 主	O
@@ -20607,10 +20607,10 @@ e	I-PCC
 为	O
 在	O
 内	B-PCC
-存	I-PCC
+存	E-PCC
 写	B-PCC
 操	I-PCC
-作	I-PCC
+作	E-PCC
 过	O
 程	O
 中	O
@@ -20622,7 +20622,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 中	O
 的	O
 数	O
@@ -20631,7 +20631,7 @@ e	I-PCC
 本	O
 和	O
 主	B-PCC
-存	I-PCC
+存	E-PCC
 内	O
 容	O
 的	O
@@ -20642,16 +20642,16 @@ e	I-PCC
 使	O
 有	O
 I	B-PCC
-O	I-PCC
+O	E-PCC
 通	B-PCC
-道	I-PCC
+道	E-PCC
 共	O
 享	O
 c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 ，	O
 也	O
 可	O
@@ -20660,7 +20660,7 @@ e	I-PCC
 过	O
 全	B-PCC
 写	I-PCC
-法	I-PCC
+法	E-PCC
 较	O
 好	O
 地	O
@@ -20677,7 +20677,7 @@ e	I-PCC
 多	B-PCC
 核	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 中	O
 ，	O
 多	O
@@ -20688,19 +20688,19 @@ e	I-PCC
 够	O
 对	O
 内	B-PCC
-存	I-PCC
+存	E-PCC
 进	O
 行	O
 写	B-PCC
 操	I-PCC
-作	I-PCC
+作	E-PCC
 ，	O
 而	O
 c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 级	O
 数	O
 更	O
@@ -20728,10 +20728,10 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 存	B-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 中	O
 ，	O
 某	O
@@ -20744,7 +20744,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 又	O
 只	O
 能	O
@@ -20762,7 +20762,7 @@ e	I-PCC
 用	O
 全	B-PCC
 写	I-PCC
-法	I-PCC
+法	E-PCC
 ，	O
 也	O
 只	O
@@ -20775,10 +20775,10 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 和	O
 主	B-PCC
-存	I-PCC
+存	E-PCC
 之	O
 间	O
 的	O
@@ -20797,7 +20797,7 @@ e	I-PCC
 处	B-PCC
 理	I-PCC
 机	I-PCC
-核	I-PCC
+核	E-PCC
 的	O
 私	O
 有	O
@@ -20805,7 +20805,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 中	O
 的	O
 相	O
@@ -20829,7 +20829,7 @@ h	I-PCC
 e	I-PCC
 一	I-PCC
 致	I-PCC
-性	I-PCC
+性	E-PCC
 问	O
 题	O
 的	O
@@ -20846,12 +20846,12 @@ e	I-PCC
 多	B-PCC
 核	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 的	O
 存	B-PCC
 储	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 整	O
 体	O
 设	O
@@ -20866,7 +20866,7 @@ h	I-PCC
 e	I-PCC
 一	I-PCC
 致	I-PCC
-性	I-PCC
+性	E-PCC
 的	O
 关	O
 键	O
@@ -20881,7 +20881,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 块	O
 的	O
 状	O
@@ -20892,15 +20892,15 @@ e	I-PCC
 据	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 读	O
 写	B-PCC
 操	I-PCC
-作	I-PCC
+作	E-PCC
 及	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 上	O
 的	O
 相	O
@@ -20913,7 +20913,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 块	O
 的	O
 状	O
@@ -20930,7 +20930,7 @@ e	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 系	O
 统	O
 中	O
@@ -20938,7 +20938,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 内	O
 容	O
 不	O
@@ -20961,16 +20961,16 @@ e	I-PCC
 台	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 采	O
 用	O
 全	B-PCC
 写	I-PCC
-法	I-PCC
+法	E-PCC
 或	O
 回	B-PCC
 写	I-PCC
-法	I-PCC
+法	E-PCC
 修	O
 改	O
 某	O
@@ -20988,13 +20988,13 @@ e	I-PCC
 他	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 的	O
 c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 中	O
 同	O
 一	O
@@ -21006,7 +21006,7 @@ e	I-PCC
 致	O
 
 I	B-PCC
-O	I-PCC
+O	E-PCC
 活	O
 动	O
 如	O
@@ -21015,7 +21015,7 @@ I	B-PCC
 O	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 直	O
 接	O
 接	O
@@ -21023,7 +21023,7 @@ O	I-PCC
 系	B-PCC
 统	I-PCC
 总	I-PCC
-线	I-PCC
+线	E-PCC
 上	O
 ，	O
 也	O
@@ -21034,7 +21034,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 不	O
 一	O
 致	O
@@ -21044,13 +21044,13 @@ e	I-PCC
 线	I-PCC
 程	I-PCC
 迁	I-PCC
-移	I-PCC
+移	E-PCC
 核	B-PCC
 间	I-PCC
 线	I-PCC
 程	I-PCC
 迁	I-PCC
-移	I-PCC
+移	E-PCC
 就	O
 是	O
 把	O
@@ -21063,7 +21063,7 @@ e	I-PCC
 完	O
 的	O
 线	B-PCC
-程	I-PCC
+程	E-PCC
 调	O
 度	O
 到	O
@@ -21076,7 +21076,7 @@ e	I-PCC
 处	B-PCC
 理	I-PCC
 机	I-PCC
-核	I-PCC
+核	E-PCC
 中	O
 去	O
 执	O
@@ -21104,7 +21104,7 @@ e	I-PCC
 核	I-PCC
 间	I-PCC
 迁	I-PCC
-移	I-PCC
+移	E-PCC
 ，	O
 使	O
 系	O
@@ -21112,7 +21112,7 @@ e	I-PCC
 负	B-PCC
 载	I-PCC
 平	I-PCC
-衡	I-PCC
+衡	E-PCC
 
 但	O
 这	O
@@ -21125,7 +21125,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 的	O
 不	O
 一	O
@@ -21134,7 +21134,7 @@ e	I-PCC
 对	O
 于	O
 I	B-PCC
-O	I-PCC
+O	E-PCC
 活	O
 动	O
 和	O
@@ -21143,7 +21143,7 @@ O	I-PCC
 线	I-PCC
 程	I-PCC
 迁	I-PCC
-移	I-PCC
+移	E-PCC
 而	O
 导	O
 致	O
@@ -21152,7 +21152,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 不	O
 一	O
 致	O
@@ -21168,18 +21168,18 @@ e	I-PCC
 I	B-PCC
 O	I-PCC
 通	I-PCC
-道	I-PCC
+道	E-PCC
 与	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 共	O
 享	O
 c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 以	O
 及	O
 禁	O
@@ -21189,7 +21189,7 @@ e	I-PCC
 线	I-PCC
 程	I-PCC
 迁	I-PCC
-移	I-PCC
+移	E-PCC
 来	O
 解	O
 决	O
@@ -21199,7 +21199,7 @@ e	I-PCC
 多	B-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 中	O
 c	B-PCC
 a	I-PCC
@@ -21208,7 +21208,7 @@ h	I-PCC
 e	I-PCC
 一	I-PCC
 致	I-PCC
-性	I-PCC
+性	E-PCC
 问	O
 题	O
 主	O
@@ -21228,7 +21228,7 @@ e	I-PCC
 多	B-PCC
 核	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 中	O
 ，	O
 c	B-PCC
@@ -21238,22 +21238,22 @@ h	I-PCC
 e	I-PCC
 一	I-PCC
 致	I-PCC
-性	I-PCC
+性	E-PCC
 可	O
 以	O
 使	O
 用	O
 软	B-PCC
-件	I-PCC
+件	E-PCC
 或	O
 者	O
 硬	B-PCC
-件	I-PCC
+件	E-PCC
 维	O
 护	O
 
 软	B-PCC
-件	I-PCC
+件	E-PCC
 方	O
 法	O
 采	O
@@ -21271,7 +21271,7 @@ e	I-PCC
 使	O
 用	O
 软	B-PCC
-件	I-PCC
+件	E-PCC
 方	O
 式	O
 维	O
@@ -21283,12 +21283,12 @@ h	I-PCC
 e	I-PCC
 一	I-PCC
 致	I-PCC
-性	I-PCC
+性	E-PCC
 时	O
 ，	O
 处	B-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 需	O
 要	O
 提	O
@@ -21302,18 +21302,18 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 操	O
 作	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 ，	O
 如	O
 c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 块	O
 拷	O
 贝	O
@@ -21330,16 +21330,16 @@ e	I-PCC
 让	O
 程	B-CW
 序	I-CW
-员	I-CW
+员	E-CW
 或	O
 编	B-PCC
 译	I-PCC
-器	I-PCC
+器	E-PCC
 分	O
 析	O
 源	B-PCC
 程	I-PCC
-序	I-PCC
+序	E-PCC
 的	O
 逻	O
 辑	O
@@ -21349,7 +21349,7 @@ e	I-PCC
 数	B-PCC
 据	I-PCC
 相	I-PCC
-关	I-PCC
+关	E-PCC
 性	O
 ，	O
 判	O
@@ -21366,7 +21366,7 @@ h	I-PCC
 e	I-PCC
 一	I-PCC
 致	I-PCC
-性	I-PCC
+性	E-PCC
 问	O
 题	O
 ，	O
@@ -21375,7 +21375,7 @@ e	I-PCC
 这	O
 些	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 维	O
 护	O
 c	B-PCC
@@ -21385,10 +21385,10 @@ h	I-PCC
 e	I-PCC
 一	I-PCC
 致	I-PCC
-性	I-PCC
+性	E-PCC
 
 软	B-PCC
-件	I-PCC
+件	E-PCC
 维	O
 护	O
 c	B-PCC
@@ -21398,13 +21398,13 @@ h	I-PCC
 e	I-PCC
 一	I-PCC
 致	I-PCC
-性	I-PCC
+性	E-PCC
 的	O
 优	O
 点	O
 是	O
 硬	B-PCC
-件	I-PCC
+件	E-PCC
 开	O
 销	O
 小	O
@@ -21433,7 +21433,7 @@ e	I-PCC
 要	O
 程	B-CW
 序	I-CW
-员	I-CW
+员	E-CW
 的	O
 介	O
 入	O
@@ -21451,15 +21451,15 @@ h	I-PCC
 e	I-PCC
 一	I-PCC
 致	I-PCC
-性	I-PCC
+性	E-PCC
 由	O
 硬	B-PCC
-件	I-PCC
+件	E-PCC
 维	O
 护	O
 
 硬	B-PCC
-件	I-PCC
+件	E-PCC
 方	O
 法	O
 采	O
@@ -21489,7 +21489,7 @@ h	I-PCC
 e	I-PCC
 一	I-PCC
 致	I-PCC
-性	I-PCC
+性	E-PCC
 问	O
 题	O
 ”	O
@@ -21501,7 +21501,7 @@ e	I-PCC
 理	I-PCC
 机	I-PCC
 系	I-PCC
-统	I-PCC
+统	E-PCC
 使	O
 用	O
 不	O
@@ -21514,7 +21514,7 @@ h	I-PCC
 e	I-PCC
 一	I-PCC
 致	I-PCC
-性	I-PCC
+性	E-PCC
 协	O
 议	O
 维	O
@@ -21526,7 +21526,7 @@ h	I-PCC
 e	I-PCC
 一	I-PCC
 致	I-PCC
-性	I-PCC
+性	E-PCC
 
 c	B-PCC
 a	I-PCC
@@ -21535,7 +21535,7 @@ h	I-PCC
 e	I-PCC
 一	I-PCC
 致	I-PCC
-性	I-PCC
+性	E-PCC
 协	O
 议	O
 维	O
@@ -21554,14 +21554,14 @@ e	I-PCC
 存	B-PCC
 储	I-PCC
 器	I-PCC
-读	I-PCC
+读	E-PCC
 写	O
 指	B-PCC
-令	I-PCC
+令	E-PCC
 或	O
 者	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 上	O
 的	O
 操	O
@@ -21581,7 +21581,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 块	O
 的	O
 操	O
@@ -21597,7 +21597,7 @@ h	I-PCC
 e	I-PCC
 一	I-PCC
 致	I-PCC
-性	I-PCC
+性	E-PCC
 
 目	O
 前	O
@@ -21609,11 +21609,11 @@ e	I-PCC
 核	I-PCC
 处	I-PCC
 理	I-PCC
-机	I-PCC
+机	E-PCC
 采	O
 用	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 侦	O
 听	O
 b	O
@@ -21658,7 +21658,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 的	O
 一	O
 致	O
@@ -21669,7 +21669,7 @@ e	I-PCC
 目	B-PCC
 录	I-PCC
 协	I-PCC
-议	I-PCC
+议	E-PCC
 在	O
 全	O
 局	O
@@ -21686,7 +21686,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 的	O
 状	O
 态	O
@@ -21694,7 +21694,7 @@ e	I-PCC
 而	O
 在	O
 总	B-PCC
-线	I-PCC
+线	E-PCC
 侦	O
 听	O
 方	O
@@ -21707,7 +21707,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 分	O
 别	O
 管	O
@@ -21718,7 +21718,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 块	O
 的	O
 状	O
@@ -21728,7 +21728,7 @@ e	I-PCC
 通	O
 过	O
 广	B-PCC
-播	I-PCC
+播	E-PCC
 进	O
 行	O
 不	O
@@ -21737,18 +21737,18 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 间	O
 的	O
 状	O
 态	O
 同	B-PCC
-步	I-PCC
+步	E-PCC
 
 目	B-PCC
 录	I-PCC
 协	I-PCC
-议	I-PCC
+议	E-PCC
 目	O
 录	O
 协	O
@@ -21786,7 +21786,7 @@ e	I-PCC
 央	I-PCC
 控	I-PCC
 制	I-PCC
-器	I-PCC
+器	E-PCC
 ，	O
 它	O
 是	O
@@ -21794,7 +21794,7 @@ e	I-PCC
 存	I-PCC
 控	I-PCC
 制	I-PCC
-器	I-PCC
+器	E-PCC
 的	O
 一	O
 部	O
@@ -21806,7 +21806,7 @@ e	I-PCC
 存	O
 于	O
 主	B-PCC
-存	I-PCC
+存	E-PCC
 中	O
 
 目	O
@@ -21823,7 +21823,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 内	O
 容	O
 的	O
@@ -21848,7 +21848,7 @@ h	I-PCC
 e	I-PCC
 控	I-PCC
 制	I-PCC
-器	I-PCC
+器	E-PCC
 产	O
 生	O
 一	O
@@ -21861,14 +21861,14 @@ e	I-PCC
 央	I-PCC
 控	I-PCC
 制	I-PCC
-器	I-PCC
+器	E-PCC
 检	O
 查	O
 此	O
 请	O
 求	O
 并	B-PCC
-发	I-PCC
+发	E-PCC
 出	O
 必	O
 要	O
@@ -21880,13 +21880,13 @@ e	I-PCC
 在	O
 存	B-PCC
 储	I-PCC
-器	I-PCC
+器	E-PCC
 和	O
 c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 之	O
 间	O
 或	O
@@ -21896,7 +21896,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 之	O
 间	O
 传	O
@@ -21908,7 +21908,7 @@ e	I-PCC
 央	I-PCC
 控	I-PCC
 制	I-PCC
-器	I-PCC
+器	E-PCC
 亦	O
 负	O
 责	O
@@ -21937,7 +21937,7 @@ a	I-PCC
 c	I-PCC
 h	I-PCC
 e	I-PCC
-行	I-PCC
+行	E-PCC
 的	O
 全	O
 局	O
@@ -21957,13 +21957,13 @@ e	I-PCC
 央	I-PCC
 控	I-PCC
 制	I-PCC
-器	I-PCC
+器	E-PCC
 
 中	B-PCC
 央	I-PCC
 控	I-PCC
 制	I-PCC
-器	I-PCC
+器	E-PCC
 维	O
 护	O
 着	O
@@ -21974,7 +21974,7 @@ e	I-PCC
 处	B-PCC
 理	I-PCC
 机	I-PCC
-核	I-PCC
+核	E-PCC
 具	O
 有	O
 哪	O
@@ -21992,7 +21992,7 @@ e	I-PCC
 处	B-PCC
 理	I-PCC
 机	I-PCC
-核	I-PCC
+核	E-PCC
 向	O
 局	O
 部	O
@@ -22001,7 +22001,7 @@ a	I-PCC
 c	I-PCC
 h	I-PCC
 e	I-PCC
-行	I-PCC
+行	E-PCC
 副	O
 本	O
 写	O
@@ -22018,7 +22018,7 @@ e	I-PCC
 央	I-PCC
 控	I-PCC
 制	I-PCC
-器	I-PCC
+器	E-PCC
 请	O
 求	O
 排	O
@@ -22044,7 +22044,7 @@ e	I-PCC
 ，	O
 控	B-PCC
 制	I-PCC
-器	I-PCC
+器	E-PCC
 发	O
 送	O
 一	O
@@ -22058,7 +22058,7 @@ c	B-PCC
 a	I-PCC
 c	I-PCC
 h	I-PCC
-e	I-PCC
+e	E-PCC
 中	O
 保	O
 持	O
@@ -22072,7 +22072,7 @@ e	I-PCC
 处	B-PCC
 理	I-PCC
 机	I-PCC
-核	I-PCC
+核	E-PCC
 ，	O
 以	O
 强	O
@@ -22082,7 +22082,7 @@ e	I-PCC
 处	B-PCC
 理	I-PCC
 机	I-PCC
-核	I-PCC
+核	E-PCC
 使	O
 它	O
 的	O
@@ -22099,7 +22099,7 @@ e	I-PCC
 处	B-PCC
 理	I-PCC
 机	I-PCC
-核	I-PCC
+核	E-PCC
 返	O
 回	O
 的	O
@@ -22111,7 +22111,7 @@ e	I-PCC
 ，	O
 控	B-PCC
 制	I-PCC
-器	I-PCC
+器	E-PCC
 才	O
 将	O
 排	O
