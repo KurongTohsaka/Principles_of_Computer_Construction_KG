@@ -1,0 +1,6173 @@
+[
+  {
+    "text": "在T时钟的上升沿，控制器发出存储体A的写命令",
+    "id": 7593,
+    "label": [
+      {
+        "start": 14,
+        "end": 17,
+        "text": "存储体",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "text": "控制器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "text": "时钟",
+        "labels": [
+          "IO"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9026,
+    "created_at": "2024-08-18T03:07:30.339504Z",
+    "updated_at": "2024-08-18T03:07:30.339504Z",
+    "lead_time": 3.1
+  },
+  {
+    "text": "ta意味着加法器的输入端输入加数和被加数后，在最坏情况下加法器输出端得到稳定的求和输出所需的最长时间",
+    "id": 7594,
+    "label": [
+      {
+        "start": 5,
+        "end": 8,
+        "text": "加法器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 31,
+        "text": "加法器",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9027,
+    "created_at": "2024-08-18T03:07:32.165795Z",
+    "updated_at": "2024-08-18T03:07:32.165795Z",
+    "lead_time": 1.052
+  },
+  {
+    "text": "段长记录该段的实际长度",
+    "id": 7595,
+    "annotator": 1,
+    "annotation_id": 9028,
+    "created_at": "2024-08-18T03:07:33.466160Z",
+    "updated_at": "2024-08-18T03:07:33.466160Z",
+    "lead_time": 0.523
+  },
+  {
+    "text": "另一类是电子数字计算机，它是在算盘的基础上发展起来的，是用数字来表示数量的大小",
+    "id": 7596,
+    "label": [
+      {
+        "start": 4,
+        "end": 11,
+        "text": "电子数字计算机",
+        "labels": [
+          "ARCH"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9029,
+    "created_at": "2024-08-18T03:07:36.967384Z",
+    "updated_at": "2024-08-18T03:07:36.967384Z",
+    "lead_time": 2.711
+  },
+  {
+    "text": "随着VLSI技术的发展，CPU芯片外部的一些逻辑功能部件，如浮点运算器、cache、总线仲裁器等往往集成到CPU芯片内部",
+    "id": 7597,
+    "label": [
+      {
+        "start": 2,
+        "end": 8,
+        "text": "VLSI技术",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 41,
+        "text": "cache",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 35,
+        "text": "浮点运算器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 46,
+        "text": "总线仲裁",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 56,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "text": "芯片",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 58,
+        "text": "芯片",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9030,
+    "created_at": "2024-08-18T03:07:40.086715Z",
+    "updated_at": "2024-08-18T03:07:40.086715Z",
+    "lead_time": 2.287
+  },
+  {
+    "text": "最简单的校验是奇偶校验，除了数据位外只需增加位附加位k，进行奇校验或偶校验即可",
+    "id": 7598,
+    "label": [
+      {
+        "start": 7,
+        "end": 11,
+        "text": "奇偶校验",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "text": "数据位",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 37,
+        "text": "偶校验",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 33,
+        "text": "奇校验",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 23,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 26,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9031,
+    "created_at": "2024-08-18T03:07:47.066604Z",
+    "updated_at": "2024-08-18T03:07:47.066604Z",
+    "lead_time": 6.062
+  },
+  {
+    "text": "指令寄存器IR指令寄存器用来保存当前正在执行的一条指令",
+    "id": 7599,
+    "label": [
+      {
+        "start": 2,
+        "end": 5,
+        "text": "寄存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "text": "寄存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "text": "IR",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "text": "指令",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "text": "指令",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "text": "指令",
+        "labels": [
+          "INST"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9032,
+    "created_at": "2024-08-18T03:07:49.512314Z",
+    "updated_at": "2024-08-18T03:07:49.512314Z",
+    "lead_time": 1.473
+  },
+  {
+    "text": "外设发送给CPU的数据则通过输入数据口缓冲",
+    "id": 7600,
+    "label": [
+      {
+        "start": 5,
+        "end": 8,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "text": "外设",
+        "labels": [
+          "IO"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9033,
+    "created_at": "2024-08-18T03:07:51.714540Z",
+    "updated_at": "2024-08-18T03:07:51.714540Z",
+    "lead_time": 1.255
+  },
+  {
+    "text": "图为PCIe总线的拓扑结构实例",
+    "id": 7601,
+    "label": [
+      {
+        "start": 2,
+        "end": 8,
+        "text": "PCIe总线",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "text": "拓扑结构",
+        "labels": [
+          "TECH"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9034,
+    "created_at": "2024-08-18T03:08:09.331431Z",
+    "updated_at": "2024-08-18T03:08:09.331431Z",
+    "lead_time": 16.868
+  },
+  {
+    "text": "在此期间形成机种多样化，生产系列化，使用系统化，小型计算机开始出现",
+    "id": 7602,
+    "label": [
+      {
+        "start": 26,
+        "end": 29,
+        "text": "计算机",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9035,
+    "created_at": "2024-08-18T03:08:23.235573Z",
+    "updated_at": "2024-08-18T03:08:23.235573Z",
+    "lead_time": 13.178
+  },
+  {
+    "text": "但是，当遇到转移指令如JMP指令时，那么后继指令的地址即PC的内容必须从指令寄存器中的地址字段取得",
+    "id": 7603,
+    "label": [
+      {
+        "start": 11,
+        "end": 16,
+        "text": "JMP指令",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 41,
+        "text": "指令寄存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "text": "转移指令",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 47,
+        "text": "地址字段",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "text": "地址",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "text": "指令",
+        "labels": [
+          "INST"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9036,
+    "created_at": "2024-08-18T03:08:48.553682Z",
+    "updated_at": "2024-08-18T03:08:48.553682Z",
+    "lead_time": 24.622
+  },
+  {
+    "text": "显然，我们可以利用符号位来作为控制信号",
+    "id": 7604,
+    "label": [
+      {
+        "start": 9,
+        "end": 12,
+        "text": "符号位",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "text": "控制信号",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9037,
+    "created_at": "2024-08-18T03:08:51.313199Z",
+    "updated_at": "2024-08-18T03:08:51.313199Z",
+    "lead_time": 1.979
+  },
+  {
+    "text": "下一次读取时，输入的位行地址立即与最后读出行地址锁存器的内容进行比较：若相符则SRAM命中，由输入的列地址直接从SRAM中选择某一位组送出即可；只在比较不相符时，才需要再次访问DRAM阵列，更新SRAM和最后读出行地址锁存器的内容，并送出指定的位组",
+    "id": 7605,
+    "label": [
+      {
+        "start": 88,
+        "end": 92,
+        "text": "DRAM",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 43,
+        "text": "SRAM",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 60,
+        "text": "SRAM",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 97,
+        "end": 101,
+        "text": "SRAM",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 53,
+        "text": "列地址",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "text": "行地址",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "text": "行地址",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 106,
+        "end": 109,
+        "text": "行地址",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "text": "锁存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 109,
+        "end": 112,
+        "text": "锁存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 66,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 122,
+        "end": 123,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9038,
+    "created_at": "2024-08-18T03:08:55.142855Z",
+    "updated_at": "2024-08-18T03:08:55.142855Z",
+    "lead_time": 3.174
+  },
+  {
+    "text": "高速的外围设备：同步传送方式对于中等以上数据传送速率并按规则间隔工作的外部设备，接口以某一确定的时钟速率和外设交换信息",
+    "id": 7606,
+    "label": [
+      {
+        "start": 53,
+        "end": 55,
+        "text": "外设",
+        "labels": [
+          "IO"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "text": "外围设备",
+        "labels": [
+          "IO"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 39,
+        "text": "外部设备",
+        "labels": [
+          "IO"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 50,
+        "text": "时钟",
+        "labels": [
+          "IO"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 42,
+        "text": "接口",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "text": "同步",
+        "labels": [
+          "TECH"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9039,
+    "created_at": "2024-08-18T03:08:59.528456Z",
+    "updated_at": "2024-08-18T03:08:59.528456Z",
+    "lead_time": 3.607
+  },
+  {
+    "text": "MMU的主要功能有：在TLB的协助下完成虚实地址转换；维护TLB的控制机制；负责存储保护；在TLB失效或非法访问时向处理器发起中断；维护一个TLB失效后的再填充机制tablewalking",
+    "id": 7607,
+    "label": [
+      {
+        "start": 22,
+        "end": 26,
+        "text": "地址转换",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 44,
+        "text": "存储保护",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 61,
+        "text": "处理器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "text": "TLB",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 32,
+        "text": "TLB",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 49,
+        "text": "TLB",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 73,
+        "text": "TLB",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 65,
+        "text": "中断",
+        "labels": [
+          "TECH"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9040,
+    "created_at": "2024-08-18T03:09:02.809972Z",
+    "updated_at": "2024-08-18T03:09:02.809972Z",
+    "lead_time": 2.555
+  },
+  {
+    "text": "RISC的目标绝不是简单的缩减指令系统，而是使处理器的结构更简单，更合理，具有更高的性能和执行效率，并降低处理器的开发成本",
+    "id": 7608,
+    "label": [
+      {
+        "start": 15,
+        "end": 19,
+        "text": "指令系统",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 4,
+        "text": "RISC",
+        "labels": [
+          "ARCH"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 26,
+        "text": "处理器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 56,
+        "text": "处理器",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9041,
+    "created_at": "2024-08-18T03:09:10.227742Z",
+    "updated_at": "2024-08-18T03:09:10.228741Z",
+    "lead_time": 6.588
+  },
+  {
+    "text": "使用等长指令，目前的典型长度是B",
+    "id": 7609,
+    "label": [
+      {
+        "start": 4,
+        "end": 6,
+        "text": "指令",
+        "labels": [
+          "INST"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9042,
+    "created_at": "2024-08-18T03:11:33.694546Z",
+    "updated_at": "2024-08-18T03:11:33.694546Z",
+    "lead_time": 142.731
+  },
+  {
+    "text": "为了解决多个主设备同时竞争总线控制权的问题，必须具有总线仲裁部件",
+    "id": 7610,
+    "label": [
+      {
+        "start": 26,
+        "end": 30,
+        "text": "总线仲裁",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "text": "总线控制权",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "text": "主设备",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9043,
+    "created_at": "2024-08-18T03:11:44.885668Z",
+    "updated_at": "2024-08-18T03:11:44.885668Z",
+    "lead_time": 10.645
+  },
+  {
+    "text": "接着给孩子乙，其过程与孩子甲完全一样",
+    "id": 7611,
+    "annotator": 1,
+    "annotation_id": 9044,
+    "created_at": "2024-08-18T03:13:00.368595Z",
+    "updated_at": "2024-08-18T03:13:00.368595Z",
+    "lead_time": 74.801
+  },
+  {
+    "text": "当代的总线标准大都能支持以下数据传送模式：读写操作；块传送操作；写后读、读修改写操作；广播、广集操作",
+    "id": 7612,
+    "label": [
+      {
+        "start": 3,
+        "end": 5,
+        "text": "总线",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 31,
+        "text": "块传送操作",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 25,
+        "text": "写操作",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 42,
+        "text": "写操作",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 48,
+        "text": "广集",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 45,
+        "text": "广播",
+        "labels": [
+          "PROT"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9045,
+    "created_at": "2024-08-18T03:13:38.757095Z",
+    "updated_at": "2024-08-18T03:13:38.757095Z",
+    "lead_time": 37.68
+  },
+  {
+    "text": "分段部件将程序中使用的虚地址转换成线性地址",
+    "id": 7613,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "分段部件",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 21,
+        "text": "线性地址",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "text": "地址转换",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9046,
+    "created_at": "2024-08-18T03:13:42.800872Z",
+    "updated_at": "2024-08-18T03:13:42.800872Z",
+    "lead_time": 3.151
+  },
+  {
+    "text": "它是一个RISC处理器",
+    "id": 7614,
+    "label": [
+      {
+        "start": 4,
+        "end": 8,
+        "text": "RISC",
+        "labels": [
+          "ARCH"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "text": "处理器",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9047,
+    "created_at": "2024-08-18T03:13:45.266638Z",
+    "updated_at": "2024-08-18T03:13:45.266638Z",
+    "lead_time": 1.751
+  },
+  {
+    "text": "然后，外设把“准备就绪”的状态标志复位，并准备下一个字的交换",
+    "id": 7615,
+    "label": [
+      {
+        "start": 3,
+        "end": 5,
+        "text": "外设",
+        "labels": [
+          "IO"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 19,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 27,
+        "text": "字",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9048,
+    "created_at": "2024-08-18T03:13:47.640072Z",
+    "updated_at": "2024-08-18T03:13:47.640072Z",
+    "lead_time": 1.764
+  },
+  {
+    "text": "个执行功能部件是：取数存数读写部件、整数运算部件个、浮点加法部件、乘法部件、除法部件、图形处理部件个、位处理部件、用于管理流水线的超标量指令派遣转移部件",
+    "id": 7616,
+    "label": [
+      {
+        "start": 26,
+        "end": 32,
+        "text": "浮点加法部件",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 64,
+        "text": "流水线",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 70,
+        "text": "指令",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 52,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9049,
+    "created_at": "2024-08-18T03:13:49.385789Z",
+    "updated_at": "2024-08-18T03:13:49.385789Z",
+    "lead_time": 1.014
+  },
+  {
+    "text": "这是第一个将CPU的所有元件都放入同一块芯片内的产品，于是，微处理器诞生了",
+    "id": 7617,
+    "label": [
+      {
+        "start": 30,
+        "end": 34,
+        "text": "微处理器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "text": "芯片",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9050,
+    "created_at": "2024-08-18T03:13:51.073626Z",
+    "updated_at": "2024-08-18T03:13:51.073626Z",
+    "lead_time": 0.981
+  },
+  {
+    "text": "而物理地址空间使用位地址，最大GB",
+    "id": 7618,
+    "label": [
+      {
+        "start": 1,
+        "end": 5,
+        "text": "物理地址",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "text": "位地址",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "text": "GB",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9051,
+    "created_at": "2024-08-18T03:13:52.638222Z",
+    "updated_at": "2024-08-18T03:13:52.638222Z",
+    "lead_time": 0.795
+  },
+  {
+    "text": "图b示出了位除位的加减交替阵列除法器的逻辑原理图",
+    "id": 7619,
+    "label": [
+      {
+        "start": 13,
+        "end": 18,
+        "text": "阵列除法器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9052,
+    "created_at": "2024-08-18T03:13:54.773549Z",
+    "updated_at": "2024-08-18T03:13:54.773549Z",
+    "lead_time": 1.424
+  },
+  {
+    "text": "在结构上，由初级的串行操作输入输出方式，发展到有通道连接的多种外设并行操作方式",
+    "id": 7620,
+    "label": [
+      {
+        "start": 9,
+        "end": 11,
+        "text": "串行",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 35,
+        "text": "并行",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 33,
+        "text": "外设",
+        "labels": [
+          "IO"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "text": "通道",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9053,
+    "created_at": "2024-08-18T03:13:56.537784Z",
+    "updated_at": "2024-08-18T03:13:56.537784Z",
+    "lead_time": 1.059
+  },
+  {
+    "text": "分段分页模式在分段基础上增加分页存储管理的模式，即段页式虚拟存储器",
+    "id": 7621,
+    "label": [
+      {
+        "start": 25,
+        "end": 33,
+        "text": "段页式虚拟存储器",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 6,
+        "text": "分段分页模式",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 20,
+        "text": "分页存储管理",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "text": "分段",
+        "labels": [
+          "TECH"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9054,
+    "created_at": "2024-08-18T03:13:58.506604Z",
+    "updated_at": "2024-08-18T03:13:58.506604Z",
+    "lead_time": 1.271
+  },
+  {
+    "text": "程序中使用的逻辑地址由一个位段选择器和一个位偏移量组成，由分段部件将二维的虚拟地址转换为一维的线性地址，再由分页部件将其转换成位物理地址",
+    "id": 7622,
+    "label": [
+      {
+        "start": 14,
+        "end": 18,
+        "text": "段选择器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 41,
+        "text": "虚拟地址",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 68,
+        "text": "物理地址",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "text": "逻辑地址",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 51,
+        "text": "线性地址",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 33,
+        "text": "分段部件",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 58,
+        "text": "分页部件",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 25,
+        "text": "偏移量",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 22,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 64,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9055,
+    "created_at": "2024-08-18T03:14:02.237847Z",
+    "updated_at": "2024-08-18T03:14:02.237847Z",
+    "lead_time": 2.916
+  },
+  {
+    "text": "这些Ti周期的总和规定了一个CPU周期的时间宽度",
+    "id": 7623,
+    "label": [
+      {
+        "start": 14,
+        "end": 19,
+        "text": "CPU周期",
+        "labels": [
+          "TECH"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9056,
+    "created_at": "2024-08-18T03:14:07.739512Z",
+    "updated_at": "2024-08-18T03:14:16.588469Z",
+    "lead_time": 9.546
+  },
+  {
+    "text": "图示出了采用定长CPU周期的指令周期示意图",
+    "id": 7624,
+    "label": [
+      {
+        "start": 8,
+        "end": 13,
+        "text": "CPU周期",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "text": "指令周期",
+        "labels": [
+          "INST"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9057,
+    "created_at": "2024-08-18T03:14:21.084741Z",
+    "updated_at": "2024-08-18T03:14:21.084741Z",
+    "lead_time": 0.82
+  },
+  {
+    "text": "由于一次访问指存，一次访问数存，LAD指令的指令周期需要个CPU周期，如图所示",
+    "id": 7625,
+    "label": [
+      {
+        "start": 29,
+        "end": 34,
+        "text": "CPU周期",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 26,
+        "text": "指令周期",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 19,
+        "text": "LAD",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "text": "指令",
+        "labels": [
+          "INST"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9058,
+    "created_at": "2024-08-18T03:14:23.306514Z",
+    "updated_at": "2024-08-18T03:14:23.306514Z",
+    "lead_time": 1.423
+  },
+  {
+    "text": "传送数据，当输入数据时，将IO接口中数据寄存器的内容送到CPU某一寄存器；当输出数据时，将CPU中某一寄存器的内容送到IO接口的数据寄存器",
+    "id": 7626,
+    "label": [
+      {
+        "start": 20,
+        "end": 23,
+        "text": "寄存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 69,
+        "text": "数据寄存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "text": "IO接口",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 63,
+        "text": "IO接口",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 31,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 48,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 36,
+        "text": "寄存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 54,
+        "text": "寄存器",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9059,
+    "created_at": "2024-08-18T03:14:24.982611Z",
+    "updated_at": "2024-08-18T03:14:24.982611Z",
+    "lead_time": 0.889
+  },
+  {
+    "text": "操作控制器OC送出控制命令到通用寄存器，选择R做源寄存器，R做目标寄存器；OC送出控制命令到ALU，指定ALU做R和R的加法操作；OC送出控制命令，打开ALU输出三态门，运算结果放到DBUS上；OC送出控制命令，将DBUS上数据打入缓冲寄存器DR；ALU产生的进位信号保存在状态字寄存器PSWR中；OC送出控制命令，将DR装入R，R中原来的内容被冲掉",
+    "id": 7627,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "操作控制器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "text": "通用寄存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 116,
+        "end": 121,
+        "text": "缓冲寄存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "text": "目标寄存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 28,
+        "text": "源寄存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 84,
+        "text": "三态门",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 49,
+        "text": "ALU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 55,
+        "text": "ALU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 79,
+        "text": "ALU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 124,
+        "end": 127,
+        "text": "ALU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 140,
+        "end": 143,
+        "text": "寄存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 131,
+        "end": 132,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 139,
+        "end": 140,
+        "text": "字",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9060,
+    "created_at": "2024-08-18T03:14:28.260756Z",
+    "updated_at": "2024-08-18T03:14:28.260756Z",
+    "lead_time": 2.49
+  },
+  {
+    "text": "至此，ADD指令执行周期结束",
+    "id": 7628,
+    "label": [
+      {
+        "start": 3,
+        "end": 6,
+        "text": "ADD",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "text": "执行周期",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "text": "指令",
+        "labels": [
+          "INST"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9061,
+    "created_at": "2024-08-18T03:14:30.456704Z",
+    "updated_at": "2024-08-18T03:14:30.456704Z",
+    "lead_time": 1.395
+  },
+  {
+    "text": "显然，一个磁化元就是一个存储元，一个磁化元中存储一位二进制信息",
+    "id": 7629,
+    "label": [
+      {
+        "start": 12,
+        "end": 15,
+        "text": "存储元",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 29,
+        "text": "二进制",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 26,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9062,
+    "created_at": "2024-08-18T03:14:32.924882Z",
+    "updated_at": "2024-08-18T03:14:32.924882Z",
+    "lead_time": 1.683
+  },
+  {
+    "text": "虚拟存储器还解决了存储保护等问题",
+    "id": 7630,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "虚拟存储器",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "text": "存储保护",
+        "labels": [
+          "TECH"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9063,
+    "created_at": "2024-08-18T03:14:35.256576Z",
+    "updated_at": "2024-08-18T03:14:35.256576Z",
+    "lead_time": 1.592
+  },
+  {
+    "text": "输入输出指令不仅用于传送数据和控制设备的启动与关闭，而且也用于测试设备的状态",
+    "id": 7631,
+    "label": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "输入输出指令",
+        "labels": [
+          "INST"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9064,
+    "created_at": "2024-08-18T03:14:37.264190Z",
+    "updated_at": "2024-08-18T03:14:37.264190Z",
+    "lead_time": 1.261
+  },
+  {
+    "text": "每个设备接口电路都包含一个设备选择电路，用它判别地址总线上呼叫的设备是不是本设备",
+    "id": 7632,
+    "label": [
+      {
+        "start": 2,
+        "end": 6,
+        "text": "设备接口",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 28,
+        "text": "地址总线",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9065,
+    "created_at": "2024-08-18T03:14:45.912796Z",
+    "updated_at": "2024-08-18T03:14:45.912796Z",
+    "lead_time": 7.976
+  },
+  {
+    "text": "不论微型机还是超级计算机，并行处理技术已成为计算机技术发展的主流",
+    "id": 7633,
+    "label": [
+      {
+        "start": 7,
+        "end": 12,
+        "text": "超级计算机",
+        "labels": [
+          "ARCH"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 19,
+        "text": "并行处理技术",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "text": "微型机",
+        "labels": [
+          "ARCH"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 25,
+        "text": "计算机",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9066,
+    "created_at": "2024-08-18T03:14:50.003773Z",
+    "updated_at": "2024-08-18T03:14:50.003773Z",
+    "lead_time": 3.311
+  },
+  {
+    "text": "当芯片在连续的个总线写周期中依次从其地址线数据线上接收到AA、AA、、AA、AA和这组信息时，将会把内部状态机转到“整片擦除”状态，并启动整片擦除操作",
+    "id": 7634,
+    "label": [
+      {
+        "start": 18,
+        "end": 21,
+        "text": "地址线",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "text": "数据线",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "text": "写周期",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "text": "芯片",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "text": "总线",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9067,
+    "created_at": "2024-08-18T03:14:53.043646Z",
+    "updated_at": "2024-08-18T03:14:53.043646Z",
+    "lead_time": 2.214
+  },
+  {
+    "text": "RISC机器的三个基本要素是：一个有限的简单指令系统；CPU配备大量的通用寄存器；强调指令流水线的优化",
+    "id": 7635,
+    "label": [
+      {
+        "start": 35,
+        "end": 40,
+        "text": "通用寄存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 48,
+        "text": "指令流水线",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 26,
+        "text": "指令系统",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 4,
+        "text": "RISC",
+        "labels": [
+          "ARCH"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 30,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9068,
+    "created_at": "2024-08-18T03:14:54.921806Z",
+    "updated_at": "2024-08-18T03:14:54.921806Z",
+    "lead_time": 0.898
+  },
+  {
+    "text": "下面介绍如何用若干个ALU位片，与配套的先行进位部件CLA在一起，构成一个全字长的ALU",
+    "id": 7636,
+    "label": [
+      {
+        "start": 20,
+        "end": 26,
+        "text": "先行进位部件",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "text": "ALU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 44,
+        "text": "ALU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 40,
+        "text": "字长",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9069,
+    "created_at": "2024-08-18T03:14:57.112457Z",
+    "updated_at": "2024-08-18T03:14:57.112457Z",
+    "lead_time": 1.189
+  },
+  {
+    "text": "图中用表示了CPU从外设输入一个字的过程",
+    "id": 7637,
+    "label": [
+      {
+        "start": 6,
+        "end": 9,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "text": "外设",
+        "labels": [
+          "IO"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 17,
+        "text": "字",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9070,
+    "created_at": "2024-08-18T03:14:59.264824Z",
+    "updated_at": "2024-08-18T03:14:59.264824Z",
+    "lead_time": 1.371
+  },
+  {
+    "text": "按上述步骤执行时CPU资源浪费严重，故实际应用中做如下改进：CPU在执行主程序的过程中可周期性地调用各外部设备询问子程序，而询问子程序依次测试各IO设备的状态触发器“Ready”",
+    "id": 7638,
+    "label": [
+      {
+        "start": 8,
+        "end": 11,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 82,
+        "text": "触发器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 76,
+        "text": "IO设备",
+        "labels": [
+          "IO"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 55,
+        "text": "外部设备",
+        "labels": [
+          "IO"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 33,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 39,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 60,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 67,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9071,
+    "created_at": "2024-08-18T03:15:01.635784Z",
+    "updated_at": "2024-08-18T03:15:01.635784Z",
+    "lead_time": 1.573
+  },
+  {
+    "text": "借助于总线连接，计算机在各系统功能部件之间实现地址、数据和控制信息的交换，并在争用资源的基础上进行工作",
+    "id": 7639,
+    "label": [
+      {
+        "start": 8,
+        "end": 11,
+        "text": "计算机",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "text": "地址",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "text": "总线",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9072,
+    "created_at": "2024-08-18T03:15:04.030819Z",
+    "updated_at": "2024-08-18T03:15:04.030819Z",
+    "lead_time": 1.543
+  },
+  {
+    "text": "闪存内部状态机设置了超时时间，以判断编程或擦除是否因错误而超时",
+    "id": 7640,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "闪存",
+        "labels": [
+          "STOR"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9073,
+    "created_at": "2024-08-18T03:15:05.548481Z",
+    "updated_at": "2024-08-18T03:15:05.548481Z",
+    "lead_time": 0.738
+  },
+  {
+    "text": "修改传送字节数，以便修改传送长度",
+    "id": 7641,
+    "label": [
+      {
+        "start": 4,
+        "end": 6,
+        "text": "字节",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9074,
+    "created_at": "2024-08-18T03:15:08.003605Z",
+    "updated_at": "2024-08-18T03:15:08.003605Z",
+    "lead_time": 1.73
+  },
+  {
+    "text": "由表可知，每条指令应当明确告诉控制器，从存储器的哪个单元取数，并进行何种操作",
+    "id": 7642,
+    "label": [
+      {
+        "start": 15,
+        "end": 18,
+        "text": "控制器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "text": "存储器",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "text": "指令",
+        "labels": [
+          "INST"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9075,
+    "created_at": "2024-08-18T03:15:14.226899Z",
+    "updated_at": "2024-08-18T03:15:14.226899Z",
+    "lead_time": 5.326
+  },
+  {
+    "text": "编程或擦除失败后只能通过复位命令返回读存储矩阵状态",
+    "id": 7643,
+    "label": [
+      {
+        "start": 19,
+        "end": 23,
+        "text": "存储矩阵",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9076,
+    "created_at": "2024-08-18T03:15:16.828289Z",
+    "updated_at": "2024-08-18T03:15:16.828289Z",
+    "lead_time": 1.89
+  },
+  {
+    "text": "时间特性时间特性定义了每根线在什么时间有效",
+    "id": 7644,
+    "annotator": 1,
+    "annotation_id": 9077,
+    "created_at": "2024-08-18T03:15:34.768504Z",
+    "updated_at": "2024-08-18T03:15:34.768504Z",
+    "lead_time": 17.258
+  },
+  {
+    "text": "为了把两个操作数输入到ALU，需要分两次来做，而且还需要A、B两个缓冲寄存器",
+    "id": 7645,
+    "label": [
+      {
+        "start": 33,
+        "end": 38,
+        "text": "缓冲寄存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "text": "操作数",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "text": "ALU",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9078,
+    "created_at": "2024-08-18T03:15:42.047609Z",
+    "updated_at": "2024-08-18T03:15:42.047609Z",
+    "lead_time": 6.609
+  },
+  {
+    "text": "早期的计算机系统以CPU为中心",
+    "id": 7646,
+    "label": [
+      {
+        "start": 9,
+        "end": 12,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 8,
+        "text": "计算机系统",
+        "labels": [
+          "ARCH"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9079,
+    "created_at": "2024-08-18T03:15:46.211467Z",
+    "updated_at": "2024-08-18T03:15:46.211467Z",
+    "lead_time": 3.472
+  },
+  {
+    "text": "这种结构严重影响了CPU效能的发挥，故以内存为中心的系统逐渐取代了以CPU为中心的结构",
+    "id": 7647,
+    "label": [
+      {
+        "start": 9,
+        "end": 12,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 37,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "text": "内存",
+        "labels": [
+          "STOR"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9080,
+    "created_at": "2024-08-18T03:15:48.605987Z",
+    "updated_at": "2024-08-18T03:15:48.605987Z",
+    "lead_time": 1.629
+  },
+  {
+    "text": "每个盘片表面通常有几百到几千个磁道，每个磁道又分为若干个扇区，如图所示",
+    "id": 7648,
+    "label": [
+      {
+        "start": 15,
+        "end": 17,
+        "text": "磁道",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 30,
+        "text": "扇区",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "text": "盘片",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "text": "磁道",
+        "labels": [
+          "STOR"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9081,
+    "created_at": "2024-08-18T03:15:50.646853Z",
+    "updated_at": "2024-08-18T03:15:50.646853Z",
+    "lead_time": 1.262
+  },
+  {
+    "text": "就是说，它只有一个节拍电位，在节拍电位中又包含若干个节拍脉冲T周期",
+    "id": 7649,
+    "label": [
+      {
+        "start": 26,
+        "end": 30,
+        "text": "节拍脉冲",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "text": "节拍电位",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "text": "节拍电位",
+        "labels": [
+          "TECH"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9082,
+    "created_at": "2024-08-18T03:15:57.537761Z",
+    "updated_at": "2024-08-18T03:15:57.537761Z",
+    "lead_time": 6.092
+  },
+  {
+    "text": "磁盘上的这种磁道和扇区的排列称为格式",
+    "id": 7650,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "磁盘",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "text": "扇区",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "text": "磁道",
+        "labels": [
+          "STOR"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9083,
+    "created_at": "2024-08-18T03:15:59.669746Z",
+    "updated_at": "2024-08-18T03:15:59.669746Z",
+    "lead_time": 1.449
+  },
+  {
+    "text": "这是因为，当形成操作结果的输出时，两条总线都被输入数占据，因而必须在ALU输出端设置缓冲寄存器",
+    "id": 7651,
+    "label": [
+      {
+        "start": 42,
+        "end": 47,
+        "text": "缓冲寄存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 37,
+        "text": "ALU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "text": "总线",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9084,
+    "created_at": "2024-08-18T03:16:15.074736Z",
+    "updated_at": "2024-08-18T03:16:15.074736Z",
+    "lead_time": 14.645
+  },
+  {
+    "text": "索引标志在传感器检索下可产生脉冲信号，再通过磁盘控制器处理，便可定出磁道起始位置",
+    "id": 7652,
+    "label": [
+      {
+        "start": 22,
+        "end": 27,
+        "text": "磁盘控制器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "text": "索引",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 36,
+        "text": "磁道",
+        "labels": [
+          "STOR"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9085,
+    "created_at": "2024-08-18T03:16:20.180896Z",
+    "updated_at": "2024-08-18T03:16:20.180896Z",
+    "lead_time": 3.885
+  },
+  {
+    "text": "另外，设置了一个总线旁路器桥",
+    "id": 7653,
+    "label": [
+      {
+        "start": 8,
+        "end": 10,
+        "text": "总线",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "text": "桥",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9086,
+    "created_at": "2024-08-18T03:16:22.533113Z",
+    "updated_at": "2024-08-18T03:16:22.533113Z",
+    "lead_time": 1.545
+  },
+  {
+    "text": "扇标脉冲的出现即标志一个扇区的开始",
+    "id": 7654,
+    "label": [
+      {
+        "start": 12,
+        "end": 14,
+        "text": "扇区",
+        "labels": [
+          "STOR"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9087,
+    "created_at": "2024-08-18T03:16:25.448798Z",
+    "updated_at": "2024-08-18T03:16:25.448798Z",
+    "lead_time": 2.218
+  },
+  {
+    "text": "“会写”已经做到，如目前广为使用的激光印字机、绘图仪、CRT显示器等",
+    "id": 7655,
+    "label": [
+      {
+        "start": 17,
+        "end": 22,
+        "text": "激光印字机",
+        "labels": [
+          "IO"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 32,
+        "text": "CRT显示",
+        "labels": [
+          "IO"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9088,
+    "created_at": "2024-08-18T03:16:32.305579Z",
+    "updated_at": "2024-08-18T03:16:32.305579Z",
+    "lead_time": 6.234
+  },
+  {
+    "text": "在三地址指令格式的基础上，后来又发展成二地址格式、一地址格式和零地址格式",
+    "id": 7656,
+    "label": [
+      {
+        "start": 1,
+        "end": 6,
+        "text": "三地址指令",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "text": "二地址",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "text": "零地址",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 28,
+        "text": "地址",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9089,
+    "created_at": "2024-08-18T03:16:44.881557Z",
+    "updated_at": "2024-08-18T03:16:44.881557Z",
+    "lead_time": 11.89
+  },
+  {
+    "text": "只有在CPU把中断服务程序执行完毕以后，它才重新使“中断屏蔽”标志置“”，即开放中断，并返回主程序",
+    "id": 7657,
+    "label": [
+      {
+        "start": 3,
+        "end": 6,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 13,
+        "text": "中断服务程序",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 31,
+        "text": "中断屏蔽”",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 42,
+        "text": "中断",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 49,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9090,
+    "created_at": "2024-08-18T03:16:46.861004Z",
+    "updated_at": "2024-08-18T03:16:46.861004Z",
+    "lead_time": 1.186
+  },
+  {
+    "text": "至于在中断周期中如何转移到各个设备的中断服务程序，将在稍后介绍",
+    "id": 7658,
+    "label": [
+      {
+        "start": 18,
+        "end": 24,
+        "text": "中断服务程序",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "text": "中断周期",
+        "labels": [
+          "TECH"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9091,
+    "created_at": "2024-08-18T03:16:48.935824Z",
+    "updated_at": "2024-08-18T03:16:48.935824Z",
+    "lead_time": 0.813
+  },
+  {
+    "text": "总线信号是CPU引脚信号的延伸，故总线结构紧密与CPU相关，通用性较差",
+    "id": 7659,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "总线",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "text": "引脚",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "text": "总线",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9092,
+    "created_at": "2024-08-18T03:16:52.368742Z",
+    "updated_at": "2024-08-18T03:16:52.368742Z",
+    "lead_time": 2.567
+  },
+  {
+    "text": "存储器容量也是个字，也分成个模块，每个模块个字",
+    "id": 7660,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "存储器",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "text": "字",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 23,
+        "text": "字",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9093,
+    "created_at": "2024-08-18T03:16:53.795225Z",
+    "updated_at": "2024-08-18T03:16:53.795225Z",
+    "lead_time": 0.175
+  },
+  {
+    "text": "多模块交叉存储器的基本结构图示出四模块交叉存储器结构框图",
+    "id": 7661,
+    "label": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "多模块交叉存储器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 24,
+        "text": "交叉存储器",
+        "labels": [
+          "STOR"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9094,
+    "created_at": "2024-08-18T03:16:55.069439Z",
+    "updated_at": "2024-08-18T03:16:55.069439Z",
+    "lead_time": 0.151
+  },
+  {
+    "text": "例如，IBM系列，它的指令格式有位半字的，有位单字的，还有位一个半字的",
+    "id": 7662,
+    "label": [
+      {
+        "start": 11,
+        "end": 15,
+        "text": "指令格式",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "text": "IBM",
+        "labels": [
+          "CORP"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 17,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 23,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 30,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 19,
+        "text": "字",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 25,
+        "text": "字",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 34,
+        "text": "字",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9095,
+    "created_at": "2024-08-18T03:16:56.690919Z",
+    "updated_at": "2024-08-18T03:16:56.691437Z",
+    "lead_time": 0.27
+  },
+  {
+    "text": "从主机接口逻辑考虑，应有足够快的传送速度向设备发送或从设备接收信息",
+    "id": 7663,
+    "label": [
+      {
+        "start": 26,
+        "end": 29,
+        "text": "从设备",
+        "labels": [
+          "IO"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "text": "接口",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "text": "主机",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9096,
+    "created_at": "2024-08-18T03:16:58.453852Z",
+    "updated_at": "2024-08-18T03:16:58.454606Z",
+    "lead_time": 0.202
+  },
+  {
+    "text": "应用程序是用户利用计算机来解决某些问题而编制的程序，如工程设计程序、数据处理程序、自动控制程序、企业管理程序、情报检索程序、科学计算程序等",
+    "id": 7664,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "应用程序",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "text": "计算机",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 33,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 40,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 47,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 54,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 61,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 68,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9097,
+    "created_at": "2024-08-18T03:17:00.452958Z",
+    "updated_at": "2024-08-18T03:17:00.452958Z",
+    "lead_time": 0.302
+  },
+  {
+    "text": "为了便于书写和阅读程序，每条指令通常用个或个英文缩写字母来表示",
+    "id": 7665,
+    "label": [
+      {
+        "start": 14,
+        "end": 16,
+        "text": "指令",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 27,
+        "text": "字",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9098,
+    "created_at": "2024-08-18T03:17:02.317912Z",
+    "updated_at": "2024-08-18T03:17:02.317912Z",
+    "lead_time": 0.187
+  },
+  {
+    "text": "同样，磁盘cache是为了弥补慢速磁盘和主存之间速度上的差异",
+    "id": 7666,
+    "label": [
+      {
+        "start": 3,
+        "end": 10,
+        "text": "磁盘cache",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "text": "磁盘",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "text": "主存",
+        "labels": [
+          "STOR"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9099,
+    "created_at": "2024-08-18T03:17:04.255706Z",
+    "updated_at": "2024-08-18T03:17:04.255706Z",
+    "lead_time": 0.211
+  },
+  {
+    "text": "因此，指令助记符还必须转换成与它们相对应的二进制操作码",
+    "id": 7667,
+    "label": [
+      {
+        "start": 24,
+        "end": 27,
+        "text": "操作码",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "text": "二进制",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "text": "指令",
+        "labels": [
+          "INST"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9100,
+    "created_at": "2024-08-18T03:17:05.976478Z",
+    "updated_at": "2024-08-18T03:17:05.976478Z",
+    "lead_time": 0.225
+  },
+  {
+    "text": "但计算机只“认识”机器语言而不认识这些文字、数字、符号，为此人们创造了一种程序，叫汇编器",
+    "id": 7668,
+    "label": [
+      {
+        "start": 41,
+        "end": 44,
+        "text": "汇编器",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "text": "机器语言",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 1,
+        "end": 4,
+        "text": "计算机",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 39,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 21,
+        "text": "字",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 24,
+        "text": "字",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9101,
+    "created_at": "2024-08-18T03:17:07.973965Z",
+    "updated_at": "2024-08-18T03:17:07.974488Z",
+    "lead_time": 0.307
+  },
+  {
+    "text": "较小加数的有效数位部分右移适当的位数，然后再在ALU中与另一个加数的有效数位部分相加",
+    "id": 7669,
+    "label": [
+      {
+        "start": 23,
+        "end": 26,
+        "text": "ALU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "text": "右移",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 17,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 38,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9102,
+    "created_at": "2024-08-18T03:17:10.396959Z",
+    "updated_at": "2024-08-18T03:17:10.396959Z",
+    "lead_time": 0.29
+  },
+  {
+    "text": "所谓算法语言，是指按实际需要规定好的一套基本符号及由这套基本符号构成程序的规则",
+    "id": 7670,
+    "label": [
+      {
+        "start": 2,
+        "end": 4,
+        "text": "算法",
+        "labels": [
+          "ALG"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 36,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9103,
+    "created_at": "2024-08-18T03:17:12.732495Z",
+    "updated_at": "2024-08-18T03:17:12.732495Z",
+    "lead_time": 0.269
+  },
+  {
+    "text": "rs字段指定第个源操作数寄存器，最多有个寄存器",
+    "id": 7671,
+    "label": [
+      {
+        "start": 12,
+        "end": 15,
+        "text": "寄存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "text": "源操作数",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "text": "寄存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "text": "字段",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9104,
+    "created_at": "2024-08-18T03:17:15.375677Z",
+    "updated_at": "2024-08-18T03:17:15.375677Z",
+    "lead_time": 0.282
+  },
+  {
+    "text": "当BEBE全有效时，即完成字存取",
+    "id": 7672,
+    "label": [
+      {
+        "start": 13,
+        "end": 14,
+        "text": "字",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9105,
+    "created_at": "2024-08-18T03:17:18.210243Z",
+    "updated_at": "2024-08-18T03:17:18.210243Z",
+    "lead_time": 0.221
+  },
+  {
+    "text": "图描述了一个在硬盘文件中的C语言程序，被转换成计算机上可运行的机器语言程序的四个步骤：C语言程序通过编译器首先被编译为汇编语言程序，然后通过汇编器汇编为机器语言的目标模块",
+    "id": 7673,
+    "label": [
+      {
+        "start": 31,
+        "end": 35,
+        "text": "机器语言",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 80,
+        "text": "机器语言",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 63,
+        "text": "汇编语言",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 73,
+        "text": "汇编器",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 53,
+        "text": "编译器",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 26,
+        "text": "计算机",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 58,
+        "text": "编译",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 37,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 48,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 65,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9106,
+    "created_at": "2024-08-18T03:17:20.988684Z",
+    "updated_at": "2024-08-18T03:17:20.988684Z",
+    "lead_time": 0.47
+  },
+  {
+    "text": "图表示一个具体的微指令结构，微指令字长为位，它由操作控制和顺序控制两大部分组成",
+    "id": 7674,
+    "label": [
+      {
+        "start": 8,
+        "end": 11,
+        "text": "微指令",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "text": "微指令字",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 21,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9107,
+    "created_at": "2024-08-18T03:17:24.265408Z",
+    "updated_at": "2024-08-18T03:17:24.265408Z",
+    "lead_time": 0.321
+  },
+  {
+    "text": "它是随着硬件和软件的不断发展而逐渐形成的一套软件系统，用来管理计算机资源如处理器，内存，外部设备和各种编译、应用程序和自动调度用户的作业程序，而使多个用户能有效地共用一套计算机系统",
+    "id": 7675,
+    "label": [
+      {
+        "start": 37,
+        "end": 40,
+        "text": "处理器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 90,
+        "text": "计算机系统",
+        "labels": [
+          "ARCH"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 48,
+        "text": "外部设备",
+        "labels": [
+          "IO"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 58,
+        "text": "应用程序",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "text": "计算机",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "text": "硬件",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 43,
+        "text": "内存",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 53,
+        "text": "编译",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "text": "软件",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "text": "软件",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 70,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9108,
+    "created_at": "2024-08-18T03:17:27.995963Z",
+    "updated_at": "2024-08-18T03:17:27.995963Z",
+    "lead_time": 1.06
+  },
+  {
+    "text": "每个磁盘映射一条带，一组逻辑连续条带称为条带集",
+    "id": 7676,
+    "label": [
+      {
+        "start": 2,
+        "end": 4,
+        "text": "磁盘",
+        "labels": [
+          "STOR"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9109,
+    "created_at": "2024-08-18T03:17:31.038143Z",
+    "updated_at": "2024-08-18T03:17:31.038143Z",
+    "lead_time": 0.301
+  },
+  {
+    "text": "表给出了MIPS指令的每一字段的值十进制",
+    "id": 7677,
+    "label": [
+      {
+        "start": 17,
+        "end": 20,
+        "text": "十进制",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 8,
+        "text": "MIPS",
+        "labels": [
+          "ARCH"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "text": "指令",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "text": "字段",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9110,
+    "created_at": "2024-08-18T03:17:33.658138Z",
+    "updated_at": "2024-08-18T03:17:33.658886Z",
+    "lead_time": 0.346
+  },
+  {
+    "text": "图中上面部分即为中断向量产生逻辑，它是由编码电路实现的",
+    "id": 7678,
+    "label": [
+      {
+        "start": 8,
+        "end": 12,
+        "text": "中断向量",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "text": "编码",
+        "labels": [
+          "TECH"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9111,
+    "created_at": "2024-08-18T03:17:36.501192Z",
+    "updated_at": "2024-08-18T03:17:36.501192Z",
+    "lead_time": 0.296
+  },
+  {
+    "text": "线性流水线由一系列串联的过程段组成，各个过程之间设有高速的缓冲寄存器L，以暂时保存上一过程子任务处理的结果",
+    "id": 7679,
+    "label": [
+      {
+        "start": 29,
+        "end": 34,
+        "text": "缓冲寄存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "text": "流水线",
+        "labels": [
+          "TECH"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9112,
+    "created_at": "2024-08-18T03:17:38.978942Z",
+    "updated_at": "2024-08-18T03:17:38.978942Z",
+    "lead_time": 0.183
+  },
+  {
+    "text": "Rn指明源寄存器地址位，共个寄存器",
+    "id": 7680,
+    "label": [
+      {
+        "start": 5,
+        "end": 8,
+        "text": "寄存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "text": "寄存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "text": "地址",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9113,
+    "created_at": "2024-08-18T03:17:42.847966Z",
+    "updated_at": "2024-08-18T03:17:42.847966Z",
+    "lead_time": 2.24
+  },
+  {
+    "text": "例如，最上面的线代表最高有效位，最下面的线代表最低有效位，因而图中正在传送的二进制数是",
+    "id": 7681,
+    "label": [
+      {
+        "start": 38,
+        "end": 41,
+        "text": "二进制",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "text": "有效位",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "text": "有效位",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9114,
+    "created_at": "2024-08-18T03:17:47.099880Z",
+    "updated_at": "2024-08-18T03:17:47.099880Z",
+    "lead_time": 2.602
+  },
+  {
+    "text": "假设cache读出时间为ns，主存读出时间为ns",
+    "id": 7682,
+    "label": [
+      {
+        "start": 15,
+        "end": 17,
+        "text": "主存",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "cache",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 11,
+        "text": "读出时间",
+        "labels": [
+          "PERF"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 21,
+        "text": "读出时间",
+        "labels": [
+          "PERF"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9115,
+    "created_at": "2024-08-18T03:17:50.424678Z",
+    "updated_at": "2024-08-18T03:17:50.424918Z",
+    "lead_time": 1.504
+  },
+  {
+    "text": "一个系统若有n级中断，在CPU中就有n个中断请求触发器，总称为中断请求寄存器；与之对应的有n个中断屏蔽触发器，总称为中断屏蔽寄存器",
+    "id": 7683,
+    "label": [
+      {
+        "start": 20,
+        "end": 24,
+        "text": "中断请求",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "text": "中断请求",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 51,
+        "text": "中断屏蔽",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 62,
+        "text": "中断屏蔽",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "text": "触发器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 54,
+        "text": "触发器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 38,
+        "text": "寄存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 65,
+        "text": "寄存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "text": "中断",
+        "labels": [
+          "TECH"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9116,
+    "created_at": "2024-08-18T03:17:54.224741Z",
+    "updated_at": "2024-08-18T03:17:54.225734Z",
+    "lead_time": 0.562
+  },
+  {
+    "text": "一般在某一级中断被响应后，要置“”关闭本级和优先权低于本级的中断屏蔽触发器，清“”开放更高级的中断屏蔽触发器，以此来实现正常的中断嵌套",
+    "id": 7684,
+    "label": [
+      {
+        "start": 30,
+        "end": 34,
+        "text": "中断屏蔽",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 51,
+        "text": "中断屏蔽",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 37,
+        "text": "触发器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 54,
+        "text": "触发器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "text": "中断",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 65,
+        "text": "中断",
+        "labels": [
+          "TECH"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9117,
+    "created_at": "2024-08-18T03:17:57.924555Z",
+    "updated_at": "2024-08-18T03:17:57.924555Z",
+    "lead_time": 0.419
+  },
+  {
+    "text": "微程序控制器原理框图微程序控制器原理框图如图所示",
+    "id": 7685,
+    "label": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "微程序控制器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 16,
+        "text": "微程序控制器",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9118,
+    "created_at": "2024-08-18T03:18:00.866138Z",
+    "updated_at": "2024-08-18T03:18:00.866138Z",
+    "lead_time": 0.329
+  },
+  {
+    "text": "与此同时，把包含W的由前后相继的个字所组成的一行数据送入cache，替换原来cache中的一行数据",
+    "id": 7686,
+    "label": [
+      {
+        "start": 28,
+        "end": 33,
+        "text": "cache",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 43,
+        "text": "cache",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 18,
+        "text": "字",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9119,
+    "created_at": "2024-08-18T03:18:03.714418Z",
+    "updated_at": "2024-08-18T03:18:03.714418Z",
+    "lead_time": 0.354
+  },
+  {
+    "text": "每一级中断不必单独设置现场保护区，各级中断现场可按其顺序放在同一个栈里",
+    "id": 7687,
+    "label": [
+      {
+        "start": 3,
+        "end": 5,
+        "text": "中断",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "text": "中断",
+        "labels": [
+          "TECH"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9120,
+    "created_at": "2024-08-18T03:18:06.572505Z",
+    "updated_at": "2024-08-18T03:18:06.572505Z",
+    "lead_time": 0.36
+  },
+  {
+    "text": "此时，地址将被看作无符号整数",
+    "id": 7688,
+    "label": [
+      {
+        "start": 3,
+        "end": 5,
+        "text": "地址",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9121,
+    "created_at": "2024-08-18T03:18:09.696918Z",
+    "updated_at": "2024-08-18T03:18:09.697913Z",
+    "lead_time": 0.31
+  },
+  {
+    "text": "之后，编码电路根据排上队的中断源输出信号IRi，产生一个预定的地址码，转向中断服务程序入口地址",
+    "id": 7689,
+    "label": [
+      {
+        "start": 37,
+        "end": 43,
+        "text": "中断服务程序",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "text": "中断源",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "text": "地址码",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "text": "编码",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 47,
+        "text": "地址",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "text": "IR",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9122,
+    "created_at": "2024-08-18T03:18:22.379614Z",
+    "updated_at": "2024-08-18T03:18:22.379614Z",
+    "lead_time": 10.258
+  },
+  {
+    "text": "可是用BCD码完成十进制数运算时，当和数大于时，必须对和数进行加修正",
+    "id": 7690,
+    "label": [
+      {
+        "start": 3,
+        "end": 7,
+        "text": "BCD码",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "text": "十进制",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9123,
+    "created_at": "2024-08-18T03:18:24.151454Z",
+    "updated_at": "2024-08-18T03:18:24.152472Z",
+    "lead_time": 0.207
+  },
+  {
+    "text": "时间局部性：最近被访问的信息很可能还要被访问",
+    "id": 7691,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "时间局部性",
+        "labels": [
+          "TECH"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9124,
+    "created_at": "2024-08-18T03:18:26.249685Z",
+    "updated_at": "2024-08-18T03:18:26.249685Z",
+    "lead_time": 1.033
+  },
+  {
+    "text": "根据测试结果，微程序或者转向公操作，或者转向第四条微指令",
+    "id": 7692,
+    "label": [
+      {
+        "start": 7,
+        "end": 10,
+        "text": "微程序",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "text": "微指令",
+        "labels": [
+          "INST"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9125,
+    "created_at": "2024-08-18T03:18:27.749839Z",
+    "updated_at": "2024-08-18T03:18:27.750839Z",
+    "lead_time": 0.225
+  },
+  {
+    "text": "计算机软件一般分为系统程序和应用程序两大类",
+    "id": 7693,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "计算机软件",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "text": "应用程序",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "text": "系统程序",
+        "labels": [
+          "PROG"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9126,
+    "created_at": "2024-08-18T03:18:29.901946Z",
+    "updated_at": "2024-08-18T03:18:29.901946Z",
+    "lead_time": 0.211
+  },
+  {
+    "text": "计算机中常用的数据表示格式有两种，一是定点格式，二是浮点格式",
+    "id": 7694,
+    "label": [
+      {
+        "start": 19,
+        "end": 21,
+        "text": "定点",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 3,
+        "text": "计算机",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9127,
+    "created_at": "2024-08-18T03:18:32.025429Z",
+    "updated_at": "2024-08-18T03:18:32.026431Z",
+    "lead_time": 0.237
+  },
+  {
+    "text": "中断描述符表IDT每一表项对应一个中断向量号，表项称为中断门描述符、陷阱门描述符",
+    "id": 7695,
+    "label": [
+      {
+        "start": 17,
+        "end": 22,
+        "text": "中断向量号",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "text": "中断",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 29,
+        "text": "中断",
+        "labels": [
+          "TECH"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9128,
+    "created_at": "2024-08-18T03:18:33.998214Z",
+    "updated_at": "2024-08-18T03:18:33.998214Z",
+    "lead_time": 0.226
+  },
+  {
+    "text": "由若干存储位元组成一个存储单元，然后再由许多存储单元组成一个存储器",
+    "id": 7696,
+    "label": [
+      {
+        "start": 11,
+        "end": 15,
+        "text": "存储单元",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 33,
+        "text": "存储器",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 26,
+        "text": "存储单元",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "text": "存储位元",
+        "labels": [
+          "STOR"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9129,
+    "created_at": "2024-08-18T03:18:35.859222Z",
+    "updated_at": "2024-08-18T03:18:35.859222Z",
+    "lead_time": 0.267
+  },
+  {
+    "text": "计数器的初值也可用程序来设置，这就可以方便地改变优先次序，显然这种灵活性是以增加线数为代价的",
+    "id": 7697,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "计数器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9130,
+    "created_at": "2024-08-18T03:18:38.034024Z",
+    "updated_at": "2024-08-18T03:18:38.034024Z",
+    "lead_time": 0.178
+  },
+  {
+    "text": "磁光盘的基本工作原理是：利用热磁效应写入数据：当激光束将磁光介质上的记录点加热到居里点温度以上时，外加磁场作用改变记录点的磁化方向，而不同的磁化方向可表示数字“”和“”",
+    "id": 7698,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "磁光盘",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 79,
+        "text": "字",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9131,
+    "created_at": "2024-08-18T03:18:40.055935Z",
+    "updated_at": "2024-08-18T03:18:40.056938Z",
+    "lead_time": 0.257
+  },
+  {
+    "text": "图示出了磁光盘操作的四种情况",
+    "id": 7699,
+    "label": [
+      {
+        "start": 4,
+        "end": 7,
+        "text": "磁光盘",
+        "labels": [
+          "STOR"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9132,
+    "created_at": "2024-08-18T03:18:41.920717Z",
+    "updated_at": "2024-08-18T03:18:41.920717Z",
+    "lead_time": 0.149
+  },
+  {
+    "text": "当CPU给定一个内存地址访问cache时，首先用d位区内块号找到cache的相应组，然后将主存地址高sd位区号部分与该组v行中的所有标记同时进行比较",
+    "id": 7700,
+    "label": [
+      {
+        "start": 8,
+        "end": 12,
+        "text": "内存地址",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "text": "cache",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 37,
+        "text": "cache",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 49,
+        "text": "主存地址",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 1,
+        "end": 4,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 30,
+        "text": "块号",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 26,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 53,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9133,
+    "created_at": "2024-08-18T03:18:43.931402Z",
+    "updated_at": "2024-08-18T03:18:43.931402Z",
+    "lead_time": 0.341
+  },
+  {
+    "text": "当CNi，或CNi且ABi为高电平时，才使Wi位为",
+    "id": 7701,
+    "label": [
+      {
+        "start": 14,
+        "end": 17,
+        "text": "高电平",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 24,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9134,
+    "created_at": "2024-08-18T03:18:46.086228Z",
+    "updated_at": "2024-08-18T03:18:46.086228Z",
+    "lead_time": 0.169
+  },
+  {
+    "text": "DMA方式以响应随机请求的方式，实现主存与IO设备间的快速数据传送",
+    "id": 7702,
+    "label": [
+      {
+        "start": 18,
+        "end": 20,
+        "text": "主存",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 25,
+        "text": "IO设备",
+        "labels": [
+          "IO"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 3,
+        "text": "DMA",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9135,
+    "created_at": "2024-08-18T03:18:48.279800Z",
+    "updated_at": "2024-08-18T03:18:48.279800Z",
+    "lead_time": 0.26
+  },
+  {
+    "text": "为了同步主方、从方的操作，必须制订定时协定",
+    "id": 7703,
+    "label": [
+      {
+        "start": 2,
+        "end": 4,
+        "text": "同步",
+        "labels": [
+          "TECH"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9136,
+    "created_at": "2024-08-18T03:18:50.084639Z",
+    "updated_at": "2024-08-18T03:18:50.085642Z",
+    "lead_time": 0.185
+  },
+  {
+    "text": "DMA技术的出现，使得外围设备可以通过DMA控制器直接访问内存，与此同时，CPU可以继续执行程序",
+    "id": 7704,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "DMA",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 25,
+        "text": "DMA控制器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 40,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "text": "外围设备",
+        "labels": [
+          "IO"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 31,
+        "text": "内存",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 48,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9137,
+    "created_at": "2024-08-18T03:18:51.987611Z",
+    "updated_at": "2024-08-18T03:18:51.987611Z",
+    "lead_time": 0.325
+  },
+  {
+    "text": "常用的三种偏移寻址是相对寻址、基址寻址、变址寻址",
+    "id": 7705,
+    "label": [
+      {
+        "start": 10,
+        "end": 14,
+        "text": "相对寻址",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "text": "基址寻址",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 24,
+        "text": "变址寻址",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 9,
+        "text": "偏移寻址",
+        "labels": [
+          "TECH"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9138,
+    "created_at": "2024-08-18T03:18:53.986514Z",
+    "updated_at": "2024-08-18T03:18:53.986514Z",
+    "lead_time": 0.175
+  },
+  {
+    "text": "当需要置换时，只需检查此二进制位状态即可：为换出A行，为换出B行，实现了保护新行的原则",
+    "id": 7706,
+    "label": [
+      {
+        "start": 12,
+        "end": 16,
+        "text": "二进制位",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9139,
+    "created_at": "2024-08-18T03:18:55.670937Z",
+    "updated_at": "2024-08-18T03:18:55.670937Z",
+    "lead_time": 0.13
+  },
+  {
+    "text": "SRAM用锁存器触发器作为存储元",
+    "id": 7707,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "SRAM",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "text": "触发器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "text": "存储元",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "text": "锁存器",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9140,
+    "created_at": "2024-08-18T03:18:57.617812Z",
+    "updated_at": "2024-08-18T03:18:57.617812Z",
+    "lead_time": 0.248
+  },
+  {
+    "text": "例如节中所讲的微指令即为水平型微指令",
+    "id": 7708,
+    "label": [
+      {
+        "start": 12,
+        "end": 18,
+        "text": "水平型微指令",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 10,
+        "text": "微指令",
+        "labels": [
+          "INST"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9141,
+    "created_at": "2024-08-18T03:18:59.748562Z",
+    "updated_at": "2024-08-18T03:18:59.748562Z",
+    "lead_time": 0.204
+  },
+  {
+    "text": "因此光栅扫描图形显示器的原理是：把对应于屏幕上每个像素的信息都用刷新存储器存起来，然后按地址顺序逐个地刷新显示在屏幕上",
+    "id": 7709,
+    "label": [
+      {
+        "start": 32,
+        "end": 37,
+        "text": "刷新存储器",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 11,
+        "text": "图形显示器",
+        "labels": [
+          "IO"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "光栅扫描",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 46,
+        "text": "地址",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9142,
+    "created_at": "2024-08-18T03:19:01.769041Z",
+    "updated_at": "2024-08-18T03:19:01.769041Z",
+    "lead_time": 0.278
+  },
+  {
+    "text": "目前的SRAM芯片采用双译码方式，以便组织更大的存储容量",
+    "id": 7710,
+    "label": [
+      {
+        "start": 24,
+        "end": 28,
+        "text": "存储容量",
+        "labels": [
+          "PERF"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "text": "SRAM",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "text": "芯片",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "text": "译码",
+        "labels": [
+          "INST"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9143,
+    "created_at": "2024-08-18T03:19:03.889506Z",
+    "updated_at": "2024-08-18T03:19:03.889506Z",
+    "lead_time": 0.321
+  },
+  {
+    "text": "这种译码方式的实质是采用了二级译码：将地址分成x向、y向两部分，第一级进行x向行译码和y向列译码的独立译码，然后在存储阵列中完成第二级的交叉译码",
+    "id": 7711,
+    "label": [
+      {
+        "start": 57,
+        "end": 61,
+        "text": "存储阵列",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 42,
+        "text": "行译码",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 48,
+        "text": "列译码",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "text": "译码",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "text": "译码",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 53,
+        "text": "译码",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 72,
+        "text": "译码",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "text": "地址",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9144,
+    "created_at": "2024-08-18T03:19:05.962584Z",
+    "updated_at": "2024-08-18T03:19:05.962584Z",
+    "lead_time": 0.258
+  },
+  {
+    "text": "对于非规格化浮点数，一般可以通过修改阶码同时右移动小数点位置的办法，使其变成规格化数的形式",
+    "id": 7712,
+    "label": [
+      {
+        "start": 18,
+        "end": 20,
+        "text": "阶码",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "text": "非规格化浮点数",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 42,
+        "text": "规格化数",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "text": "右移",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 29,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9145,
+    "created_at": "2024-08-18T03:19:08.299794Z",
+    "updated_at": "2024-08-18T03:19:08.299794Z",
+    "lead_time": 0.306
+  },
+  {
+    "text": "在计算机中表示图形，只需存储绘图命令和坐标点，没有必要存储每个像素点",
+    "id": 7713,
+    "label": [
+      {
+        "start": 1,
+        "end": 4,
+        "text": "计算机",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9146,
+    "created_at": "2024-08-18T03:19:10.212704Z",
+    "updated_at": "2024-08-18T03:19:10.212704Z",
+    "lead_time": 0.16
+  },
+  {
+    "text": "Pentium处理器的核心由下列四个主要部件组成：取指译码单元按顺序从Lcache中取程序指令，将它们译成一系列的微指令，并存入L指令cache中",
+    "id": 7714,
+    "label": [
+      {
+        "start": 65,
+        "end": 72,
+        "text": "指令cache",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 41,
+        "text": "cache",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 10,
+        "text": "处理器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 60,
+        "text": "微指令",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 29,
+        "text": "译码",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 47,
+        "text": "指令",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "text": "取指",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 45,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9147,
+    "created_at": "2024-08-18T03:19:12.195723Z",
+    "updated_at": "2024-08-18T03:19:12.195723Z",
+    "lead_time": 0.37
+  },
+  {
+    "text": "对于规格化浮点数，阶码E的范围变为，指数值e则为",
+    "id": 7715,
+    "label": [
+      {
+        "start": 5,
+        "end": 8,
+        "text": "浮点数",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "text": "规格化",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "text": "阶码",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9148,
+    "created_at": "2024-08-18T03:19:14.267764Z",
+    "updated_at": "2024-08-18T03:19:14.268790Z",
+    "lead_time": 0.217
+  },
+  {
+    "text": "预处理阶段由CPU执行几条输入输出指令，测试设备状态，向DMA控制器的设备地址寄存器中送入设备号并启动设备，向内存地址计数器中送入起始地址，向字计数器中送入交换的数据字个数",
+    "id": 7716,
+    "label": [
+      {
+        "start": 13,
+        "end": 19,
+        "text": "输入输出指令",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "text": "DMA控制器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 42,
+        "text": "地址寄存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 59,
+        "text": "内存地址",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 69,
+        "text": "起始地址",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 84,
+        "text": "数据字",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 62,
+        "text": "计数器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 75,
+        "text": "计数器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 72,
+        "text": "字",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9149,
+    "created_at": "2024-08-18T03:19:16.396879Z",
+    "updated_at": "2024-08-18T03:19:16.396879Z",
+    "lead_time": 0.414
+  },
+  {
+    "text": "在一条垂直型微指令中，一般只能完成一个操作，控制一两个信息传送通路，因此微指令的并行操作能力低，效率低",
+    "id": 7717,
+    "label": [
+      {
+        "start": 3,
+        "end": 9,
+        "text": "垂直型微指令",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 33,
+        "text": "传送通路",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 39,
+        "text": "微指令",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 42,
+        "text": "并行",
+        "labels": [
+          "TECH"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9150,
+    "created_at": "2024-08-18T03:19:18.546934Z",
+    "updated_at": "2024-08-18T03:19:18.547937Z",
+    "lead_time": 0.233
+  },
+  {
+    "text": "这些工作包括校验送入内存的数据是否正确；决定继续用DMA方式传送下去，还是结束传送；测试在传送过程中是否发生了错误等",
+    "id": 7718,
+    "label": [
+      {
+        "start": 25,
+        "end": 28,
+        "text": "DMA",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "text": "内存",
+        "labels": [
+          "STOR"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9151,
+    "created_at": "2024-08-18T03:19:20.379443Z",
+    "updated_at": "2024-08-18T03:19:20.379443Z",
+    "lead_time": 0.196
+  },
+  {
+    "text": "位的地址线可支持处理器GB的存储寻址空间",
+    "id": 7719,
+    "label": [
+      {
+        "start": 16,
+        "end": 20,
+        "text": "寻址空间",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "text": "处理器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "text": "地址线",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "text": "GB",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 1,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9152,
+    "created_at": "2024-08-18T03:19:22.132707Z",
+    "updated_at": "2024-08-18T03:19:22.132707Z",
+    "lead_time": 0.227
+  },
+  {
+    "text": "这是因为读操作和写操作是互斥的，不会同时发生",
+    "id": 7720,
+    "label": [
+      {
+        "start": 4,
+        "end": 7,
+        "text": "读操作",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "text": "写操作",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "text": "互斥",
+        "labels": [
+          "TECH"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9153,
+    "created_at": "2024-08-18T03:19:23.842714Z",
+    "updated_at": "2024-08-18T03:19:23.842714Z",
+    "lead_time": 0.216
+  },
+  {
+    "text": "选择型DMA控制器只增加少量硬件达到了为多个外围设备服务的目的，它特别适合数据传输率很高以至于接近内存存取速度的设备",
+    "id": 7721,
+    "label": [
+      {
+        "start": 14,
+        "end": 16,
+        "text": "硬件",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 9,
+        "text": "DMA控制器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 42,
+        "text": "数据传输率",
+        "labels": [
+          "PERF"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 26,
+        "text": "外围设备",
+        "labels": [
+          "IO"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 55,
+        "text": "存取速度",
+        "labels": [
+          "PERF"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 51,
+        "text": "内存",
+        "labels": [
+          "STOR"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9154,
+    "created_at": "2024-08-18T03:19:28.009186Z",
+    "updated_at": "2024-08-18T03:19:28.010779Z",
+    "lead_time": 2.523
+  },
+  {
+    "text": "cache和主存构成了系统的内存，而主存和辅存依靠辅助软硬件的支持支撑虚拟存储器工作",
+    "id": 7722,
+    "label": [
+      {
+        "start": 35,
+        "end": 40,
+        "text": "虚拟存储器",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 5,
+        "text": "cache",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 30,
+        "text": "硬件",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "text": "内存",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "text": "辅存",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "text": "主存",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "text": "主存",
+        "labels": [
+          "STOR"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9155,
+    "created_at": "2024-08-18T03:19:30.601673Z",
+    "updated_at": "2024-08-18T03:19:30.603581Z",
+    "lead_time": 0.946
+  },
+  {
+    "text": "例如五笔字型编码是最有影响的一种字形编码方法",
+    "id": 7723,
+    "label": [
+      {
+        "start": 16,
+        "end": 20,
+        "text": "字形编码",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "text": "编码",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "text": "字",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9156,
+    "created_at": "2024-08-18T03:19:32.825192Z",
+    "updated_at": "2024-08-18T03:19:32.825192Z",
+    "lead_time": 0.226
+  },
+  {
+    "text": "控制器中有个位的控制传送长度的寄存器，个位的地址寄存器",
+    "id": 7724,
+    "label": [
+      {
+        "start": 22,
+        "end": 27,
+        "text": "地址寄存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "text": "寄存器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 3,
+        "text": "控制器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 21,
+        "text": "位",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9157,
+    "created_at": "2024-08-18T03:19:34.918242Z",
+    "updated_at": "2024-08-18T03:19:34.919247Z",
+    "lead_time": 0.653
+  },
+  {
+    "text": "DRAM存储位元是基于电容器上的电荷量存储信息的，DRAM的读操作是破坏性的，读操作会使电容器上的电荷流失，因而读出后必须刷新",
+    "id": 7725,
+    "label": [
+      {
+        "start": 4,
+        "end": 8,
+        "text": "存储位元",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 4,
+        "text": "DRAM",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 29,
+        "text": "DRAM",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 33,
+        "text": "读操作",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 42,
+        "text": "读操作",
+        "labels": [
+          "INST"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9158,
+    "created_at": "2024-08-18T03:19:37.311204Z",
+    "updated_at": "2024-08-18T03:19:37.311204Z",
+    "lead_time": 0.638
+  },
+  {
+    "text": "这是因为，在一个指令周期中要顺序执行一系列微操作，需要设置若干节拍电位来定时",
+    "id": 7726,
+    "label": [
+      {
+        "start": 31,
+        "end": 35,
+        "text": "节拍电位",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "text": "指令周期",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "text": "微操作",
+        "labels": [
+          "INST"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9159,
+    "created_at": "2024-08-18T03:19:39.312703Z",
+    "updated_at": "2024-08-18T03:19:39.312703Z",
+    "lead_time": 0.637
+  },
+  {
+    "text": "键盘输入键盘是字符和数字的输入装置，无论字符输入还是图形输入，键盘是一种最基本的常用设备",
+    "id": 7727,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "键盘",
+        "labels": [
+          "IO"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "text": "键盘",
+        "labels": [
+          "IO"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 33,
+        "text": "键盘",
+        "labels": [
+          "IO"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9160,
+    "created_at": "2024-08-18T03:19:41.555825Z",
+    "updated_at": "2024-08-18T03:19:50.099570Z",
+    "lead_time": 5.256
+  },
+  {
+    "text": "这样，通道与CPU分时使用存储器，实现了CPU内部运算与IO设备的并行工作",
+    "id": 7728,
+    "label": [
+      {
+        "start": 13,
+        "end": 16,
+        "text": "存储器",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 32,
+        "text": "IO设备",
+        "labels": [
+          "IO"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 35,
+        "text": "并行",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "text": "通道",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9161,
+    "created_at": "2024-08-18T03:19:54.747130Z",
+    "updated_at": "2024-08-18T03:19:54.747130Z",
+    "lead_time": 1.185
+  },
+  {
+    "text": "当显示输出或打印输出时才检索字库，输出字模点阵，得到字形",
+    "id": 7729,
+    "label": [
+      {
+        "start": 14,
+        "end": 16,
+        "text": "字库",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "text": "点阵",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 20,
+        "text": "字",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9162,
+    "created_at": "2024-08-18T03:19:58.033786Z",
+    "updated_at": "2024-08-18T03:20:05.283015Z",
+    "lead_time": 4.795999999999999
+  },
+  {
+    "text": "由于CPU送出的访存地址要分行地址和列地址两次送入DRAM芯片，并且DRAM还要实现定时刷新，因而使用DRAM做系统主存的系统通常要通过存储器控制器或者DRAM控制器产生DRAM访问和刷新时序控制与地址信号",
+    "id": 7730,
+    "label": [
+      {
+        "start": 25,
+        "end": 29,
+        "text": "DRAM",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 74,
+        "text": "存储器控制器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 38,
+        "text": "DRAM",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 55,
+        "text": "DRAM",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 80,
+        "text": "DRAM",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 89,
+        "text": "DRAM",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 21,
+        "text": "列地址",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "text": "行地址",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 83,
+        "text": "控制器",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 31,
+        "text": "芯片",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "text": "地址",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 99,
+        "end": 101,
+        "text": "地址",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 60,
+        "text": "主存",
+        "labels": [
+          "STOR"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9163,
+    "created_at": "2024-08-18T03:20:10.347910Z",
+    "updated_at": "2024-08-18T03:20:10.347910Z",
+    "lead_time": 1.816
+  },
+  {
+    "text": "从外围设备得到设备的状态信息，形成并保存通道本身的状态信息，根据要求将这些状态信息送到存储器的指定单元，供CPU使用",
+    "id": 7731,
+    "label": [
+      {
+        "start": 43,
+        "end": 46,
+        "text": "存储器",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 1,
+        "end": 5,
+        "text": "外围设备",
+        "labels": [
+          "IO"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 56,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "text": "通道",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9164,
+    "created_at": "2024-08-18T03:20:14.796956Z",
+    "updated_at": "2024-08-18T03:20:14.796956Z",
+    "lead_time": 3.044
+  },
+  {
+    "text": "与显示器输出相比，打印输出可产生永久性记录，因此打印设备又称为硬拷贝设备",
+    "id": 7732,
+    "label": [
+      {
+        "start": 24,
+        "end": 28,
+        "text": "打印设备",
+        "labels": [
+          "IO"
+        ]
+      },
+      {
+        "start": 1,
+        "end": 4,
+        "text": "显示器",
+        "labels": [
+          "IO"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9165,
+    "created_at": "2024-08-18T03:20:16.328499Z",
+    "updated_at": "2024-08-18T03:20:16.328499Z",
+    "lead_time": 0.177
+  },
+  {
+    "text": "通常把CPU运行操作系统的管理程序的状态称为管态，而把CPU执行目的程序时的状态称为目态",
+    "id": 7733,
+    "label": [
+      {
+        "start": 22,
+        "end": 24,
+        "text": "管态",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "text": "操作系统",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 30,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 44,
+        "text": "目态",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 36,
+        "text": "程序",
+        "labels": [
+          "PROG"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9166,
+    "created_at": "2024-08-18T03:20:17.909647Z",
+    "updated_at": "2024-08-18T03:20:17.909647Z",
+    "lead_time": 0.217
+  },
+  {
+    "text": "多存储体配置为了进一步提高存取速度和减少内部操作冲突，SDRAM的存储体被拆分为多个相互独立的存储体bank",
+    "id": 7734,
+    "label": [
+      {
+        "start": 27,
+        "end": 32,
+        "text": "SDRAM",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "text": "存取速度",
+        "labels": [
+          "PERF"
+        ]
+      },
+      {
+        "start": 1,
+        "end": 4,
+        "text": "存储体",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 36,
+        "text": "存储体",
+        "labels": [
+          "STOR"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 50,
+        "text": "存储体",
+        "labels": [
+          "STOR"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9167,
+    "created_at": "2024-08-18T03:20:19.495610Z",
+    "updated_at": "2024-08-18T03:20:19.495610Z",
+    "lead_time": 0.168
+  },
+  {
+    "text": "操作码字段表征指令的操作特性与功能，而地址码字段指示操作数的地址",
+    "id": 7735,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "操作码",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 29,
+        "text": "操作数",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "text": "地址码",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 32,
+        "text": "地址",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "text": "指令",
+        "labels": [
+          "INST"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "text": "字段",
+        "labels": [
+          "DATA"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "text": "字段",
+        "labels": [
+          "DATA"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9168,
+    "created_at": "2024-08-18T03:20:21.630001Z",
+    "updated_at": "2024-08-18T03:20:21.630001Z",
+    "lead_time": 0.697
+  },
+  {
+    "text": "图为现代流水计算机的系统组成原理示意图",
+    "id": 7736,
+    "label": [
+      {
+        "start": 4,
+        "end": 9,
+        "text": "流水计算机",
+        "labels": [
+          "ARCH"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9169,
+    "created_at": "2024-08-18T03:20:23.195824Z",
+    "updated_at": "2024-08-18T03:20:23.195824Z",
+    "lead_time": 0.112
+  },
+  {
+    "text": "执行段的速度匹配问题，通常采用并行的运算部件以及部件流水线的工作方式来解决",
+    "id": 7737,
+    "label": [
+      {
+        "start": 26,
+        "end": 29,
+        "text": "流水线",
+        "labels": [
+          "TECH"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "text": "并行",
+        "labels": [
+          "TECH"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9170,
+    "created_at": "2024-08-18T03:20:25.008889Z",
+    "updated_at": "2024-08-18T03:20:25.009890Z",
+    "lead_time": 0.591
+  },
+  {
+    "text": "为了了解该语言的特点，列出了目前较流行的嵌入式处理机ARM的汇编语言，以举一反三",
+    "id": 7738,
+    "label": [
+      {
+        "start": 20,
+        "end": 26,
+        "text": "嵌入式处理机",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 34,
+        "text": "汇编语言",
+        "labels": [
+          "PROG"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9171,
+    "created_at": "2024-08-18T03:20:26.590133Z",
+    "updated_at": "2024-08-18T03:20:26.590133Z",
+    "lead_time": 0.233
+  },
+  {
+    "text": "但是它不是独立于CPU工作的，而是主机的一个部件",
+    "id": 7739,
+    "label": [
+      {
+        "start": 8,
+        "end": 11,
+        "text": "CPU",
+        "labels": [
+          "COMP"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "text": "主机",
+        "labels": [
+          "COMP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9172,
+    "created_at": "2024-08-18T03:20:28.234263Z",
+    "updated_at": "2024-08-18T03:20:28.234263Z",
+    "lead_time": 0.509
+  }
+]
