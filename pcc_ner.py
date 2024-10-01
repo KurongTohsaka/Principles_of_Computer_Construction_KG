@@ -12,7 +12,7 @@ Original file is located at
 
 ```
 """
-
+#
 # Commented out IPython magic to ensure Python compatibility.
 # %pip install modelscope
 # %pip install simplejson
